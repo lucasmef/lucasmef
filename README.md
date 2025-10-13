@@ -74,3 +74,63 @@ Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma 
     </td>
   </tr>
 </table>
+### Software de Design e Vídeo
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br><strong>Photoshop</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <br><strong>Illustrator</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
+      <br><strong>Premiere</strong>
+    </td>
+  </tr>
+</table>
+
+### Competências Profissionais
+- Estratégia Empresarial
+- Gestão Financeira e de Compras
+- Direção Criativa
+- Gestão de Projetos
+- Marketing e Comunicação
+- Vendas
+- Corretagem de Seguros
+- Seguros
+
+---
+
+## Formação e Certificados
+
+### Formação Acadêmica
+-   **Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029)
+-   **Graduação em Marketing** - Universidade do Sul de Santa Catarina (maio de 2020 - julho de 2022)
+
+### Certificações e Cursos
+-   **Python 3 do básico ao avançado**
+-   **Curso de Programação JAVASCRIPT + Projetos Reais**
+
+---
+
+## Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+## Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucasmef" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lucasmef@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
