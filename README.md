@@ -2,9 +2,9 @@
 
 ![Banner Ilustrativo de Tecnologia](https://media.giphy.com/media/zhJ55MqoYiVzi/giphy.gif)
 
-Minha jornada profissional é uma mistura de criatividade e tecnologia. [cite_start]Com uma carreira consolidada em **Marketing e Direção de Criação** [cite: 7][cite_start], estou agora em uma transição de carreira para a área de Tecnologia, cursando **Sistemas de Informação**[cite: 26]. Sou um entusiasta da tecnologia desde muito jovem, quando comecei a construir sites para empresas com WordPress e plataformas de e-commerce com Magento antes mesmo dos 16 anos.
+Minha jornada profissional é uma mistura de criatividade e tecnologia. Com uma carreira consolidada em **Marketing e Direção de Criação**, estou agora em uma transição de carreira para a área de Tecnologia, cursando **Sistemas de Informação**. Sou um entusiasta da tecnologia desde muito jovem, quando comecei a construir sites para empresas com WordPress e plataformas de e-commerce com Magento antes mesmo dos 16 anos.
 
-[cite_start]Hoje, meu objetivo é unir a visão estratégica de negócios [cite: 8] com soluções de software robustas e inovadoras.
+Hoje, meu objetivo é unir a visão estratégica de negócios com soluções de software robustas e inovadoras.
 
 ---
 
@@ -12,13 +12,13 @@ Minha jornada profissional é uma mistura de criatividade e tecnologia. [cite_st
 <summary><strong>👨‍💻 Mais Sobre Mim</strong></summary>
 <br>
 
-- [cite_start]🎓 Atualmente cursando o primeiro eixo de **Sistemas de Informação na PUC Minas**[cite: 26], onde busco construir uma base sólida em desenvolvimento de software e gestão de projetos de TI.
+- 🎓 Atualmente cursando o primeiro eixo de **Sistemas de Informação na PUC Minas**, onde busco construir uma base sólida em desenvolvimento de software e gestão de projetos de TI.
 
 - 🚀 Lidero como **aluno gestor** o projeto "Meu Negócio Fácil", uma oportunidade incrível de aplicar conceitos de desenvolvimento ágil e colaboração em equipe.
 
-- [cite_start]📈 Minha primeira graduação foi em **Marketing**[cite: 28], o que me proporcionou uma forte habilidade em estratégia, comunicação e entendimento das necessidades do cliente — competências que hoje aplico no desenvolvimento de soluções tecnológicas centradas no usuário.
+- 📈 Minha primeira graduação foi em **Marketing**, o que me proporcionou uma forte habilidade em estratégia, comunicação e entendimento das necessidades do cliente — competências que hoje aplico no desenvolvimento de soluções tecnológicas centradas no usuário.
 
-- [cite_start]💡 Tenho uma longa trajetória em direção de arte [cite: 22] [cite_start]e criação em agências de publicidade[cite: 6], onde desenvolvi projetos para grandes marcas, liderando equipes criativas.
+- 💡 Tenho uma longa trajetória em direção de arte e criação em agências de publicidade, onde desenvolvi projetos para grandes marcas, liderando equipes criativas.
 <br>
 </details>
 
@@ -27,12 +27,12 @@ Minha jornada profissional é uma mistura de criatividade e tecnologia. [cite_st
 <br>
 
 ### Formação Acadêmica
-- [cite_start]**Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029) [cite: 26]
-- [cite_start]**Graduação em Marketing** - Universidade do Sul de Santa Catarina (2020 - 2022) [cite: 28]
+- **Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029)
+- **Graduação em Marketing** - Universidade do Sul de Santa Catarina (2020 - 2022)
 
 ### Certificações e Cursos
-- [cite_start]**Python 3 do básico ao avançado** [cite: 10]
-- [cite_start]**Curso de Programação JAVASCRIPT + Projetos Reais** [cite: 11]
+- **Python 3 do básico ao avançado**
+- **Curso de Programação JAVASCRIPT + Projetos Reais**
 <br>
 </details>
 
@@ -52,9 +52,9 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 <summary><strong>💼 Experiência Profissional</strong></summary>
 <br>
 
-- **Founder** | [cite_start]Raquel Talita (outubro de 2010 - Presente) [cite: 16, 17]
-- **Diretor de Criação** | [cite_start]AMI Digital Farma (fevereiro de 2010 - fevereiro de 2011) [cite: 20, 21]
-- **Diretor de Arte** | [cite_start]AMI Digital Farma (novembro de 2007 - fevereiro de 2010) [cite: 23]
+- **Founder** | Raquel Talita (outubro de 2010 - Presente)
+- **Diretor de Criação** | AMI Digital Farma (fevereiro de 2010 - fevereiro de 2011)
+- **Diretor de Arte** | AMI Digital Farma (novembro de 2007 - fevereiro de 2010)
 <br>
 </details>
 
@@ -89,8 +89,8 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 </table>
 
 ### Competências Profissionais
-- [cite_start]Direção Criativa [cite: 7]
-- [cite_start]Estratégia Empresarial [cite: 8]
+- Direção Criativa
+- Estratégia Empresarial
 - Gestão de Projetos
 - Marketing e Comunicação
 <br>
