@@ -10,7 +10,7 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 -   **Tecnologia com visão de dono:** Por ser cofundador da Raquel Talita, eu conheço na prática as dores e os desafios de um gestor. Essa vivência me dá uma clareza diferente na hora de desenvolver software, pois penso não apenas no código, mas no impacto real que a solução trará para o negócio.
 
--   **Liderança que une e executa:** No projeto **Meu Negócio Fácil (https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**, atuo como **aluno gestor**, onde organizo a equipe com base em metodologias ágeis e também coloco a mão na massa no desenvolvimento. É a união da minha bagagem em liderança com minhas novas habilidades técnicas.
+-   **Liderança que une e executa:** No **[Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**, atuo como **aluno gestor**, onde organizo a equipe com base em metodologias ágeis e também coloco a mão na massa no desenvolvimento. É a união da minha bagagem em liderança com minhas novas habilidades técnicas.
 
 -   **Estratégia antes da ferramenta:** Minha graduação em **Marketing** e minha trajetória em direção de arte me ensinaram a pensar primeiro nas pessoas. Entender o comportamento e as necessidades do cliente é o que me guia para criar tecnologia que seja intuitiva e, acima de tudo, útil.
 
