@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Mendes
+# Prazer, sou o Lucas.
 
 Minha jornada profissional é uma mistura de criatividade e tecnologia. Com uma carreira consolidada em **Marketing e Direção de Criação**, estou agora em uma transição de carreira para a área de Tecnologia, cursando **Sistemas de Informação**.
 
