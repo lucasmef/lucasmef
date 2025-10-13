@@ -74,6 +74,7 @@ Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma 
     </td>
   </tr>
 </table>
+
 ### Software de Design e Vídeo
 <table>
   <tr>
