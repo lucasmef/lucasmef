@@ -39,13 +39,6 @@ Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma 
 
 ---
 
-## Formação
-
--   **Sistemas de Informação** (Cursando)
--   **Marketing** (Graduação)
--   **Publicidade e Propaganda** (Cursei 2,5 anos na Unisul, em meados de 2008)
-
----
 
 ## Habilidades e Tecnologias
 
@@ -108,8 +101,9 @@ Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma 
 ## Formação e Certificados
 
 ### Formação Acadêmica
--   **Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029)
--   **Graduação em Marketing** - Universidade do Sul de Santa Catarina (maio de 2020 - julho de 2022)
+-   **Graduação em Sistemas da Informação** - PUC Minas (2025-2029)
+-   **Graduação em Marketing** - Unisul (maio de 2020 - julho de 2022)
+-   **Graduação em Publicidade e Propaganda** - Unisul (janeiro de 2008 - junho de 2010) (incompleto)
 
 ### Certificações e Cursos
 -   **Python 3 do básico ao avançado**
