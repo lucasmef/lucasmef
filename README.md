@@ -1,4 +1,4 @@
-# Prazer, sou o Lucas Mendes
+# Prazer, sou o Lucas.
 
 Com mais de uma década de experiência à frente da minha própria empresa, atuando como empreendedor e líder criativo, decidi mergulhar de vez em outra grande paixão: a Tecnologia da Informação. Minha carreira sempre foi uma mistura de visão de negócios, criatividade e, agora, desenvolvimento de software.
 
