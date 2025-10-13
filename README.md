@@ -39,6 +39,14 @@ Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma 
 
 ---
 
+## Formação
+
+-   **Sistemas de Informação** (Cursando)
+-   **Marketing** (Graduação)
+-   **Publicidade e Propaganda** (Cursei 2,5 anos na Unisul, em meados de 2008)
+
+---
+
 ## Habilidades e Tecnologias
 
 ### Tecnologias e Linguagens
@@ -61,4 +69,8 @@ Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma 
       <br><strong>WordPress</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=magento" width="48" height="48" alt="Magento"
+      <img src="https://skillicons.dev/icons?i=magento" width="48" height="48" alt="Magento" />
+      <br><strong>Magento</strong>
+    </td>
+  </tr>
+</table>
