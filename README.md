@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Mendes Fernandes 👋
+# Olá, eu sou o Lucas Fernandes
 
 ![Banner Ilustrativo de Tecnologia](https://media.giphy.com/media/zhJ55MqoYiVzi/giphy.gif)
 
@@ -8,19 +8,19 @@ Sou um entusiasta da tecnologia desde muito jovem, quando comecei a construir si
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
-- 🎓 Atualmente cursando o primeiro eixo de **Sistemas de Informação na PUC Minas**, onde busco construir uma base sólida em desenvolvimento de software e gestão de projetos de TI.
+-  Atualmente cursando o primeiro eixo de **Sistemas de Informação na PUC Minas**, onde busco construir uma base sólida em desenvolvimento de software e gestão de projetos de TI.
 
-- 🚀 Lidero como **aluno gestor** o projeto "Meu Negócio Fácil", uma oportunidade incrível de aplicar conceitos de desenvolvimento ágil e colaboração em equipe.
+-  Lidero como **aluno gestor** o projeto "Meu Negócio Fácil", uma oportunidade incrível de aplicar conceitos de desenvolvimento ágil e colaboração em equipe.
 
-- 📈 Minha primeira graduação foi em **Marketing**, o que me proporcionou uma forte habilidade em estratégia, comunicação e entendimento das necessidades do cliente — competências que hoje aplico no desenvolvimento de soluções tecnológicas centradas no usuário.
+-  Minha primeira graduação foi em **Marketing**, o que me proporcionou uma forte habilidade em estratégia, comunicação e entendimento das necessidades do cliente — competências que hoje aplico no desenvolvimento de soluções tecnológicas centradas no usuário.
 
-- 💡 Tenho uma longa trajetória em direção de arte e criação em agências de publicidade, onde desenvolvi projetos para grandes marcas, liderando equipes criativas.
+-  Tenho uma longa trajetória em direção de arte e criação em agências de publicidade, onde desenvolvi projetos para grandes marcas, liderando equipes criativas.
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 ### Projeto Meu Negócio Fácil
 Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu Negócio Fácil"**. O objetivo é criar uma aplicação que auxilie pequenos empreendedores na gestão de seus negócios, unindo tecnologia e praticidade.
@@ -30,7 +30,7 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 
 ---
 
-## 🛠️ Habilidades e Tecnologias
+##  Habilidades e Tecnologias
 
 ### Tecnologias e Linguagens
 <table>
@@ -84,7 +84,7 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 
 ---
 
-## 🎓 Formação e Certificados
+##  Formação e Certificados
 
 ### Formação Acadêmica
 - **Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029)
@@ -96,7 +96,7 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 
 ---
 
-## 💼 Experiência Profissional
+##  Experiência Profissional
 
 - **Founder** | Raquel Talita (outubro de 2010 - Presente)
 - **Diretor de Criação** | AMI Digital Farma (fevereiro de 2010 - fevereiro de 2011)
@@ -104,7 +104,7 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 
 ---
 
-## 📈 Estatísticas do GitHub
+##  Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&langs_count=7&theme=dracula"/>
@@ -112,7 +112,7 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
 
 ---
 
-## 📫 Conecte-se Comigo
+##  Conecte-se Comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasmef" target="_blank">
