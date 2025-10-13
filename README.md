@@ -2,15 +2,13 @@
 
 ![Banner Ilustrativo de Tecnologia](https://media.giphy.com/media/zhJ55MqoYiVzi/giphy.gif)
 
-Minha jornada profissional é uma mistura de criatividade e tecnologia. Com uma carreira consolidada em **Marketing e Direção de Criação**, estou agora em uma transição de carreira para a área de Tecnologia, cursando **Sistemas de Informação**. Sou um entusiasta da tecnologia desde muito jovem, quando comecei a construir sites para empresas com WordPress e plataformas de e-commerce com Magento antes mesmo dos 16 anos.
+Minha jornada profissional é uma mistura de criatividade e tecnologia. Com uma carreira consolidada em **Marketing e Direção de Criação**, estou agora em uma transição de carreira para a área de Tecnologia, cursando **Sistemas de Informação**.
 
-Hoje, meu objetivo é unir a visão estratégica de negócios com soluções de software robustas e inovadoras.
+Sou um entusiasta da tecnologia desde muito jovem, quando comecei a construir sites para empresas com WordPress antes mesmo dos 16 anos. Mais recentemente, há poucos anos, expandi minha atuação técnica construindo plataformas de e-commerce com Magento. Hoje, meu objetivo é unir a visão estratégica de negócios com o desenvolvimento de soluções de software robustas e inovadoras.
 
 ---
 
-<details>
-<summary><strong>👨‍💻 Mais Sobre Mim</strong></summary>
-<br>
+## 👨‍💻 Sobre Mim
 
 - 🎓 Atualmente cursando o primeiro eixo de **Sistemas de Informação na PUC Minas**, onde busco construir uma base sólida em desenvolvimento de software e gestão de projetos de TI.
 
@@ -19,50 +17,22 @@ Hoje, meu objetivo é unir a visão estratégica de negócios com soluções de 
 - 📈 Minha primeira graduação foi em **Marketing**, o que me proporcionou uma forte habilidade em estratégia, comunicação e entendimento das necessidades do cliente — competências que hoje aplico no desenvolvimento de soluções tecnológicas centradas no usuário.
 
 - 💡 Tenho uma longa trajetória em direção de arte e criação em agências de publicidade, onde desenvolvi projetos para grandes marcas, liderando equipes criativas.
-<br>
-</details>
 
-<details>
-<summary><strong>🎓 Formação e Certificados</strong></summary>
-<br>
+---
 
-### Formação Acadêmica
-- **Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029)
-- **Graduação em Marketing** - Universidade do Sul de Santa Catarina (2020 - 2022)
-
-### Certificações e Cursos
-- **Python 3 do básico ao avançado**
-- **Curso de Programação JAVASCRIPT + Projetos Reais**
-<br>
-</details>
-
-<details>
-<summary><strong>🚀 Projetos em Destaque</strong></summary>
-<br>
+## 🚀 Projetos em Destaque
 
 ### Projeto Meu Negócio Fácil
 Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu Negócio Fácil"**. O objetivo é criar uma aplicação que auxilie pequenos empreendedores na gestão de seus negócios, unindo tecnologia e praticidade.
 
 - **Minha Função:** Aluno Gestor, responsável por organizar as tarefas da equipe e garantir o alinhamento do projeto.
 - **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
-<br>
-</details>
 
-<details>
-<summary><strong>💼 Experiência Profissional</strong></summary>
-<br>
+---
 
-- **Founder** | Raquel Talita (outubro de 2010 - Presente)
-- **Diretor de Criação** | AMI Digital Farma (fevereiro de 2010 - fevereiro de 2011)
-- **Diretor de Arte** | AMI Digital Farma (novembro de 2007 - fevereiro de 2010)
-<br>
-</details>
+## 🛠️ Habilidades e Tecnologias
 
-<details>
-<summary><strong>🛠️ Habilidades e Tecnologias</strong></summary>
-<br>
-
-### Tecnologias
+### Tecnologias e Linguagens
 <table>
   <tr>
     <td align="center" width="96">
@@ -88,13 +58,49 @@ Atualmente, estou atuando como aluno gestor no desenvolvimento do projeto **"Meu
   </tr>
 </table>
 
+### Software de Design e Vídeo
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br><strong>Photoshop</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <br><strong>Illustrator</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
+      <br><strong>Premiere</strong>
+    </td>
+  </tr>
+</table>
+
 ### Competências Profissionais
 - Direção Criativa
 - Estratégia Empresarial
 - Gestão de Projetos
 - Marketing e Comunicação
-<br>
-</details>
+
+---
+
+## 🎓 Formação e Certificados
+
+### Formação Acadêmica
+- **Bacharelado em Sistemas da Informação** - PUC Minas (2025-2029)
+- **Graduação em Marketing** - Universidade do Sul de Santa Catarina (2020 - 2022)
+
+### Certificações e Cursos
+- **Python 3 do básico ao avançado**
+- **Curso de Programação JAVASCRIPT + Projetos Reais**
+
+---
+
+## 💼 Experiência Profissional
+
+- **Founder** | Raquel Talita (outubro de 2010 - Presente)
+- **Diretor de Criação** | AMI Digital Farma (fevereiro de 2010 - fevereiro de 2011)
+- **Diretor de Arte** | AMI Digital Farma (novembro de 2007 - fevereiro de 2010)
 
 ---
 
