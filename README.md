@@ -19,10 +19,10 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 ## Projetos em Destaque
 
 ### Projeto Meu Negócio Fácil
-Estou totalmente envolvido no desenvolvimento do **"Meu Negócio Fácil"**, uma aplicação pensada para simplificar a gestão de pequenos negócios.
+Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**. O objetivo é criar uma aplicação que auxilie pequenos empreendedores na gestão de seus negócios, unindo tecnologia e praticidade.
 
--   **Minha Função:** Atuo em duas frentes: como desenvolvedor na equipe e como aluno gestor, organizando as tarefas e mantendo o projeto alinhado com nossos objetivos.
--   **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
+- **Minha Função:** Além de programar com a equipe, atuo como **aluno gestor**, facilitando a organização das tarefas e garantindo o alinhamento do projeto.
+- **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
 
 ---
 
