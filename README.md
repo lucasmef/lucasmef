@@ -84,7 +84,10 @@ Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**.
       <br><strong>Premiere</strong>
     </td>
   </tr>
-</table>
+<strong>Premiere</strong> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+
+
+<strong>Figma</strong> </td> </tr> </table>
 
 ### Competências Profissionais
 - Estratégia Empresarial
