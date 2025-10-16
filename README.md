@@ -82,9 +82,9 @@ Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**.
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
       <br><strong>Premiere</strong>
-    </td>
+    </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
   </tr>
-<strong>Premiere</strong> </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+
 
 
 <strong>Figma</strong> </td> </tr> </table>
