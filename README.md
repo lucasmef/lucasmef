@@ -8,9 +8,9 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 ## Minha Perspectiva
 
--   **Tecnologia com visão de dono:** Por ser cofundador da Raquel Talita, eu conheço na prática as dores e os desafios de um gestor. Essa vivência me dá uma clareza diferente na hora de desenvolver software, pois penso não apenas no código, mas no impacto real que a solução trará para o negócio.
+-   **Tecnologia com visão de dono:** Por ser cofundador da Raquel Talita, conheço na prática as dores e os desafios de um gestor. Essa vivência me dá uma clareza diferente na hora de desenvolver software, pois penso não apenas no código, mas no impacto real que a solução trará para o negócio.
 
--   **Liderança que une e executa:** No **[Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**, atuo como **aluno gestor**, onde organizo a equipe com base em metodologias ágeis e também coloco a mão na massa no desenvolvimento. É a união da minha bagagem em liderança com minhas novas habilidades técnicas.
+-   **Liderança Ágil (Scrum Master):** No **[Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**, atuo facilitando o fluxo de trabalho da equipe. Aplico metodologias ágeis para garantir entregas contínuas, removendo impedimentos e garantindo que o time de desenvolvimento tenha clareza sobre os objetivos do produto.
 
 -   **Estratégia antes da ferramenta:** Minha graduação em **Marketing** e minha trajetória em direção de arte me ensinaram a pensar primeiro nas pessoas. Entender o comportamento e as necessidades do cliente é o que me guia para criar tecnologia que seja intuitiva e, acima de tudo, útil.
 
@@ -18,10 +18,20 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 ## Projetos em Destaque
 
-### Projeto Meu Negócio Fácil
-Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**. O objetivo é criar uma aplicação que auxilie pequenos empreendedores na gestão de seus negócios, unindo tecnologia e praticidade.
+### 🚀 Projeto Meu Negócio Fácil
+Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**. O objetivo é criar uma aplicação que auxilie pequenos empreendedores na gestão de seus negócios, unindo tecnologia e praticidade. Minha atuação neste projeto é híbrida, cobrindo tanto a gestão ágil quanto a implementação técnica.
 
-- **Minha Função:** Além de programar com a equipe, atuo como **aluno gestor**, facilitando a organização das tarefas e garantindo o alinhamento do projeto.
+**Minhas Funções:**
+
+* **Scrum Master:**
+    * Liderança das cerimônias ágeis (Dailies, Planning e Reviews).
+    * Gestão do Backlog e organização das Sprints.
+    * Facilitação da comunicação entre os membros da equipe para garantir o alinhamento e o cumprimento dos prazos acadêmicos e técnicos.
+* **Programador (Developer):**
+    * Desenvolvimento de funcionalidades essenciais do sistema (mencionar Front-end/Back-end se desejar).
+    * Colaboração ativa no repositório via Git/GitHub, garantindo boas práticas de versionamento.
+    * Resolução de problemas lógicos e implementação de regras de negócio no código.
+
 - **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
 
 ---
@@ -29,16 +39,15 @@ Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**.
 ## Experiência Profissional
 
 -   **Founder** | Raquel Talita (outubro de 2010 - Presente)
-    -   Como cofundador da empresa que criei com minha esposa, sou responsável pela gestão financeira, compras, marketing e pela estratégia geral do negócio.
+    -   Como cofundador, sou responsável pela gestão financeira, compras, marketing e pela estratégia geral do negócio.
 -   **Corretor de Seguros** | Autônomo (fevereiro de 2011 - dezembro de 2012)
-    -   Atuei de forma autônoma na corretagem de seguros, o que me ajudou a aprimorar minhas habilidades de negociação e vendas.
+    -   Atuação autônoma na corretagem de seguros, aprimorando habilidades de negociação e vendas consultivas.
 -   **Carreira na AMI Digital Farma**
     -   **Diretor Geral** (janeiro de 2010 - fevereiro de 2011)
     -   **Diretor de Criação** (fevereiro de 2009 - janeiro de 2010)
     -   **Diretor de Arte** (novembro de 2007 - fevereiro de 2009)
 
 ---
-
 
 ## Habilidades e Tecnologias
 
@@ -68,7 +77,7 @@ Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**.
   </tr>
 </table>
 
-### Software de Design e Vídeo
+### Software de Design e Prototipagem
 <table>
   <tr>
     <td align="center" width="96">
@@ -86,21 +95,17 @@ Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**.
       <td align="center" width="96"> 
           <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
           <br><strong>Figma</strong>
+      </td>
   </tr>
-
-
-
-<strong>Figma</strong> </td> </tr> </table>
+</table>
 
 ### Competências Profissionais
+- Scrum & Metodologias Ágeis
 - Estratégia Empresarial
 - Gestão Financeira e de Compras
 - Direção Criativa
 - Gestão de Projetos
 - Marketing e Comunicação
-- Vendas
-- Corretagem de Seguros
-- Seguros
 
 ---
 
