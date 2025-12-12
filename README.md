@@ -20,6 +20,11 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores. Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Meus_Commits-150+-2ea44f?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Stack-Full_Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white">
+</p>
+
 **Desenvolvedor (Full Code & Arquitetura):**
 * **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
 * **Dashboard Gerencial:** Desenvolvimento de painel inicial com indicadores visuais de desempenho do negócio.
