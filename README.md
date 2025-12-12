@@ -28,7 +28,7 @@ Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informaçã
 * **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação de JSON.
 
 **Liderança Ágil (Scrum Master):**
-* Responsável por garantir a entrega do projeto dentro do prazo acadêmico, gerenciando o backlog no **Trello**, facilitando as cerimônias (Dailies/Planning) e assegurando o alinhamento técnico da equipe.
+* Atuei como **líder do projeto**, orquestrando integralmente o ciclo de desenvolvimento. Fui o responsável central por alinhar a estratégia com a execução técnica, gerenciando o backlog e conduzindo o time para garantir as entregas dentro do prazo.
 
 - **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
 
