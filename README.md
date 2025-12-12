@@ -16,23 +16,112 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projeto em Destaque: Meu Negócio Fácil
 
-### 🚀 Projeto Meu Negócio Fácil
-Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**. O objetivo é criar uma aplicação que auxilie pequenos empreendedores na gestão de seus negócios, unindo tecnologia e praticidade. Minha atuação neste projeto é híbrida, cobrindo tanto a gestão ágil quanto a implementação técnica.
+Atualmente, estou liderando o desenvolvimento do **Meu Negócio Fácil**, um ERP gratuito e intuitivo focado em microempreendedores (MEIs) que ainda usam caderno para gestão. Minha atuação neste projeto é híbrida, cobrindo tanto a gestão ágil quanto a implementação técnica de funcionalidades críticas.
 
 **Minhas Funções:**
 
-* **Scrum Master:**
+* **Scrum Master (Liderança Ágil):**
+    * Gerenciamento do ciclo de vida do projeto utilizando **Kanban no Trello**.
     * Liderança das cerimônias ágeis (Dailies, Planning e Reviews).
-    * Gestão do Backlog e organização das Sprints.
-    * Facilitação da comunicação entre os membros da equipe para garantir o alinhamento e o cumprimento dos prazos acadêmicos e técnicos.
-* **Programador (Developer):**
-    * Desenvolvimento de funcionalidades essenciais do sistema (mencionar Front-end/Back-end se desejar).
-    * Colaboração ativa no repositório via Git/GitHub, garantindo boas práticas de versionamento.
-    * Resolução de problemas lógicos e implementação de regras de negócio no código.
+    * Definição de Personas e Histórias de Usuário para garantir a aderência ao público-alvo.
+    * Facilitação da comunicação da equipe, garantindo o cumprimento dos prazos acadêmicos e técnicos.
+
+* **Desenvolvedor (Full Code):**
+    * **Autenticação:** Implementação completa do sistema de Cadastro de Usuários e Login (Front e Lógica).
+    * **Core do Sistema:** Desenvolvimento da lógica de **Faturamento de Produtos** (PDV) e **Faturamento de Serviços** (incluindo gestão de insumos).
+    * **Inteligência de Dados:** Implementação dos relatórios de vendas e filtros dinâmicos.
+    * **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação de JSON.
 
 - **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
+
+---
+
+## 📚 Aprendizado Contínuo e Certificações
+
+Sou um estudante voraz. Recentemente, recebi o reconhecimento **"Lenda do Aprendizado"** da Udemy, ficando entre os **3% dos alunos com mais horas estudadas** (mais de 9.800 minutos dedicados).
+
+### 🚧 Em andamento (Foco Atual)
+
+> **Curso de JavaScript e TypeScript do básico ao avançado (Full Stack)**
+> *Um mergulho profundo no ecossistema JS moderno para Front-end e Back-end.*
+>
+> **O que estou dominando:**
+> * **Stack Principal:** Node.js, Express, React (Hooks, Redux) e Next.js.
+> * **Banco de Dados:** SQL (MySQL/MariaDB) e NoSQL (MongoDB), utilizando Sequelize e Mongoose.
+> * **Ferramentas & DevOps:** Webpack, Babel, Deploy em Linux (GCP + NGINX), Git avançado e SSL.
+> * **Engenharia de Software:** TypeScript, Design Patterns (GoF), Princípios SOLID, Testes Automatizados (Jest) e API Rest com JWT.
+
+### ✅ Concluídos
+
+| Curso | Detalhes | Carga Horária |
+| :--- | :--- | :--- |
+| **Python 3 do Básico ao Avançado** | Foco em Lógica de Programação, Orientação a Objetos, Procedural e criação de projetos reais. Instrutores: Luiz Otávio Miranda. | **141 Horas** |
+| **Programação JavaScript + Projetos** | Foco em manipulação de DOM, ES6+ e desenvolvimento de aplicações web interativas. Instrutor: Andre Iacono. | **8 Horas** |
+
+---
+
+## Habilidades e Tecnologias
+
+### Tecnologias e Linguagens (Foco e Estudo)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+      <br><strong>Next.js</strong>
+    </td>
+  </tr>
+</table>
+
+### Ferramentas & Design
+<table>
+  <tr>
+      <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+          <br><strong>Figma</strong>
+      </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br><strong>Photoshop</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <br><strong>Illustrator</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br><strong>WordPress</strong>
+    </td>
+  </tr>
+</table>
+
+### Competências Profissionais
+- Scrum & Metodologias Ágeis
+- Estratégia Empresarial
+- Gestão Financeira e de Compras
+- Direção Criativa & UI Design
+- Marketing e Comunicação
 
 ---
 
@@ -49,76 +138,11 @@ Atualmente, estou atuando no desenvolvimento do projeto **Meu Negócio Fácil**.
 
 ---
 
-## Habilidades e Tecnologias
+## Formação Acadêmica
 
-### Tecnologias e Linguagens
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br><strong>WordPress</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=magento" width="48" height="48" alt="Magento" />
-      <br><strong>Magento</strong>
-    </td>
-  </tr>
-</table>
-
-### Software de Design e Prototipagem
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br><strong>Photoshop</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-      <br><strong>Illustrator</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
-      <br><strong>Premiere</strong>
-    </td> 
-      <td align="center" width="96"> 
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-          <br><strong>Figma</strong>
-      </td>
-  </tr>
-</table>
-
-### Competências Profissionais
-- Scrum & Metodologias Ágeis
-- Estratégia Empresarial
-- Gestão Financeira e de Compras
-- Direção Criativa
-- Gestão de Projetos
-- Marketing e Comunicação
-
----
-
-## Formação e Certificados
-
-### Formação Acadêmica
--   **Graduação em Sistemas da Informação** - PUC Minas (2025-2029)
--   **Graduação em Marketing** - Unisul (maio de 2020 - julho de 2022)
--   **Graduação em Publicidade e Propaganda** - Unisul (janeiro de 2008 - junho de 2010) (incompleto)
-
-### Certificações e Cursos
--   **Python 3 do básico ao avançado**
--   **Curso de Programação JAVASCRIPT + Projetos Reais**
+-   **Graduação em Sistemas da Informação** - PUC Minas (2025 - 2029)
+-   **Graduação em Marketing** - Unisul (2020 - 2022)
+-   **Graduação em Publicidade e Propaganda** - Unisul (2008 - 2010) (incompleto)
 
 ---
 
