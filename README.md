@@ -2,7 +2,7 @@
 
 Com mais de uma década de experiência à frente da minha própria empresa, atuando como empreendedor e líder criativo, decidi mergulhar de vez em outra grande paixão: a Tecnologia da Informação. Minha carreira sempre foi uma mistura de visão de negócios, criatividade e, agora, desenvolvimento de software.
 
-Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites em WordPress e, mais tarde, explorando o e-commerce com Magento. Hoje, como estudante de **Sistemas de Informação**, meu foco é usar tudo o que aprendi sobre o ciclo de vida de um negócio — do financeiro ao marketing — para construir soluções que realmente façam a diferença e ajudem outras empresas a crescer.
+Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites em WordPress e, mais tarde, explorando o e-commerce com Magento. Hoje, como estudante de **Sistemas de Informação**, meu foco é usar tudo o que aprendi sobre o ciclo de vida de um negócio -  do financeiro ao marketing -  para construir soluções que realmente façam a diferença e ajudem outras empresas a crescer.
 
 ---
 
@@ -10,29 +10,25 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 -   **Tecnologia com visão de dono:** Por ser cofundador da Raquel Talita, conheço na prática as dores e os desafios de um gestor. Essa vivência me dá uma clareza diferente na hora de desenvolver software, pois penso não apenas no código, mas no impacto real que a solução trará para o negócio.
 
--   **Liderança Ágil (Scrum Master):** No **[Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**, atuo facilitando o fluxo de trabalho da equipe. Aplico metodologias ágeis para garantir entregas contínuas, removendo impedimentos e garantindo que o time de desenvolvimento tenha clareza sobre os objetivos do produto.
+-   **Liderança Ágil (Scrum Master):** Utilizo minha experiência prática para facilitar fluxos de trabalho. Aplico metodologias ágeis para garantir entregas contínuas, removendo impedimentos e garantindo que o time de desenvolvimento tenha clareza sobre os objetivos do produto.
 
 -   **Estratégia antes da ferramenta:** Minha graduação em **Marketing** e minha trajetória em direção de arte me ensinaram a pensar primeiro nas pessoas. Entender o comportamento e as necessidades do cliente é o que me guia para criar tecnologia que seja intuitiva e, acima de tudo, útil.
 
 ---
 
-## 🚀 Projeto em Destaque: Meu Negócio Fácil
+## 🚀 Projeto Entregue: Meu Negócio Fácil
 
-Atualmente, estou liderando o desenvolvimento do **Meu Negócio Fácil**, um ERP gratuito e intuitivo focado em microempreendedores (MEIs) que ainda usam caderno para gestão. Minha atuação neste projeto é híbrida, cobrindo tanto a gestão ágil quanto a implementação técnica de funcionalidades críticas.
+Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores (MEIs). Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
 
-**Minhas Funções:**
+**Desenvolvedor (Full Code & Arquitetura):**
+* **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
+* **Dashboard Gerencial:** Desenvolvimento de painel inicial com indicadores visuais de desempenho do negócio.
+* **Relatórios Inteligentes:** Criação da lógica para geração de relatórios detalhados de Produtos e Serviços, permitindo análise granular das vendas.
+* **Core do Sistema:** Desenvolvimento completo da lógica de **Faturamento** (PDV), gestão de insumos e implementação de sistema de Autenticação e Login.
+* **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação de JSON.
 
-* **Scrum Master (Liderança Ágil):**
-    * Gerenciamento do ciclo de vida do projeto utilizando **Kanban no Trello**.
-    * Liderança das cerimônias ágeis (Dailies, Planning e Reviews).
-    * Definição de Personas e Histórias de Usuário para garantir a aderência ao público-alvo.
-    * Facilitação da comunicação da equipe, garantindo o cumprimento dos prazos acadêmicos e técnicos.
-
-* **Desenvolvedor (Full Code):**
-    * **Autenticação:** Implementação completa do sistema de Cadastro de Usuários e Login (Front e Lógica).
-    * **Core do Sistema:** Desenvolvimento da lógica de **Faturamento de Produtos** (PDV) e **Faturamento de Serviços** (incluindo gestão de insumos).
-    * **Inteligência de Dados:** Implementação dos relatórios de vendas e filtros dinâmicos.
-    * **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação de JSON.
+**Liderança Ágil (Scrum Master):**
+* Responsável por garantir a entrega do projeto dentro do prazo acadêmico, gerenciando o backlog no **Trello**, facilitando as cerimônias (Dailies/Planning) e assegurando o alinhamento técnico da equipe.
 
 - **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
 
