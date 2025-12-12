@@ -23,7 +23,7 @@ Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informaçã
 **Desenvolvedor (Full Code & Arquitetura):**
 * **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
 * **Dashboard Gerencial:** Desenvolvimento de painel inicial com indicadores visuais de desempenho do negócio.
-* **Relatórios Inteligentes:** Criação da lógica para geração de relatórios detalhados de Produtos e Serviços, permitindo análise granular das vendas.
+* **Relatórios Inteligentes:** Criação da lógica para geração de relatórios detalhados de Produtos e Serviços e Faturamento.
 * **Core do Sistema:** Desenvolvimento completo da lógica de **Faturamento** (PDV), gestão de insumos e implementação de sistema de Autenticação e Login.
 * **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação de JSON.
 
