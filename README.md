@@ -21,6 +21,14 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores. Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
 
 <p align="left">
+  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-SI&repo=pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil&theme=dracula&show_owner=true" alt="Readme Card do Projeto" />
+  </a>
+</p>
+
+- **Histórico:** [Ver meus commits neste projeto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef)
+
+<p align="left">
   <img src="https://img.shields.io/badge/Meus_Commits-150+-2ea44f?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Stack-Full_Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white">
 </p>
