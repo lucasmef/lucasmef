@@ -16,9 +16,9 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 ---
 
-## 🚀 Projeto Entregue: Meu Negócio Fácil
+## Projeto Entregue: Meu Negócio Fácil
 
-Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores (MEIs). Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
+Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores. Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
 
 **Desenvolvedor (Full Code & Arquitetura):**
 * **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
@@ -34,11 +34,11 @@ Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informaçã
 
 ---
 
-## 📚 Aprendizado Contínuo e Certificações
+## Aprendizado Contínuo e Certificações
 
 Sou um estudante voraz. Recentemente, recebi o reconhecimento **"Lenda do Aprendizado"** da Udemy, ficando entre os **3% dos alunos com mais horas estudadas** (mais de 9.800 minutos dedicados).
 
-### 🚧 Em andamento (Foco Atual)
+### Em andamento (Foco Atual)
 
 > **Curso de JavaScript e TypeScript do básico ao avançado (Full Stack)**
 > *Um mergulho profundo no ecossistema JS moderno para Front-end e Back-end.*
@@ -49,7 +49,7 @@ Sou um estudante voraz. Recentemente, recebi o reconhecimento **"Lenda do Aprend
 > * **Ferramentas & DevOps:** Webpack, Babel, Deploy em Linux (GCP + NGINX), Git avançado e SSL.
 > * **Engenharia de Software:** TypeScript, Design Patterns (GoF), Princípios SOLID, Testes Automatizados (Jest) e API Rest com JWT.
 
-### ✅ Concluídos
+### Concluídos
 
 | Curso | Detalhes | Carga Horária |
 | :--- | :--- | :--- |
@@ -144,7 +144,7 @@ Sou um estudante voraz. Recentemente, recebi o reconhecimento **"Lenda do Aprend
 
 ## Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
