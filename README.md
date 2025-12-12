@@ -20,18 +20,8 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores. Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
 
-<p align="left">
-  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-SI&repo=pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil&theme=dracula&show_owner=true" alt="Readme Card do Projeto" />
-  </a>
-</p>
 
-- **Histórico:** [Ver meus commits neste projeto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Meus_Commits-150+-2ea44f?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Stack-Full_Stack-blueviolet?style=for-the-badge&logo=react&logoColor=white">
-</p>
 
 **Desenvolvedor (Full Code & Arquitetura):**
 * **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
@@ -43,7 +33,15 @@ Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informaçã
 **Liderança Ágil (Scrum Master):**
 * Atuei como **líder do projeto**, orquestrando integralmente o ciclo de desenvolvimento. Fui o responsável central por alinhar a estratégia com a execução técnica, gerenciando o backlog e conduzindo o time para garantir as entregas dentro do prazo.
 
-- **Repositório:** **[Acessar o Projeto Meu Negócio Fácil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
+<p align="left">
+  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil">
+    <img src="https://img.shields.io/badge/Acessar_Repositório-Code-007EC6?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef">
+    <img src="https://img.shields.io/badge/Meus_Commits-225+-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Ver meus Commits">
+  </a>
+</p>
 
 ---
 
