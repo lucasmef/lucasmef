@@ -40,37 +40,32 @@ Projeto acadêmico (Sistemas de Informação) onde atuei de forma híbrida: **Li
 * Orquestração integral do ciclo de desenvolvimento, alinhando estratégia e execução técnica.
 
 ---
-
 ## 🎓 Aprendizado Contínuo e Certificações
 
-Sou um estudante voraz ("Lenda do Aprendizado" na Udemy, top 3% em horas estudadas). Atualmente, estou focado no ecossistema moderno do React.
+Sou um estudante voraz ("Lenda do Aprendizado" na Udemy, top 3% em horas estudadas).
 
-### 🔥 Últimas Conquistas (Vercel)
-Especialização oficial na tecnologia Next.js e React:
+### 🏆 Especializações Recentes (Vercel)
+*Certificações oficiais focadas no ecossistema moderno de desenvolvimento web.*
 
-| Certificação | Emissor | Data |
-| :--- | :--- | :--- |
-| **Next.js App Router Fundamentals** | Vercel | Dez/2025 |
-| **React Foundations** | Vercel | Dez/2025 |
+**Next.js App Router Fundamentals** (Dez 2025)
+Domínio de Roteamento, Server Components e Data Fetching.
 
-### 📚 Em andamento (Foco Atual)
+**React Foundations** (Dez 2025)
+Conceitos fundamentais, Hooks e Gerenciamento de Estado.
 
-> **Curso de JavaScript e TypeScript do básico ao avançado (Full Stack)**
-> *Um mergulho profundo no ecossistema JS moderno.*
->
-> **O que estou dominando:**
-> * **Stack:** Node.js, Express, React (Hooks, Redux) e Next.js.
-> * **Dados:** SQL (MySQL) e NoSQL (MongoDB).
-> * **DevOps:** Deploy em Linux (GCP + NGINX), Git avançado, SSL e CI/CD.
->
-### ✅ Outros Cursos Concluídos
+### 📚 Em Andamento (Foco Atual)
+**Curso de JavaScript e TypeScript Full Stack**
+* **Stack:** Node.js, Express, React (Hooks, Redux) e Next.js.
+* **Dados:** Modelagem SQL (MySQL) e NoSQL (MongoDB).
+* **DevOps:** Deploy em Linux (GCP + NGINX), Git avançado, SSL e CI/CD.
 
-| Curso | Foco | Carga Horária |
-| :--- | :--- | :--- |
-| **Python 3 do Básico ao Avançado** | Lógica, POO e Projetos Reais | **141 Horas** |
-| **Programação JavaScript + Projetos** | DOM, ES6+ e Web Apps | **8 Horas** |
+### ✅ Base Técnica Consolidada
 
----
+**Python 3 do Básico ao Avançado** • *141 Horas*
+Imersão profunda em Lógica de Programação, Orientação a Objetos (POO), estruturas de dados e desenvolvimento de projetos reais.
+
+**Programação JavaScript + Projetos** • *8 Horas*
+Introdução prática à manipulação de DOM, recursos modernos do ES6+ e criação de interatividade para web.>
 
 ---
 
