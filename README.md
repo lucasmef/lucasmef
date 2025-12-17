@@ -96,16 +96,16 @@ Além da gestão executiva (Financeiro, Compras e Marketing), atuo diretamente n
 - Personalização de frontend e regras de negócio na plataforma **TrayCommerce** (PHP/HTML/CSS).
 - Integração de sistemas de gestão e automação de processos.
 
-### Freelancer Full Stack "Raiz" (2003 - 2007)
-Onde tudo começou. Atuação autônoma desenvolvendo soluções web e gráficas:
-- **Web Development:** Criação de sites "na unha" com HTML puro, CSS e PHP, além de customização de WordPress.
-- **Scripting:** Desenvolvimento e personalização de scripts complexos para **mIRC**, trabalhando lógica de programação e automação de chats.
-- **Design Gráfico:** Criação de identidade visual e layouts digitais.
-
 ### AMI Digital Farma (2007 - 2011)
 - **Diretor Geral** (2010 - 2011)
 - **Diretor de Criação** (2009 - 2010)
 - **Diretor de Arte** (2007 - 2009)
+
+### Freelancer  (2003 - 2007)
+Onde tudo começou. Atuação autônoma desenvolvendo soluções web e gráficas:
+- **Web Development:** Criação de sites "na unha" com HTML puro, CSS e PHP, além de customização de WordPress.
+- **Scripting:** Desenvolvimento e personalização de scripts complexos para **mIRC**, trabalhando lógica de programação e automação de chats.
+- **Design Gráfico:** Criação de identidade visual e layouts digitais.
 
 ---
 
