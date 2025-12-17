@@ -2,7 +2,7 @@
 
 Com mais de uma década de experiência à frente da minha própria empresa, atuando como empreendedor e líder criativo, decidi mergulhar de vez em outra grande paixão: a Tecnologia da Informação. Minha carreira é uma fusão de visão de negócios, criatividade e engenharia de software.
 
-Minha jornada na tecnologia começou cedo, em **2003**, criando sites em HTML puro e personalizando scripts. Hoje, como estudante de **Sistemas de Informação**, conecto minha vivência prática de dono de negócio — do financeiro ao marketing — para construir soluções robustas e orientadas a resultados.
+Minha jornada na tecnologia começou cedo, em **2003**, criando sites em HTML puro e personalizando scripts. Hoje, como estudante de **Sistemas de Informação**, conecto minha vivência prática de dono de negócio - do financeiro ao marketing - para construir soluções robustas e orientadas a resultados.
 
 ---
 
@@ -62,6 +62,15 @@ Especialização oficial na tecnologia Next.js e React:
 > * **Stack:** Node.js, Express, React (Hooks, Redux) e Next.js.
 > * **Dados:** SQL (MySQL) e NoSQL (MongoDB).
 > * **DevOps:** Deploy em Linux (GCP + NGINX), Git avançado, SSL e CI/CD.
+>
+### ✅ Outros Cursos Concluídos
+
+| Curso | Foco | Carga Horária |
+| :--- | :--- | :--- |
+| **Python 3 do Básico ao Avançado** | Lógica, POO e Projetos Reais | **141 Horas** |
+| **Programação JavaScript + Projetos** | DOM, ES6+ e Web Apps | **8 Horas** |
+
+---
 
 ---
 
