@@ -114,6 +114,8 @@ Onde tudo começou. Atuação autônoma desenvolvendo soluções web e gráficas
 - **Sistemas de Informação** - PUC Minas (2025 - 2029)
 - **Marketing** - Unisul (2020 - 2022)
 
+
+
 ---
 
 ## 📊 Estatísticas
