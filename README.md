@@ -20,6 +20,9 @@ Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites 
 
 Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores. Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
 
+
+
+
 **Desenvolvedor (Full Code & Arquitetura):**
 * **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
 * **Dashboard Gerencial:** Desenvolvimento de painel inicial com indicadores visuais de desempenho do negócio.
@@ -30,11 +33,9 @@ Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informaçã
 **Liderança Ágil (Scrum Master):**
 * Atuei como **líder do projeto**, orquestrando integralmente o ciclo de desenvolvimento. Fui o responsável central por alinhar a estratégia com a execução técnica, gerenciando o backlog e conduzindo o time para garantir as entregas dentro do prazo.
 
----
-
-### 🔗 Links do Projeto:
-* 📂 **[Acessar Repositório Completo](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
-* 👨‍💻 **[Ver meus Commits (225+)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef)**
+####  Links do Projeto:
+* 📂 **[Repositório](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
+* 👨‍💻 **[Meus Commits (225+)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef)**
 
 ---
 
