@@ -1,161 +1,129 @@
 # Prazer, sou o Lucas.
 
-Com mais de uma década de experiência à frente da minha própria empresa, atuando como empreendedor e líder criativo, decidi mergulhar de vez em outra grande paixão: a Tecnologia da Informação. Minha carreira sempre foi uma mistura de visão de negócios, criatividade e, agora, desenvolvimento de software.
+Com mais de uma década de experiência à frente da minha própria empresa, atuando como empreendedor e líder criativo, decidi mergulhar de vez em outra grande paixão: a Tecnologia da Informação. Minha carreira é uma fusão de visão de negócios, criatividade e engenharia de software.
 
-Meu primeiro contato com a tecnologia foi ainda na adolescência, criando sites em WordPress e, mais tarde, explorando o e-commerce com Magento. Hoje, como estudante de **Sistemas de Informação**, meu foco é usar tudo o que aprendi sobre o ciclo de vida de um negócio -  do financeiro ao marketing -  para construir soluções que realmente façam a diferença e ajudem outras empresas a crescer.
-
----
-
-## Minha Perspectiva
-
--   **Tecnologia com visão de dono:** Por ser cofundador da Raquel Talita, conheço na prática as dores e os desafios de um gestor. Essa vivência me dá uma clareza diferente na hora de desenvolver software, pois penso não apenas no código, mas no impacto real que a solução trará para o negócio.
-
--   **Liderança Ágil (Scrum Master):** Utilizo minha experiência prática para facilitar fluxos de trabalho. Aplico metodologias ágeis para garantir entregas contínuas, removendo impedimentos e garantindo que o time de desenvolvimento tenha clareza sobre os objetivos do produto.
-
--   **Estratégia antes da ferramenta:** Minha graduação em **Marketing** e minha trajetória em direção de arte me ensinaram a pensar primeiro nas pessoas. Entender o comportamento e as necessidades do cliente é o que me guia para criar tecnologia que seja intuitiva e, acima de tudo, útil.
+Minha jornada na tecnologia começou cedo, em **2003**, criando sites em HTML puro e personalizando scripts. Hoje, como estudante de **Sistemas de Informação**, conecto minha vivência prática de dono de negócio — do financeiro ao marketing — para construir soluções robustas e orientadas a resultados.
 
 ---
 
-## Projeto Entregue: Meu Negócio Fácil
+## 💡 Minha Perspectiva: Onde Negócios encontram Código
 
-Projeto acadêmico desenvolvido e finalizado no curso de Sistemas de Informação. Trata-se de um ERP gratuito e intuitivo focado em microempreendedores. Minha atuação foi híbrida, com forte ênfase na arquitetura técnica e implementação de funcionalidades complexas, além da organização ágil.
-
-
-
-
-**Desenvolvedor (Full Code & Arquitetura):**
-* **Arquitetura SPA (Single Page Application):** Implementação de uma navegação fluida e dinâmica, sem recarregamento de página, otimizando a experiência do usuário.
-* **Dashboard Gerencial:** Desenvolvimento de painel inicial com indicadores visuais de desempenho do negócio.
-* **Relatórios Inteligentes:** Criação da lógica para geração de relatórios detalhados de Produtos e Serviços e Faturamento.
-* **Core do Sistema:** Desenvolvimento completo da lógica de **Faturamento** (PDV), gestão de insumos e implementação de sistema de Autenticação e Login.
-* **Tecnologias:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação de JSON.
-
-**Liderança Ágil (Scrum Master):**
-* Atuei como **líder do projeto**, orquestrando integralmente o ciclo de desenvolvimento. Fui o responsável central por alinhar a estratégia com a execução técnica, gerenciando o backlog e conduzindo o time para garantir as entregas dentro do prazo.
-
-####  Links do Projeto:
-* 📂 **[Repositório](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil)**
-* 👨‍💻 **[Meus Commits (225+)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef)**
+- **Tecnologia com visão de dono:** Como cofundador da *Raquel Talita*, conheço as dores de um gestor. Não penso apenas no código, mas no ROI e no impacto real da solução.
+- **Liderança Ágil (Scrum Master):** Utilizo minha experiência para facilitar fluxos, remover impedimentos e alinhar o time técnico aos objetivos do produto.
+- **Estratégia antes da ferramenta:** Minha graduação em **Marketing** e background em direção de arte me guiam para criar tecnologias intuitivas e centradas no usuário.
 
 ---
 
-## Aprendizado Contínuo e Certificações
+## 🚀 Projeto Destaque: Meu Negócio Fácil
 
-Sou um estudante voraz. Recentemente, recebi o reconhecimento **"Lenda do Aprendizado"** da Udemy, ficando entre os **3% dos alunos com mais horas estudadas** (mais de 9.800 minutos dedicados).
+> **ERP Gratuito para Microempreendedores | SPA Full Code**
 
-### Em andamento (Foco Atual)
+<p align="left">
+  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR_REPOSITÓRIO-000?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+  </a>
+  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef" target="_blank">
+    <img src="https://img.shields.io/badge/MEUS_COMMITS_(225+)-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Meus Commits" />
+  </a>
+</p>
+
+Projeto acadêmico (Sistemas de Informação) onde atuei de forma híbrida: **Liderança Técnica** e **Desenvolvimento Full Code**.
+
+**Minha Atuação Técnica (Full Code & Arquitetura):**
+* **Arquitetura SPA:** Navegação fluida sem recarregamento (otimização de UX).
+* **Core do Sistema:** Desenvolvimento completo da lógica de **Faturamento (PDV)**, gestão de insumos e Autenticação.
+* **Dashboard Gerencial:** Painel com indicadores visuais de desempenho em tempo real.
+* **Relatórios Inteligentes:** Lógica para geração de relatórios de Produtos, Serviços e Faturamento.
+* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação avançada de JSON.
+
+**Minha Atuação como Líder (Scrum Master):**
+* Orquestração integral do ciclo de desenvolvimento, alinhando estratégia e execução técnica.
+
+---
+
+## 🎓 Aprendizado Contínuo e Certificações
+
+Sou um estudante voraz ("Lenda do Aprendizado" na Udemy, top 3% em horas estudadas). Atualmente, estou focado no ecossistema moderno do React.
+
+### 🔥 Últimas Conquistas (Vercel)
+Especialização oficial na tecnologia Next.js e React:
+
+| Certificação | Emissor | Data |
+| :--- | :--- | :--- |
+| **Next.js App Router Fundamentals** | Vercel | Dez/2025 |
+| **React Foundations** | Vercel | Dez/2025 |
+
+### 📚 Em andamento (Foco Atual)
 
 > **Curso de JavaScript e TypeScript do básico ao avançado (Full Stack)**
-> *Um mergulho profundo no ecossistema JS moderno para Front-end e Back-end.*
+> *Um mergulho profundo no ecossistema JS moderno.*
 >
 > **O que estou dominando:**
-> * **Stack Principal:** Node.js, Express, React (Hooks, Redux) e Next.js.
-> * **Banco de Dados:** SQL (MySQL/MariaDB) e NoSQL (MongoDB), utilizando Sequelize e Mongoose.
-> * **Ferramentas & DevOps:** Webpack, Babel, Deploy em Linux (GCP + NGINX), Git avançado e SSL.
-> * **Engenharia de Software:** TypeScript, Design Patterns (GoF), Princípios SOLID, Testes Automatizados (Jest) e API Rest com JWT.
-
-### Concluídos
-
-| Curso | Detalhes | Carga Horária |
-| :--- | :--- | :--- |
-| **Python 3 do Básico ao Avançado** | Foco em Lógica de Programação, Orientação a Objetos, Procedural e criação de projetos reais. Instrutores: Luiz Otávio Miranda. | **141 Horas** |
-| **Programação JavaScript + Projetos** | Foco em manipulação de DOM, ES6+ e desenvolvimento de aplicações web interativas. Instrutor: Andre Iacono. | **8 Horas** |
+> * **Stack:** Node.js, Express, React (Hooks, Redux) e Next.js.
+> * **Dados:** SQL (MySQL) e NoSQL (MongoDB).
+> * **DevOps:** Deploy em Linux (GCP + NGINX), Git avançado, SSL e CI/CD.
 
 ---
 
-## Habilidades e Tecnologias
+## 💻 Habilidades e Tecnologias
 
-### Tecnologias e Linguagens (Foco e Estudo)
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-      <br><strong>Next.js</strong>
-    </td>
-  </tr>
-</table>
+### Stack Principal
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Magento" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
+</div>
 
 ### Ferramentas & Design
-<table>
-  <tr>
-      <td align="center" width="96"> 
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-          <br><strong>Figma</strong>
-      </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br><strong>Photoshop</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-      <br><strong>Illustrator</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br><strong>WordPress</strong>
-    </td>
-  </tr>
-</table>
-
-### Competências Profissionais
-- Scrum & Metodologias Ágeis
-- Estratégia Empresarial
-- Gestão Financeira e de Compras
-- Direção Criativa & UI Design
-- Marketing e Comunicação
+<div style="display: inline_block"><br>
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Wordpress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+</div>
 
 ---
 
-## Experiência Profissional
+## 💼 Experiência Profissional
 
--   **Founder** | Raquel Talita (outubro de 2010 - Presente)
-    -   Como cofundador, sou responsável pela gestão financeira, compras, marketing e pela estratégia geral do negócio.
--   **Corretor de Seguros** | Autônomo (fevereiro de 2011 - dezembro de 2012)
-    -   Atuação autônoma na corretagem de seguros, aprimorando habilidades de negociação e vendas consultivas.
--   **Carreira na AMI Digital Farma**
-    -   **Diretor Geral** (janeiro de 2010 - fevereiro de 2011)
-    -   **Diretor de Criação** (fevereiro de 2009 - janeiro de 2010)
-    -   **Diretor de Arte** (novembro de 2007 - fevereiro de 2009)
+### Founder & Gestor de Tecnologia | Raquel Talita (2010 - Presente)
+Além da gestão executiva (Financeiro, Compras e Marketing), atuo diretamente na **Frente Tecnológica** da empresa:
+- Implementação e gestão de **E-commerce Magento** e **Magento Go**.
+- Personalização de frontend e regras de negócio na plataforma **TrayCommerce** (PHP/HTML/CSS).
+- Integração de sistemas de gestão e automação de processos.
+
+### Freelancer Full Stack "Raiz" (2003 - 2007)
+Onde tudo começou. Atuação autônoma desenvolvendo soluções web e gráficas:
+- **Web Development:** Criação de sites "na unha" com HTML puro, CSS e PHP, além de customização de WordPress.
+- **Scripting:** Desenvolvimento e personalização de scripts complexos para **mIRC**, trabalhando lógica de programação e automação de chats.
+- **Design Gráfico:** Criação de identidade visual e layouts digitais.
+
+### AMI Digital Farma (2007 - 2011)
+- **Diretor Geral** (2010 - 2011)
+- **Diretor de Criação** (2009 - 2010)
+- **Diretor de Arte** (2007 - 2009)
 
 ---
 
-## Formação Acadêmica
+## 🎓 Formação Acadêmica
 
--   **Graduação em Sistemas da Informação** - PUC Minas (2025 - 2029)
--   **Graduação em Marketing** - Unisul (2020 - 2022)
--   **Graduação em Publicidade e Propaganda** - Unisul (2008 - 2010) (incompleto)
+- **Sistemas de Informação** - PUC Minas (2025 - 2029)
+- **Marketing** - Unisul (2020 - 2022)
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
-
-## Conecte-se Comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasmef" target="_blank">
