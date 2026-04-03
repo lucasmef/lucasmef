@@ -25,13 +25,25 @@ Sou um Desenvolvedor Full Stack com base prática em `JavaScript`, `TypeScript`,
 
 O diferencial está no contexto: eu não venho só do código. Também venho de operação real, e-commerce, financeiro, relatórios, priorização de backlog e ambientes com alta carga de regra de negócio. Isso me torna especialmente forte em produtos nos quais software impacta execução, margem, fluxo e tomada de decisão.
 
+## Onde Posso Gerar Mais Valor
+
+Tenho forte aderência a oportunidades em:
+
+- `Desenvolvimento Full Stack`
+- `Software Engineering`
+- `Product Engineering`
+- `ERP / Backoffice / Retail Tech`
+- `Ferramentas Internas / Dashboards / Sistemas Financeiros`
+- `Produtos com fluxos apoiados por IA`
+
 ## Resumo Para Recrutadores
 
 - Perfil forte para `ERP`, `backoffice`, `retail tech`, `fluxos financeiros`, `ferramentas internas`, `dashboards` e `produtos com IA`
+- `15+ anos` de vivência empresarial aplicada a operação, gestão, e-commerce e tomada de decisão
 - Atuando perto da operação real desde `2010`, com vivência direta em e-commerce, compras, fluxo de caixa, estoque, vendas e processos operacionais
 - Atuando com web desde `2003`, com histórico em desenvolvimento, UI, execução de produto e liderança digital
 - `Lead Developer / Scrum Master` em um projeto de ERP acadêmico com `225+ commits` de autoria própria
-- Formação complementar pela AWS Academy e Vercel, com foco prático em entrega, arquitetura e engenharia moderna de produto
+- Formação complementar pela AWS Academy e Vercel, com destaque para `Generative AI Foundations`, cloud e engenharia moderna de produto
 
 ## Por Que Meu Perfil Chama Atenção
 
@@ -128,6 +140,7 @@ Projeto acadêmico de ERP com forte protagonismo em entrega e fluxo de produto.
 
 ### Cloud, Engenharia e Produto
 ![AWS Academy](https://img.shields.io/badge/AWS_Academy-111827?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Generative AI Foundations](https://img.shields.io/badge/Generative_AI_Foundations-111827?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-111827?style=flat-square&logo=awslambda&logoColor=FF9900)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-111827?style=flat-square&logo=amazonapigateway&logoColor=FF4F8B)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-111827?style=flat-square&logo=amazondynamodb&logoColor=4053D6)
@@ -176,6 +189,14 @@ Por isso, tenho forte aderência a vagas ligadas a:
 - `React Foundations for Next.js` - Vercel
 - `JavaScript e TypeScript do Básico ao Avançado` - Udemy
 - `Python 3 do Básico ao Avançado` - Udemy
+
+## IA No Fluxo de Engenharia
+
+Uso ferramentas de IA como aceleradores de engenharia, prototipação, refatoração e exploração técnica, mantendo responsabilidade total por arquitetura, revisão, validação e decisão de produto.
+
+- `Codex` no desenvolvimento de `salomao` e `growth-agent`
+- `Gemini` na evolução de `meu-negocio-facil-next`
+- Formação em `AWS Academy Graduate - Generative AI Foundations`
 
 ## GitHub Em Números
 
