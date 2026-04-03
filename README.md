@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:111827,100:1F2937&text=Lucas%20Fernandes&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Product-Minded%20Engineer%20%7C%20Builder%20orientado%20a%20negocio&descAlignY=58&animation=fadeIn" alt="Lucas Fernandes banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:111827,100:1F2937&text=Lucas%20Fernandes&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenharia%20orientada%20a%20produto%20e%20neg%C3%B3cio&descAlignY=58&animation=fadeIn" alt="Lucas Fernandes banner" />
 </div>
 
 <div align="center">
@@ -12,38 +12,38 @@
   <a href="https://github.com/lucasmef?tab=followers">
     <img src="https://img.shields.io/github/followers/lucasmef?style=for-the-badge&label=Followers&color=111827" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Localizacao-Tubarao%20SC-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localizacao" />
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Tubar%C3%A3o%20SC-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E5E7EB&center=true&vCenter=true&width=980&lines=Eu+construo+software+para+operacoes+reais.;ERP%2C+backoffice%2C+financeiro%2C+dashboards%2C+integracoes%2C+IA.;Forte+aderencia+para+Full+Stack%2C+Software+Engineer+e+Product+Engineer." alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E5E7EB&center=true&vCenter=true&width=980&lines=Eu+construo+software+para+opera%C3%A7%C3%B5es+reais.;ERP%2C+backoffice%2C+financeiro%2C+dashboards%2C+integra%C3%A7%C3%B5es%2C+IA.;Forte+ader%C3%AAncia+a+Full+Stack%2C+Software+Engineer+e+Product+Engineer." alt="Typing intro" />
 </div>
 
-## Eu construo software critico para negocio, nao so telas bonitas.
+## Eu construo software crítico para o negócio, não só interfaces.
 
-Sou um Desenvolvedor Full Stack com base pratica em `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Python`, `FastAPI`, `PostgreSQL` e desenho de produto orientado a operacao.
+Sou um Desenvolvedor Full Stack com base prática em `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Python`, `FastAPI`, `PostgreSQL` e desenho de produto orientado à operação.
 
-O diferencial esta no contexto: eu nao venho so do codigo. Eu tambem venho de operacao real, e-commerce, financeiro, relatorios, priorizacao de backlog e ambientes pesados em regra de negocio. Isso me torna especialmente forte em produtos onde software impacta execucao, margem, fluxo e tomada de decisao.
+O diferencial está no contexto: eu não venho só do código. Também venho de operação real, e-commerce, financeiro, relatórios, priorização de backlog e ambientes com alta carga de regra de negócio. Isso me torna especialmente forte em produtos nos quais software impacta execução, margem, fluxo e tomada de decisão.
 
 ## Resumo Para Recrutadores
 
 - Perfil forte para `ERP`, `backoffice`, `retail tech`, `fluxos financeiros`, `ferramentas internas`, `dashboards` e `produtos com IA`
-- Atuando perto da operacao real desde `2010`, com vivencia direta em e-commerce, compras, fluxo de caixa, estoque, vendas e processos operacionais
-- Construindo para web desde `2003`, com historico em desenvolvimento, UI, execucao de produto e lideranca digital
-- `Lead Developer / Scrum Master` em um projeto de ERP academico com `225+ commits` de autoria propria
-- Formacao complementar em AWS Academy e Vercel, com foco pratico em entrega, arquitetura e engenharia moderna de produto
+- Atuando perto da operação real desde `2010`, com vivência direta em e-commerce, compras, fluxo de caixa, estoque, vendas e processos operacionais
+- Atuando com web desde `2003`, com histórico em desenvolvimento, UI, execução de produto e liderança digital
+- `Lead Developer / Scrum Master` em um projeto de ERP acadêmico com `225+ commits` de autoria própria
+- Formação complementar pela AWS Academy e Vercel, com foco prático em entrega, arquitetura e engenharia moderna de produto
 
-## Por Que Meu Perfil Chama Atencao
+## Por Que Meu Perfil Chama Atenção
 
 | Sinal | O que isso significa |
 | --- | --- |
-| Full stack de verdade | Eu atuo em frontend, backend, banco, autenticacao, integracoes e deploy |
-| Visao de produto | Penso em adocao, clareza operacional e valor entregue, nao so implementacao |
-| Profundidade de negocio | Entendo os fluxos por tras de ERP, comercio, financeiro e backoffice |
-| Engenharia para mundo real | Me importo com seguranca, auditoria, confiabilidade e manutencao depois do deploy |
-| Alta capacidade de execucao | Consigo entregar tanto produtos estruturados quanto ferramentas objetivas com valor claro |
+| Full stack de verdade | Eu atuo em frontend, backend, banco, autenticação, integrações e deploy |
+| Visão de produto | Penso em adoção, clareza operacional e valor entregue, não só implementação |
+| Profundidade de negócio | Entendo os fluxos por trás de ERP, comércio, financeiro e backoffice |
+| Engenharia para mundo real | Me importo com segurança, auditoria, confiabilidade e manutenção depois do deploy |
+| Alta capacidade de execução | Consigo entregar tanto produtos estruturados quanto ferramentas objetivas com valor claro |
 
-## Prova Em Codigo
+## Prova Em Código
 
 <p align="center">
   <a href="https://github.com/lucasmef/salomao">
@@ -65,39 +65,39 @@ O diferencial esta no contexto: eu nao venho so do codigo. Eu tambem venho de op
 
 ### `salomao`
 
-Sistema de gestao financeira construido para operacao real, nao para parecer portfolio.
+Sistema de gestão financeira construído para operação real, não para enfeitar portfólio.
 
 - Frontend em `React + TypeScript`
 - Backend em `FastAPI + SQLAlchemy`
-- `PostgreSQL` com migracoes versionadas
-- Integracao com `Banco Inter` para sincronizacao de extrato, emissao de boletos e fluxo financeiro
-- Camadas de seguranca com `MFA`, `HttpOnly cookies`, `rate limiting`, `audit logs` e criptografia de campos sensiveis
-- Deploy em VPS com `Nginx`, `systemd`, `UFW`, `fail2ban` e validacao operacional
+- `PostgreSQL` com migrações versionadas
+- Integração com `Banco Inter` para sincronização de extrato, emissão de boletos e fluxo financeiro
+- Camadas de segurança com `MFA`, `HttpOnly cookies`, `rate limiting`, `audit logs` e criptografia de campos sensíveis
+- Deploy em VPS com `Nginx`, `systemd`, `UFW`, `fail2ban` e validação operacional
 
-**O que isso prova:** eu consigo construir e sustentar uma aplicacao full stack seria, com seguranca, infraestrutura e integracao financeira real no centro do produto.
+**O que isso prova:** eu consigo construir e sustentar uma aplicação full stack séria, com segurança, infraestrutura e integração financeira real no centro do produto.
 
 ### `growth-agent`
 
-Base de SaaS com IA, guardrails de aprovacao humana e arquitetura modular orientada a dominio.
+Base de SaaS com IA, guardrails de aprovação humana e arquitetura modular orientada a domínio.
 
 - `Next.js 16`, `React 19`, `TypeScript`, `Prisma`
-- Geracao de conteudo com IA e automacao de fluxos
-- Jobs assincronos com `Trigger.dev`
-- Separacao clara entre operacao de clientes e experimentacao interna
-- Aprovacao humana como protecao central antes da publicacao
+- Geração de conteúdo com IA e automação de fluxos
+- Jobs assíncronos com `Trigger.dev`
+- Separação clara entre operação de clientes e experimentação interna
+- Aprovação humana como guardrail central antes da publicação
 
-**O que isso prova:** eu consigo trabalhar em produtos modernos onde IA, arquitetura, fluxo operacional e seguranca de dominio importam de verdade.
+**O que isso prova:** eu consigo trabalhar em produtos modernos em que IA, arquitetura, fluxo operacional e segurança de domínio importam de verdade.
 
-### `ERP Meu Negocio Facil`
+### `ERP Meu Negócio Fácil`
 
-Projeto academico de ERP com forte protagonismo em entrega e fluxo de produto.
+Projeto acadêmico de ERP com forte protagonismo em entrega e fluxo de produto.
 
-- `225+ commits` de autoria propria
-- Atuacao em navegacao, autenticacao, estoque, vendas, logica de PDV, gerenciamento de estado e dashboards
-- Lideranca como `Lead Developer / Scrum Master`
-- Forte foco em regras de negocio, operacao comercial e fluxos de gestao
+- `225+ commits` de autoria própria
+- Atuação em navegação, autenticação, estoque, vendas, lógica de PDV, gerenciamento de estado e dashboards
+- Liderança como `Lead Developer / Scrum Master`
+- Forte foco em regras de negócio, operação comercial e fluxos de gestão
 
-**O que isso prova:** eu nao atuo so como implementador de tarefa. Eu tambem ajudo produto e time a avancarem.
+**O que isso prova:** eu não atuo só como implementador de tarefa. Eu também ajudo o produto e o time a avançarem.
 
 ## Stack Principal
 
@@ -143,41 +143,41 @@ Projeto academico de ERP com forte protagonismo em entrega e fluxo de produto.
 ![Product Ownership](https://img.shields.io/badge/Product_Ownership-111827?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
 
-## O Contexto De Negocio Faz Diferenca
+## O Contexto De Negócio Faz Diferença
 
-Tenho experiencia direta em ambientes onde software nao pode ser separado da operacao:
+Tenho experiência direta em ambientes onde software não pode ser separado da operação:
 
-- operacao de e-commerce
+- operação de e-commerce
 - compras e rotinas de estoque
 - fluxo de caixa e controle financeiro
-- dashboards para suporte a decisao
-- priorizacao de produto e backlog
-- sistemas com alta carga de regra de negocio
+- dashboards para suporte à decisão
+- priorização de produto e backlog
+- sistemas com alta carga de regra de negócio
 - processos operacionais que exigem clareza, velocidade e confiabilidade
 
-Por isso, tenho forte aderencia a vagas ligadas a:
+Por isso, tenho forte aderência a vagas ligadas a:
 
-- Full Stack Engineering
-- Software Engineering
-- Product Engineering
+- Engenharia Full Stack
+- Engenharia de Software
+- Engenharia de Produto
 - sistemas de ERP e backoffice
 - retail tech e e-commerce
-- sistemas financeiros e software para operacao interna
+- sistemas financeiros e software para operação interna
 - produtos com fluxos apoiados por IA
 
-## Formacao E Certificacoes
+## Formação E Certificações
 
-- `Bacharelado em Sistemas de Informacao` - PUC Minas, previsao de conclusao em `2029`
-- `Tecnologo em Marketing` - Unisul, concluido em `2022`
+- `Bacharelado em Sistemas de Informação` - PUC Minas, previsão de conclusão em `2029`
+- `Tecnólogo em Marketing` - Unisul, concluído em `2022`
 - `AWS Academy Graduate - Cloud Developing`
 - `AWS Academy Graduate - Cloud Foundations`
 - `AWS Academy Graduate - Generative AI Foundations`
 - `Next.js App Router Fundamentals` - Vercel
 - `React Foundations for Next.js` - Vercel
-- `JavaScript e TypeScript do Basico ao Avancado` - Udemy
-- `Python 3 do Basico ao Avancado` - Udemy
+- `JavaScript e TypeScript do Básico ao Avançado` - Udemy
+- `Python 3 do Básico ao Avançado` - Udemy
 
-## GitHub Em Numeros
+## GitHub Em Números
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
@@ -188,11 +188,11 @@ Por isso, tenho forte aderencia a vagas ligadas a:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmef&bg_color=00000000&color=9CA3AF&line=E5E7EB&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## Se Voce Esta Contratando
+## Se Você Está Contratando
 
-Se voce procura alguem capaz de conectar produto, engenharia e realidade operacional, vale conversar.
+Se você procura alguém capaz de conectar produto, engenharia e realidade operacional, vale a conversa.
 
-Tenho forte aderencia para times que buscam:
+Tenho forte aderência a times que buscam:
 
 - `Desenvolvedor Full Stack`
 - `Software Engineer`
