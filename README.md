@@ -47,19 +47,19 @@ O diferencial está no contexto: eu não venho só do código. Também venho de 
 
 <p align="center">
   <a href="https://github.com/lucasmef/salomao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmef&repo=salomao&hide_border=true&theme=transparent" alt="Salomao repo card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=salomao&hide_border=true&theme=transparent" alt="Salomao repo card" />
   </a>
   <a href="https://github.com/lucasmef/growth-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmef&repo=growth-agent&hide_border=true&theme=transparent" alt="Growth Agent repo card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=growth-agent&hide_border=true&theme=transparent" alt="Growth Agent repo card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lucasmef/meu-negocio-facil-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmef&repo=meu-negocio-facil-next&hide_border=true&theme=transparent" alt="Meu Negocio Facil Next repo card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=meu-negocio-facil-next&hide_border=true&theme=transparent" alt="Meu Negocio Facil Next repo card" />
   </a>
   <a href="https://github.com/lucasmef/merge-boleto-c6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmef&repo=merge-boleto-c6&hide_border=true&theme=transparent" alt="Merge Boleto repo card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=merge-boleto-c6&hide_border=true&theme=transparent" alt="Merge Boleto repo card" />
   </a>
 </p>
 
@@ -180,8 +180,8 @@ Por isso, tenho forte aderência a vagas ligadas a:
 ## GitHub Em Números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmef&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmef&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
 <p align="center">
