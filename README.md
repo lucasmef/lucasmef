@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:111827,100:1F2937&text=Lucas%20Fernandes&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Product-Minded%20Engineer%20%7C%20Business-Driven%20Builder&descAlignY=58&animation=fadeIn" alt="Lucas Fernandes banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:111827,100:1F2937&text=Lucas%20Fernandes&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Product-Minded%20Engineer%20%7C%20Builder%20orientado%20a%20negocio&descAlignY=58&animation=fadeIn" alt="Lucas Fernandes banner" />
 </div>
 
 <div align="center">
@@ -12,38 +12,38 @@
   <a href="https://github.com/lucasmef?tab=followers">
     <img src="https://img.shields.io/github/followers/lucasmef?style=for-the-badge&label=Followers&color=111827" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Tubarao%20SC-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Localizacao-Tubarao%20SC-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localizacao" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E5E7EB&center=true&vCenter=true&width=980&lines=I+build+software+that+real+operations+depend+on.;ERP%2C+backoffice%2C+finance%2C+dashboards%2C+integrations%2C+AI+workflows.;Strong+fit+for+Full+Stack%2C+Software+Engineer%2C+and+Product+Engineer+roles." alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E5E7EB&center=true&vCenter=true&width=980&lines=Eu+construo+software+para+operacoes+reais.;ERP%2C+backoffice%2C+financeiro%2C+dashboards%2C+integracoes%2C+IA.;Forte+aderencia+para+Full+Stack%2C+Software+Engineer+e+Product+Engineer." alt="Typing intro" />
 </div>
 
-## I build business-critical software, not just interfaces.
+## Eu construo software critico para negocio, nao so telas bonitas.
 
-I am a Full Stack Developer with hands-on depth in `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Python`, `FastAPI`, `PostgreSQL`, and product-oriented system design.
+Sou um Desenvolvedor Full Stack com base pratica em `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Python`, `FastAPI`, `PostgreSQL` e desenho de produto orientado a operacao.
 
-The difference is context: I do not come only from code. I also come from real operations, e-commerce, finance, reporting, backlog prioritization, and business rule-heavy environments. That makes me especially strong in products where software is tied directly to execution, margin, workflow, and decision-making.
+O diferencial esta no contexto: eu nao venho so do codigo. Eu tambem venho de operacao real, e-commerce, financeiro, relatorios, priorizacao de backlog e ambientes pesados em regra de negocio. Isso me torna especialmente forte em produtos onde software impacta execucao, margem, fluxo e tomada de decisao.
 
-## Recruiter Snapshot
+## Resumo Para Recrutadores
 
-- Full stack builder with strong fit for `ERP`, `backoffice`, `retail tech`, `financial workflows`, `internal tools`, `dashboards`, and `AI-assisted products`
-- Operating close to real business environments since `2010`, with direct experience in e-commerce, purchasing, cash flow, inventory, sales, and operational processes
-- Building on the web since `2003`, with background across development, UI, product execution, and digital leadership
-- `Lead Developer / Scrum Master` on an ERP-focused academic project with `225+ commits` of personal authorship
-- AWS Academy and Vercel training, with practical focus on delivery, architecture, and modern product engineering
+- Perfil forte para `ERP`, `backoffice`, `retail tech`, `fluxos financeiros`, `ferramentas internas`, `dashboards` e `produtos com IA`
+- Atuando perto da operacao real desde `2010`, com vivencia direta em e-commerce, compras, fluxo de caixa, estoque, vendas e processos operacionais
+- Construindo para web desde `2003`, com historico em desenvolvimento, UI, execucao de produto e lideranca digital
+- `Lead Developer / Scrum Master` em um projeto de ERP academico com `225+ commits` de autoria propria
+- Formacao complementar em AWS Academy e Vercel, com foco pratico em entrega, arquitetura e engenharia moderna de produto
 
-## Why I Stand Out
+## Por Que Meu Perfil Chama Atencao
 
-| Signal | What it means |
+| Sinal | O que isso significa |
 | --- | --- |
-| Full stack range | I move across frontend, backend, database, auth, integrations, and deployment |
-| Product mindset | I think about adoption, operational clarity, and business value, not only implementation |
-| Business depth | I understand the workflows behind ERP, commerce, finance, and backoffice systems |
-| Real-world engineering | I care about security, auditability, reliability, and maintainability after launch |
-| Strong execution | I can ship both structured products and sharp utility tools with clear value |
+| Full stack de verdade | Eu atuo em frontend, backend, banco, autenticacao, integracoes e deploy |
+| Visao de produto | Penso em adocao, clareza operacional e valor entregue, nao so implementacao |
+| Profundidade de negocio | Entendo os fluxos por tras de ERP, comercio, financeiro e backoffice |
+| Engenharia para mundo real | Me importo com seguranca, auditoria, confiabilidade e manutencao depois do deploy |
+| Alta capacidade de execucao | Consigo entregar tanto produtos estruturados quanto ferramentas objetivas com valor claro |
 
-## Proof In Code
+## Prova Em Codigo
 
 <p align="center">
   <a href="https://github.com/lucasmef/salomao">
@@ -65,43 +65,43 @@ The difference is context: I do not come only from code. I also come from real o
 
 ### `salomao`
 
-Financial management system built for real operation, not portfolio theater.
+Sistema de gestao financeira construido para operacao real, nao para parecer portfolio.
 
-- `React + TypeScript` frontend
-- `FastAPI + SQLAlchemy` backend
-- `PostgreSQL` with versioned migrations
-- `Banco Inter` integration for statement sync, boleto issuance, and financial workflows
-- Security layers including `MFA`, `HttpOnly cookies`, `rate limiting`, `audit logs`, and encrypted sensitive fields
-- VPS deployment with `Nginx`, `systemd`, `UFW`, `fail2ban`, and operational validation
+- Frontend em `React + TypeScript`
+- Backend em `FastAPI + SQLAlchemy`
+- `PostgreSQL` com migracoes versionadas
+- Integracao com `Banco Inter` para sincronizacao de extrato, emissao de boletos e fluxo financeiro
+- Camadas de seguranca com `MFA`, `HttpOnly cookies`, `rate limiting`, `audit logs` e criptografia de campos sensiveis
+- Deploy em VPS com `Nginx`, `systemd`, `UFW`, `fail2ban` e validacao operacional
 
-**What this shows:** I can build and sustain a serious full stack application with security, infrastructure, and external financial integration in the loop.
+**O que isso prova:** eu consigo construir e sustentar uma aplicacao full stack seria, com seguranca, infraestrutura e integracao financeira real no centro do produto.
 
 ### `growth-agent`
 
-AI-native SaaS foundation with human approval guardrails and modular product architecture.
+Base de SaaS com IA, guardrails de aprovacao humana e arquitetura modular orientada a dominio.
 
 - `Next.js 16`, `React 19`, `TypeScript`, `Prisma`
-- AI content generation and workflow automation
-- `Trigger.dev` jobs
-- Domain-focused architecture for client operations and internal experimentation
-- Clear separation between automated flow and human approval
+- Geracao de conteudo com IA e automacao de fluxos
+- Jobs assincronos com `Trigger.dev`
+- Separacao clara entre operacao de clientes e experimentacao interna
+- Aprovacao humana como protecao central antes da publicacao
 
-**What this shows:** I can work on modern product systems where AI, domain boundaries, and operational safety matter.
+**O que isso prova:** eu consigo trabalhar em produtos modernos onde IA, arquitetura, fluxo operacional e seguranca de dominio importam de verdade.
 
 ### `ERP Meu Negocio Facil`
 
-Academic ERP project with strong ownership in delivery and product flow.
+Projeto academico de ERP com forte protagonismo em entrega e fluxo de produto.
 
-- `225+ commits` of personal authorship
-- Work across navigation, authentication, inventory, sales, PDV logic, state management, and dashboard reporting
-- Leadership as `Lead Developer / Scrum Master`
-- Strong orientation around business rules, commercial operations, and management workflows
+- `225+ commits` de autoria propria
+- Atuacao em navegacao, autenticacao, estoque, vendas, logica de PDV, gerenciamento de estado e dashboards
+- Lideranca como `Lead Developer / Scrum Master`
+- Forte foco em regras de negocio, operacao comercial e fluxos de gestao
 
-**What this shows:** I am not only comfortable coding features. I can also help move a product team forward.
+**O que isso prova:** eu nao atuo so como implementador de tarefa. Eu tambem ajudo produto e time a avancarem.
 
-## Core Stack
+## Stack Principal
 
-### Languages
+### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-111827?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-3.x-111827?style=flat-square&logo=python&logoColor=3776AB)
@@ -113,7 +113,7 @@ Academic ERP project with strong ownership in delivery and product flow.
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
 
-### Backend, Data, and Infra
+### Backend, Dados e Infra
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
@@ -126,7 +126,7 @@ Academic ERP project with strong ownership in delivery and product flow.
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
 ![NGINX](https://img.shields.io/badge/NGINX-111827?style=flat-square&logo=nginx&logoColor=009639)
 
-### Cloud, Engineering, and Product
+### Cloud, Engenharia e Produto
 ![AWS Academy](https://img.shields.io/badge/AWS_Academy-111827?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-111827?style=flat-square&logo=awslambda&logoColor=FF9900)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-111827?style=flat-square&logo=amazonapigateway&logoColor=FF4F8B)
@@ -143,41 +143,41 @@ Academic ERP project with strong ownership in delivery and product flow.
 ![Product Ownership](https://img.shields.io/badge/Product_Ownership-111827?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
 
-## Business Context That Makes The Difference
+## O Contexto De Negocio Faz Diferenca
 
-I have direct experience in the kind of environments where software cannot be abstracted away from reality:
+Tenho experiencia direta em ambientes onde software nao pode ser separado da operacao:
 
-- e-commerce operations
-- purchasing and inventory routines
-- cash flow and financial control
-- dashboard-oriented decision support
-- product prioritization and backlog handling
-- business rule-heavy systems
-- operational processes that need clarity, speed, and reliability
+- operacao de e-commerce
+- compras e rotinas de estoque
+- fluxo de caixa e controle financeiro
+- dashboards para suporte a decisao
+- priorizacao de produto e backlog
+- sistemas com alta carga de regra de negocio
+- processos operacionais que exigem clareza, velocidade e confiabilidade
 
-That is why I am especially strong in roles connected to:
+Por isso, tenho forte aderencia a vagas ligadas a:
 
 - Full Stack Engineering
 - Software Engineering
 - Product Engineering
-- ERP and backoffice systems
-- retail tech and e-commerce tools
-- financial systems and internal operations software
-- AI-assisted workflow products
+- sistemas de ERP e backoffice
+- retail tech e e-commerce
+- sistemas financeiros e software para operacao interna
+- produtos com fluxos apoiados por IA
 
-## Education And Certifications
+## Formacao E Certificacoes
 
-- `B.Sc. in Information Systems` - PUC Minas, expected completion in `2029`
-- `Technologist in Marketing` - Unisul, completed in `2022`
+- `Bacharelado em Sistemas de Informacao` - PUC Minas, previsao de conclusao em `2029`
+- `Tecnologo em Marketing` - Unisul, concluido em `2022`
 - `AWS Academy Graduate - Cloud Developing`
 - `AWS Academy Graduate - Cloud Foundations`
 - `AWS Academy Graduate - Generative AI Foundations`
 - `Next.js App Router Fundamentals` - Vercel
 - `React Foundations for Next.js` - Vercel
-- `JavaScript and TypeScript from Basic to Advanced` - Udemy
-- `Python 3 from Basic to Advanced` - Udemy
+- `JavaScript e TypeScript do Basico ao Avancado` - Udemy
+- `Python 3 do Basico ao Avancado` - Udemy
 
-## GitHub At A Glance
+## GitHub Em Numeros
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
@@ -188,24 +188,24 @@ That is why I am especially strong in roles connected to:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmef&bg_color=00000000&color=9CA3AF&line=E5E7EB&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## If You Are Hiring
+## Se Voce Esta Contratando
 
-If you are looking for someone who can connect product, engineering, and business reality, we should talk.
+Se voce procura alguem capaz de conectar produto, engenharia e realidade operacional, vale conversar.
 
-I am a strong match for teams hiring for:
+Tenho forte aderencia para times que buscam:
 
-- `Full Stack Developer`
+- `Desenvolvedor Full Stack`
 - `Software Engineer`
 - `Product Engineer`
 - `ERP / Backoffice / Retail Tech`
-- `Internal Tools / Dashboards / Financial Systems`
-- `AI-enabled product workflows`
+- `Ferramentas Internas / Dashboards / Sistemas Financeiros`
+- `Produtos com fluxos apoiados por IA`
 
 <div align="center">
   <a href="mailto:lucasmef@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+    <img src="https://img.shields.io/badge/Fale_Comigo-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
   <a href="https://www.linkedin.com/in/lucasmef">
-    <img src="https://img.shields.io/badge/Let_s_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact" />
+    <img src="https://img.shields.io/badge/Vamos_Conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact" />
   </a>
 </div>
