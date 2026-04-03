@@ -1,141 +1,211 @@
-# Prazer, sou o Lucas.
+# Lucas Fernandes
 
-Com mais de uma década de experiência à frente da minha própria empresa, atuando como empreendedor e líder criativo, decidi mergulhar de vez em outra grande paixão: a Tecnologia da Informação. Minha carreira é uma fusão de visão de negócios, criatividade e engenharia de software.
-
-Minha jornada na tecnologia começou cedo, em **2003**, criando sites em HTML puro e personalizando scripts. Hoje, como estudante de **Sistemas de Informação**, conecto minha vivência prática de dono de negócio - do financeiro ao marketing - para construir soluções robustas e orientadas a resultados.
-
----
-
-## 💡 Minha Perspectiva: Onde Negócios encontram Código
-
-- **Tecnologia com visão de dono:** Como cofundador da *Raquel Talita*, conheço as dores de um gestor. Não penso apenas no código, mas no ROI e no impacto real da solução.
-- **Liderança Ágil (Scrum Master):** Utilizo minha experiência para facilitar fluxos, remover impedimentos e alinhar o time técnico aos objetivos do produto.
-- **Estratégia antes da ferramenta:** Minha graduação em **Marketing** e background em direção de arte me guiam para criar tecnologias intuitivas e centradas no usuário.
-
----
-
-## 🚀 Projeto Destaque: Meu Negócio Fácil
-
-> **ERP Gratuito para Microempreendedores | SPA Full Code**
+**Full Stack Developer | Product-Minded Engineer | React, Next.js, Node.js, Python, AWS**
 
 <p align="left">
-  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil" target="_blank">
-    <img src="https://img.shields.io/badge/ACESSAR_REPOSITÓRIO-000?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+  <a href="https://github.com/lucasmef?tab=followers">
+    <img src="https://img.shields.io/github/followers/lucasmef?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef" target="_blank">
-    <img src="https://img.shields.io/badge/MEUS_COMMITS_(225+)-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="Meus Commits" />
-  </a>
-</p>
-
-Projeto acadêmico (Sistemas de Informação) onde atuei de forma híbrida: **Liderança Técnica** e **Desenvolvimento Full Code**.
-
-**Minha Atuação Técnica (Full Code & Arquitetura):**
-* **Arquitetura SPA:** Navegação fluida sem recarregamento (otimização de UX).
-* **Core do Sistema:** Desenvolvimento completo da lógica de **Faturamento (PDV)**, gestão de insumos e Autenticação.
-* **Dashboard Gerencial:** Painel com indicadores visuais de desempenho em tempo real.
-* **Relatórios Inteligentes:** Lógica para geração de relatórios de Produtos, Serviços e Faturamento.
-* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), LocalStorage e manipulação avançada de JSON.
-
-**Minha Atuação como Líder (Scrum Master):**
-* Orquestração integral do ciclo de desenvolvimento, alinhando estratégia e execução técnica.
-
----
-## 🎓 Aprendizado Contínuo e Certificações
-
-Sou um estudante voraz ("Lenda do Aprendizado" na Udemy, top 3% em horas estudadas).
-
-### 🏆 Especializações Recentes (Vercel)
-*Certificações oficiais focadas no ecossistema moderno de desenvolvimento web.*
-
-**Next.js App Router Fundamentals** (Dez 2025)
-Domínio de Roteamento, Server Components e Data Fetching.
-
-**React Foundations** (Dez 2025)
-Conceitos fundamentais, Hooks e Gerenciamento de Estado.
-
-### 📚 Em Andamento (Foco Atual)
-**Curso de JavaScript e TypeScript Full Stack**
-* **Stack:** Node.js, Express, React (Hooks, Redux) e Next.js.
-* **Dados:** Modelagem SQL (MySQL) e NoSQL (MongoDB).
-* **DevOps:** Deploy em Linux (GCP + NGINX), Git avançado, SSL e CI/CD.
-
-### ✅ Base Técnica Consolidada
-
-**Python 3 do Básico ao Avançado** • *141 Horas*
-Imersão profunda em Lógica de Programação, Orientação a Objetos (POO), estruturas de dados e desenvolvimento de projetos reais.
-
-**Programação JavaScript + Projetos** • *8 Horas*
-Introdução prática à manipulação de DOM, recursos modernos do ES6+ e criação de interatividade para web.>
-
----
-
-## 💻 Habilidades e Tecnologias
-
-### Stack Principal
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Magento" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
-</div>
-
-### Ferramentas & Design
-<div style="display: inline_block"><br>
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Wordpress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-</div>
-
----
-
-## 💼 Experiência Profissional
-
-### Founder & Gestor de Tecnologia | Raquel Talita (2010 - Presente)
-Além da gestão executiva (Financeiro, Compras e Marketing), atuo diretamente na **Frente Tecnológica** da empresa:
-- Implementação e gestão de **E-commerce Magento** e **Magento Go**.
-- Personalização de frontend e regras de negócio na plataforma **TrayCommerce** (PHP/HTML/CSS).
-- Integração de sistemas de gestão e automação de processos.
-
-### AMI Digital Farma (2007 - 2011)
-- **Diretor Geral** (2010 - 2011)
-- **Diretor de Criação** (2009 - 2010)
-- **Diretor de Arte** (2007 - 2009)
-
-### Freelancer  (2003 - 2007)
-Onde tudo começou. Atuação autônoma desenvolvendo soluções web e gráficas:
-- **Web Development:** Criação de sites "na unha" com HTML puro, CSS e PHP, além de customização de WordPress.
-- **Scripting:** Desenvolvimento e personalização de scripts complexos para **mIRC**, trabalhando lógica de programação e automação de chats.
-- **Design Gráfico:** Criação de identidade visual e layouts digitais.
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Sistemas de Informação** - PUC Minas (2025 - 2029)
-- **Marketing** - Unisul (2020 - 2022)
-
-
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasmef" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/lucasmef">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lucasmef@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-lucasmef%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+Desenvolvedor Full Stack com base técnica em **JavaScript, TypeScript, React, Next.js, Node.js e Python**, somada a uma vivência real de **negócio, operação, e-commerce, financeiro e produto**.
+
+Construo sistemas com foco em **regra de negócio**, **backoffice**, **ERP**, **dashboards**, **autenticação**, **integrações** e **operações reais**. Meu diferencial é unir execução técnica com visão prática de quem já precisou operar, vender, decidir prioridade e sustentar resultado.
+
+---
+
+## Perfil
+
+- **15+ anos de vivência empresarial** aplicados ao desenvolvimento de software
+- **Product-minded**: penso em impacto, clareza operacional e valor entregue
+- Forte aderência a **Full Stack**, **Software Engineer**, **Product Engineer**, **Retail Tech**, **ERP** e **Backoffice**
+- Experiência com sistemas voltados a **operação comercial**, **controle**, **gestão** e **automação**
+- Formação complementar em **AWS Academy** e **Vercel**
+
+---
+
+## Tech Stack
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3.x-black?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+
+### Front-end
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+
+### Back-end e Dados
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![REST API](https://img.shields.io/badge/REST%20APIs-black?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square)
+![NoSQL](https://img.shields.io/badge/NoSQL-black?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+
+### Cloud e Infra
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![Lambda](https://img.shields.io/badge/Lambda-black?style=flat-square&logo=awslambda)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-black?style=flat-square&logo=amazonapigateway)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=flat-square&logo=amazondynamodb)
+![S3](https://img.shields.io/badge/S3-black?style=flat-square&logo=amazons3)
+![EC2](https://img.shields.io/badge/EC2-black?style=flat-square&logo=amazonec2)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx)
+
+### Engenharia
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Jest](https://img.shields.io/badge/Jest-black?style=flat-square&logo=jest)
+![TDD](https://img.shields.io/badge/TDD-black?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-black?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-black?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-black?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
+
+---
+
+## Projetos em destaque
+
+### [Salomão](https://github.com/lucasmef/salomao)
+**Financial Manager Full Stack com foco em operação real, segurança e deploy em VPS**
+
+- Frontend em **React + TypeScript**
+- Backend em **FastAPI + SQLAlchemy**
+- Banco **PostgreSQL** com migrações versionadas
+- Integração com **Banco Inter API**
+- Deploy com **Nginx**, **systemd**, **UFW** e **fail2ban**
+- Ênfase em **MFA**, **cookies HttpOnly**, **rate limiting**, **auditoria** e confiabilidade operacional
+
+**O que esse projeto demonstra:** produto real, backend estruturado, persistência relacional, integração externa crítica, segurança aplicada e operação em ambiente Linux.
+
+---
+
+### [Growth Agent](https://github.com/lucasmef/growth-agent)
+**Base de SaaS com IA, automação e fluxo de aprovação humana**
+
+- **Next.js 16**, **React 19**, **TypeScript**
+- Arquitetura modular com foco em domínio
+- Geração de conteúdo com IA
+- Jobs assíncronos com **Trigger.dev**
+- Integrações com ferramentas externas de publicação e analytics
+- Guardrails para aprovação manual antes de publicação
+
+**O que esse projeto demonstra:** arquitetura moderna, produto SaaS, integração com IA, automação e clareza de domínio.
+
+---
+
+### [Meu Negócio Fácil Next](https://github.com/lucasmef/meu-negocio-facil-next)
+**Sistema de gestão para microempreendedores em evolução para stack moderna**
+
+- **Next.js**, **React**, **TypeScript**, **Prisma**, **NextAuth**
+- Estrutura voltada a autenticação, navegação, dashboard e regras de gestão
+- Continuidade natural do contexto de ERP e operação comercial
+
+**O que esse projeto demonstra:** transição consistente para stack full stack moderna com foco em gestão.
+
+---
+
+### Meu Negócio Fácil - versão SPA
+**ERP acadêmico com forte participação em liderança técnica e desenvolvimento**
+
+- Mais de **225 commits** de autoria própria
+- Desenvolvimento de lógica de **PDV**, autenticação, estoque, vendas e dashboard
+- Atuação como **Lead Developer / Scrum Master**
+- Projeto orientado a **regra de negócio**, **fluxo operacional** e **gestão empresarial**
+
+---
+
+## Experiência que fortalece meu perfil técnico
+
+### Raquel Talita | Founder / Gestor de Operações / E-commerce
+**2010 - Atual**
+
+Atuação direta na operação real de uma empresa, com participação em:
+
+- e-commerce
+- fluxo de caixa
+- estoque
+- compras
+- processos operacionais
+- estratégia comercial
+- modelagem prática de regras de negócio
+
+Essa vivência aumenta minha aderência a sistemas de:
+
+- ERP
+- backoffice
+- varejo
+- dashboards gerenciais
+- automações operacionais
+- sistemas administrativos
+
+### AMI DigitalFarma | Diretor de Criação e Geral
+**2007 - 2011**
+
+- liderança de times criativos e digitais
+- visão de produto, execução e entrega
+- alinhamento entre experiência, interface e objetivo comercial
+
+### Freelancer Web
+**2003 - 2007**
+
+- sites em HTML, CSS e PHP
+- customização de WordPress
+- scripts e automações
+- base prática de lógica e desenvolvimento web
+
+---
+
+## Certificações e formação
+
+### Certificações
+- **AWS Academy Graduate - Cloud Developing**
+- **AWS Academy Graduate - Cloud Foundations**
+- **AWS Academy Graduate - Generative AI Foundations**
+- **Next.js App Router Fundamentals - Vercel**
+- **React Foundations for Next.js - Vercel**
+- **JavaScript e TypeScript do Básico ao Avançado**
+- **Curso Python 3 do Básico ao Avançado**
+
+### Formação
+- **Bacharelado em Sistemas de Informação** - PUC Minas
+- **Tecnólogo em Marketing** - Unisul
+
+---
+
+## Onde posso gerar mais valor
+
+- **Full Stack Developer**
+- **Software Engineer**
+- **Product Engineer**
+- **Sistemas de Gestão / ERP**
+- **Backoffice / Retail Tech / E-commerce**
+- **Produtos com alta carga de regra de negócio**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasmef&show_icons=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmef&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/lucasmef](https://linkedin.com/in/lucasmef)
+- **GitHub:** [github.com/lucasmef](https://github.com/lucasmef)
+- **E-mail:** [lucasmef@gmail.com](mailto:lucasmef@gmail.com)
