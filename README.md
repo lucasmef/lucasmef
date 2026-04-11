@@ -82,11 +82,13 @@ Sistema de gestão financeira construído para operação real, não para enfeit
 - Frontend em `React + TypeScript`
 - Backend em `FastAPI + SQLAlchemy`
 - `PostgreSQL` com migrações versionadas
+- Cache híbrido de analytics com `Redis` e snapshots mensais persistidos no backend
 - Integração com `Banco Inter` para sincronização de extrato, emissão de boletos e fluxo financeiro
 - Camadas de segurança com `MFA`, `HttpOnly cookies`, `rate limiting`, `audit logs` e criptografia de campos sensíveis
+- Estratégia de cache centralizada no backend, com invalidação coordenada e rebuild seletivo
 - Deploy em VPS com `Nginx`, `systemd`, `UFW`, `fail2ban` e validação operacional
 
-**O que isso prova:** eu consigo construir e sustentar uma aplicação full stack séria, com segurança, infraestrutura e integração financeira real no centro do produto.
+**O que isso prova:** eu consigo construir e sustentar uma aplicação full stack séria, com segurança, infraestrutura, estratégia de performance e integração financeira real no centro do produto.
 
 ### `growth-agent`
 
@@ -131,6 +133,7 @@ Projeto acadêmico de ERP com forte protagonismo em entrega e fluxo de produto.
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D)
 ![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square)
 ![NoSQL](https://img.shields.io/badge/NoSQL-111827?style=flat-square)
