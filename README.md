@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,35:1D4ED8,70:0F766E,100:14B8A6&text=Lucas%20Fernandes&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20ERP%20%7C%20Financeiro%20%7C%20Backoffice%20%7C%20IA%20em%20produ%C3%A7%C3%A3o&descAlignY=58&descSize=16&animation=fadeIn" alt="Lucas Fernandes banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,35:1D4ED8,70:0F766E,100:14B8A6&text=Lucas%20Fernandes&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20ERP%20%7C%20Financeiro%20%7C%20Backoffice%20%7C%20AI-assisted%20delivery&descAlignY=58&descSize=16&animation=fadeIn" alt="Lucas Fernandes banner" />
 </div>
 
 <div align="center">
-  <h3>Software para operação real, com regra de negócio densa, segurança e entrega em produção.</h3>
+  <h3>Construo software de operação real: regra de negócio densa, segurança, integrações e entrega em produção.</h3>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <a href="https://github.com/lucasmef?tab=followers">
     <img src="https://img.shields.io/github/followers/lucasmef?style=for-the-badge&label=Followers&color=0F172A" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Tubar%C3%A3o-SC-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
+  <img src="https://img.shields.io/badge/Tubar%C3%A3o-SC-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tubarão, SC" />
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
 
 Trabalho com web desde 2003 e venho do varejo e do e-commerce. Meu foco é transformar regra operacional em especificação, arquitetura, código testável e software rodando em produção.
 
-No dia a dia, construo produtos com **TypeScript / React / Next.js** no front e **Python / FastAPI / PostgreSQL** no back. Uso Codex, Claude Code e Gemini como aceleradores de exploração, implementação, revisão e documentação, sem terceirizar responsabilidade de arquitetura, segurança e operação.
+No dia a dia, construo produtos com **TypeScript / React / Next.js** no front e **Python / FastAPI / PostgreSQL** no back. Uso Codex, Claude Code e Gemini como aceleradores de exploração, implementação, revisão e documentação, mantendo responsabilidade direta sobre arquitetura, segurança, operação e qualidade.
 
 ## O que eu construo
 
@@ -46,11 +46,11 @@ No dia a dia, construo produtos com **TypeScript / React / Next.js** no front e 
     </td>
     <td width="33%" valign="top">
       <strong>Fluxos críticos</strong><br />
-      Autenticação, auditoria, conciliação, importação, cobrança e analytics.
+      Autenticação, auditoria, conciliação, importação, cobrança, sync e analytics.
     </td>
     <td width="33%" valign="top">
       <strong>Entrega completa</strong><br />
-      Frontend, backend, banco, deploy, observabilidade e rotina operacional.
+      Frontend, backend, banco, deploy, documentação, testes e rotina operacional.
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ No dia a dia, construo produtos com **TypeScript / React / Next.js** no front e 
 
 ### Salomão
 
-Sistema financeiro full stack em produção, rodando em VPS, com cobrança, conciliação, compras, fluxo de caixa, DRE/DRO, projeções, analytics e integração com o Banco Inter para extrato, boleto, baixa, cancelamento e PDF.
+Sistema financeiro full stack em produção, rodando em VPS, com cobrança, conciliação, compras, fluxo de caixa, DRE/DRO, projeções, analytics e integração com o Banco Inter para extrato, boletos, baixa, cancelamento e PDF.
 
 <div align="center">
   <img src="https://img.shields.io/badge/React%2018-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18" />
@@ -76,7 +76,7 @@ Sistema financeiro full stack em produção, rodando em VPS, com cobrança, conc
   <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 </div>
 
-> Produto financeiro com frontend moderno, backend estruturado, persistência relacional, integrações bancárias, segurança de autenticação, cache analítico, testes, documentação, CI/CD e operação em Linux.
+> Produto financeiro com frontend moderno, backend estruturado, persistência relacional, integração bancária real, MFA, criptografia, auditoria, cache analítico, testes, CI/CD e operação em Linux.
 
 <details>
   <summary><strong>Domínio e módulos</strong></summary>
@@ -84,66 +84,58 @@ Sistema financeiro full stack em produção, rodando em VPS, com cobrança, conc
 
 - Dashboard executivo, leituras gerenciais, aniversariantes e indicadores financeiros.
 - Lançamentos, contas, categorias, relatórios, fluxo de caixa e regras financeiras.
-- Importações históricas, OFX, Linx, liquidação de recebíveis e API-first refresh.
-- Boletos, cobrança C6, planejamento de compras, devoluções e recebíveis.
+- Importações históricas, OFX, Linx, liquidação de recebíveis e refresh API-first.
+- Boletos, cobrança, planejamento de compras, devoluções e recebíveis.
+- Integração com Banco Inter para extrato, cobrança, emissão, sincronização, cancelamento, baixa em sandbox e download de PDFs.
 </details>
 
 <details>
   <summary><strong>Segurança e operação</strong></summary>
   <br />
 
-- MFA, dispositivos confiáveis, cookies HttpOnly, rate limit, criptografia de campos e audit logs.
-- Headers defensivos e proteção contra path traversal no static serving.
-- HTTPS atrás de Nginx, UFW, fail2ban e SSH restrito ao Tailscale.
+- MFA obrigatório em modo servidor, dispositivos confiáveis, cookies HttpOnly, rate limit e state tokens assinados.
+- Criptografia de campos com AES-GCM, credenciais sensíveis da integração Inter criptografadas e autenticação mTLS.
+- Logs de auditoria, alertas de segurança e headers defensivos.
+- HTTPS atrás de Nginx, UFW, fail2ban, systemd e SSH restrito ao Tailscale.
 - Healthchecks em deploy e auditoria de serviço, portas, TLS, SSH, banco e componentes críticos.
-- Segredos fora do repositório, com exemplos versionados apenas para referência.
 </details>
 
 <details>
-  <summary><strong>Deploy e governança</strong></summary>
+  <summary><strong>Deploy, dados e confiabilidade</strong></summary>
   <br />
 
 | Workflow | Trigger | Função |
 | --- | --- | --- |
 | `Deploy Dev` | push em `dev` + manual | deploy automático de homologação |
-| `Deploy Prod` | manual | deploy manual de produção a partir de SHA imutável |
-| `Quality` | push/PR | backend, frontend e validações de qualidade |
-| `Security Checks` | workflow dedicado | verificações de segurança do repositório |
-| `Refresh Dev DB` | manual | cópia prod para dev e aplica modo seguro |
+| `Deploy Prod` | manual | deploy manual de produção |
+| `Refresh Dev DB` | manual | copia prod para dev com modo seguro |
 | `Sanitize Dev DB` | manual | anonimiza dados sensíveis no dev |
 | `Set Dev Safety Mode` | manual | alterna dev entre `safe` e `validate` |
 
-Política operacional: `dev` é a branch normal de trabalho e homologação; `main` representa produção e só é promovida manualmente.
-</details>
-
-<details>
-  <summary><strong>Confiabilidade e stack</strong></summary>
-  <br />
-
-- Frontend em React 18, TypeScript e Vite.
-- Backend em FastAPI, SQLAlchemy, Pydantic, PostgreSQL e Alembic.
-- Redis para cache de analytics, dashboard e snapshots históricos.
-- Testes cobrindo autenticação, financeiro, bancos, importações, analytics e relatórios.
+- Branch `dev` para homologação e branch `main` para produção.
+- PostgreSQL como banco oficial, migrações Alembic e scripts de backup/restauração.
+- Redis para cache vivo de analytics e snapshots mensais persistidos para histórico.
+- Testes cobrindo autenticação, segurança, financeiro, Inter, boletos, analytics, relatórios e planejamento.
 </details>
 
 ## Outros projetos
 
 <div align="center">
+  <a href="https://github.com/lucasmef/doit.md">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=doit.md&hide_border=true&theme=transparent" alt="doit.md repo card" />
+  </a>
   <a href="https://github.com/lucasmef/growth-agent">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=growth-agent&hide_border=true&theme=transparent" alt="Growth Agent repo card" />
   </a>
-  <a href="https://github.com/lucasmef/meu-negocio-facil-next">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasmef&repo=meu-negocio-facil-next&hide_border=true&theme=transparent" alt="Meu Negócio Fácil repo card" />
-  </a>
 </div>
+
+### doit.md
+
+PWA pessoal de produtividade em monorepo pnpm que unifica notas, tarefas, projetos, calendário e arquivos em uma entidade central. Inclui Next.js 15, React 19, NextAuth, SQLite/PostgreSQL, Google Calendar/Drive, editor Markdown, anexos privados, sync CLI (`doit-sync`) e auditoria de mudanças feitas por IA antes do push.
 
 ### growth-agent
 
-Base SaaS de growth content com IA, automação de publicação e aprovação humana antes de qualquer post sair.
-
-### meu-negocio-facil-next
-
-ERP acadêmico onde atuei como Lead Developer e Scrum Master, com 225+ commits próprios em PDV, estoque, vendas, autenticação, dashboards e fluxos de backoffice.
+Base SaaS de growth content com IA, aprovação humana obrigatória antes de publicar, integração com `bundle.social`, analytics, jobs com Trigger.dev e `Admin Lab` para experimentos controlados e promoção de setups vencedores para `Publication Profiles`.
 
 ## Stack
 
@@ -159,6 +151,7 @@ ERP acadêmico onde atuei como Lead Developer e Scrum Master, com 225+ commits p
   <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
   <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
@@ -176,6 +169,7 @@ ERP acadêmico onde atuei como Lead Developer e Scrum Master, com 225+ commits p
 2. Documento contratos, entidades, cálculos e critérios de aceite.
 3. Quebro o escopo em tarefas pequenas, implemento, reviso e testo.
 4. Valido em ambiente próximo de produção e acompanho a operação.
+5. Uso IA para acelerar leitura, implementação e revisão, com auditoria humana sobre decisões técnicas.
 
 ## Formação
 
@@ -198,7 +192,7 @@ ERP acadêmico onde atuei como Lead Developer e Scrum Master, com 225+ commits p
 ## Contato
 
 <div align="center">
-  Encaixo melhor em times que constroem produto com regra de negócio densa: ERP, financeiro, backoffice, retail tech ou ferramentas internas com IA.
+  Encaixo melhor em times que constroem produto com regra de negócio densa: ERP, financeiro, backoffice, retail tech, ferramentas internas ou automações com IA e governança.
   <br /><br />
   <a href="mailto:lucasmef@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
