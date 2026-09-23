@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="310" viewBox="0 0 1280 310" role="img" aria-label="Lucas Fernandes. AI Builder e Full Stack Engineer.">
+<title>Lucas Fernandes · AI Builder · Full Stack Engineer</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101722"/><stop offset="1" stop-color="#142a31"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#69e8c3"/><stop offset="1" stop-color="#b7a3ff"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#233146" stroke-width=".6"/></pattern>
+</defs>
+<rect width="1280" height="310" rx="16" fill="url(#bg)"/>
+<rect width="1280" height="310" rx="16" fill="url(#grid)" opacity=".5"/>
+<rect x="0" y="0" width="1280" height="3" fill="url(#accent)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="46" y="59" font-size="15" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="2.4" fill="#69e8c3">VAREJO · SOFTWARE · IA</text>
+<text x="42" y="133" font-size="67" font-weight="730" letter-spacing="-2.2" fill="#f0f6fc">Lucas Fernandes</text>
+<text x="47" y="179" font-size="26" fill="#a2b4ca">AI Builder · Full Stack Engineer</text>
+<path d="M48 213H646" stroke="#233146"/>
+<text x="47" y="256" font-size="18" fill="#a2b4ca">BuilderFlow · IA aplicada · CI/CD</text>
+<g transform="translate(852 44)">
+  <path d="M137 38V62M137 110V138M137 186V210" stroke="#69e8c3" stroke-opacity=".6" stroke-width="1.5"/>
+  <path d="M266 87H310V163H266" fill="none" stroke="#b7a3ff" stroke-opacity=".65" stroke-width="1.5"/>
+  <rect x="7" y="0" width="260" height="44" rx="7" fill="#162132" stroke="#233146"/>
+  <rect x="7" y="63" width="260" height="48" rx="7" fill="#162132" stroke="#233146"/>
+  <rect x="7" y="139" width="260" height="48" rx="7" fill="#162132" stroke="#233146"/>
+  <text x="26" y="28" fill="#a2b4ca" font-size="13" font-family="ui-monospace,Consolas,monospace">01</text>
+  <text x="61" y="28" fill="#f0f6fc" font-size="16">Entender a operação</text>
+  <text x="26" y="93" fill="#b7a3ff" font-size="13" font-family="ui-monospace,Consolas,monospace">02</text>
+  <text x="61" y="93" fill="#f0f6fc" font-size="16">Construir e integrar</text>
+  <text x="26" y="169" fill="#69e8c3" font-size="13" font-family="ui-monospace,Consolas,monospace">03</text>
+  <text x="61" y="169" fill="#f0f6fc" font-size="16">Revisar e publicar</text>
+  <circle cx="137" cy="226" r="5" fill="#69e8c3"/>
+</g>
+</g></svg>
