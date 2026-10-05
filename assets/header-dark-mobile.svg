@@ -1,21 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="730" viewBox="0 0 720 730" role="img" aria-labelledby="title desc">
-<title id="title">Lucas Fernandes | Full Stack Engineer · AI Builder</title>
-<desc id="desc">Da operação real ao software. Produto, engenharia e IA aplicada. Do contexto à entrega.</desc>
+<title id="title">Lucas Fernandes | Desenvolvedor full stack</title>
+<desc id="desc">Também estou do outro lado da tela. Desenvolvedor full stack com mais de 15 anos de experiência no varejo.</desc>
 <rect width="720" height="730" rx="20" fill="#111713"/>
 <g font-family="Arial, Helvetica, sans-serif" fill="#F3F5EC">
 <rect x="36" y="36" width="52" height="52" rx="12" fill="#C6F65C"/>
 <text x="62" y="71" text-anchor="middle" font-size="25" font-weight="700" fill="#18271E">LF</text>
-<text x="106" y="57" font-size="14" letter-spacing="2" fill="#BAC5B9">FULL STACK ENGINEER</text>
-<text x="106" y="79" font-size="14" letter-spacing="2" fill="#BAC5B9">AI BUILDER</text>
+<text x="106" y="57" font-size="14" letter-spacing="2" fill="#BAC5B9">FULL STACK DEVELOPER</text>
+<text x="106" y="79" font-size="14" letter-spacing="2" fill="#BAC5B9">LUCASMEF / GITHUB</text>
 <path d="M36 116H684" stroke="#354438"/>
 <text x="32" y="209" font-size="66" font-weight="700" letter-spacing="-3">Lucas</text>
 <text x="32" y="279" font-size="66" font-weight="700" letter-spacing="-3">Fernandes<tspan fill="#C6F65C">.</tspan></text>
-<text x="36" y="355" font-size="32" font-weight="700">Da operação real</text>
-<text x="36" y="397" font-size="32" font-weight="700">ao software.</text>
-<text x="36" y="446" font-size="21" fill="#BAC5B9">Produto, engenharia e IA aplicada.</text>
-<rect x="36" y="492" width="648" height="142" rx="12" fill="#C6F65C"/>
-<g fill="#18271E"><text x="60" y="527" font-size="13" letter-spacing="2">COMO EU CONSTRUO</text>
-<text x="60" y="570" font-size="26" font-weight="700">Contexto → Spec → Código</text>
-<text x="60" y="608" font-size="26" font-weight="700">Validação → Entrega ↗</text></g>
-<text x="36" y="685" font-size="14" letter-spacing="2" fill="#BAC5B9">NEGÓCIO + TECNOLOGIA + EXECUÇÃO</text>
+<text x="36" y="355" font-size="32" font-weight="700">Também estou</text>
+<text x="36" y="397" font-size="32" font-weight="700">do outro lado da tela.</text>
+<text x="36" y="446" font-size="21" fill="#BAC5B9">Trabalho com varejo há mais de 15 anos.</text>
+<text x="36" y="476" font-size="21" fill="#BAC5B9">E desenvolvo software.</text>
+<rect x="36" y="502" width="648" height="142" rx="12" fill="#C6F65C"/>
+<g fill="#18271E"><text x="60" y="537" font-size="13" letter-spacing="2">COMO EU TRABALHO</text>
+<text x="60" y="580" font-size="26" font-weight="700">A spec vem antes do código.</text>
+<text x="60" y="618" font-size="26" font-weight="700">Depois, é implementar e conferir.</text></g>
+<text x="36" y="685" font-size="14" letter-spacing="2" fill="#BAC5B9">github.com/lucasmef</text>
 </g></svg>
