@@ -1,31 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="310" viewBox="0 0 1280 310" role="img" aria-label="Lucas Fernandes. AI Builder e Full Stack Engineer.">
-<title>Lucas Fernandes · AI Builder · Full Stack Engineer</title>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0f5fb"/><stop offset="1" stop-color="#e8f5f0"/></linearGradient>
-  <linearGradient id="accent"><stop stop-color="#087d64"/><stop offset="1" stop-color="#7250c9"/></linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dae4ee" stroke-width=".6"/></pattern>
-</defs>
-<rect width="1280" height="310" rx="16" fill="url(#bg)"/>
-<rect width="1280" height="310" rx="16" fill="url(#grid)" opacity=".5"/>
-<rect x="0" y="0" width="1280" height="3" fill="url(#accent)"/>
-<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-<text x="46" y="59" font-size="15" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="2.4" fill="#087d64">VAREJO · SOFTWARE · IA</text>
-<text x="42" y="133" font-size="67" font-weight="730" letter-spacing="-2.2" fill="#172b45">Lucas Fernandes</text>
-<text x="47" y="179" font-size="26" fill="#536982">AI Builder · Full Stack Engineer</text>
-<path d="M48 213H646" stroke="#dae4ee"/>
-<text x="47" y="256" font-size="18" fill="#536982">BuilderFlow · IA aplicada · CI/CD</text>
-<g transform="translate(852 44)">
-  <path d="M137 38V62M137 110V138M137 186V210" stroke="#087d64" stroke-opacity=".6" stroke-width="1.5"/>
-  <path d="M266 87H310V163H266" fill="none" stroke="#7250c9" stroke-opacity=".65" stroke-width="1.5"/>
-  <rect x="7" y="0" width="260" height="44" rx="7" fill="#ffffff" stroke="#dae4ee"/>
-  <rect x="7" y="63" width="260" height="48" rx="7" fill="#ffffff" stroke="#dae4ee"/>
-  <rect x="7" y="139" width="260" height="48" rx="7" fill="#ffffff" stroke="#dae4ee"/>
-  <text x="26" y="28" fill="#536982" font-size="13" font-family="ui-monospace,Consolas,monospace">01</text>
-  <text x="61" y="28" fill="#172b45" font-size="16">Entender a operação</text>
-  <text x="26" y="93" fill="#7250c9" font-size="13" font-family="ui-monospace,Consolas,monospace">02</text>
-  <text x="61" y="93" fill="#172b45" font-size="16">Construir e integrar</text>
-  <text x="26" y="169" fill="#087d64" font-size="13" font-family="ui-monospace,Consolas,monospace">03</text>
-  <text x="61" y="169" fill="#172b45" font-size="16">Revisar e publicar</text>
-  <circle cx="137" cy="226" r="5" fill="#087d64"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-labelledby="title desc">
+<title id="title">Lucas Fernandes | Full Stack Engineer · AI Builder</title>
+<desc id="desc">Da operação real ao software. Produto, engenharia e IA aplicada. Do contexto à entrega.</desc>
+<rect width="1280" height="500" rx="20" fill="#F2F1E9"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#18271E">
+<rect x="36" y="36" width="52" height="52" rx="12" fill="#C6F65C"/>
+<text x="62" y="71" text-anchor="middle" font-size="25" font-weight="700" fill="#18271E">LF</text>
+<text x="106" y="57" font-size="14" letter-spacing="2" fill="#46594B">FULL STACK ENGINEER</text>
+<text x="106" y="79" font-size="14" letter-spacing="2" fill="#46594B">AI BUILDER</text>
+<path d="M36 116H1244" stroke="#CAD0C4"/>
+<text x="1244" y="67" text-anchor="end" font-size="14" letter-spacing="2" fill="#46594B">NEGÓCIO + TECNOLOGIA + EXECUÇÃO</text>
+<text x="30" y="232" font-size="100" font-weight="700" letter-spacing="-5">Lucas Fernandes<tspan fill="#527725">.</tspan></text>
+<text x="36" y="295" font-size="36" font-weight="700">Da operação real ao software.</text>
+<text x="36" y="334" font-size="21" fill="#46594B">Produto, engenharia e IA aplicada.</text>
+<g transform="translate(1040 151)" fill="none" stroke="#527725" stroke-width="2">
+<rect x="0" y="0" width="180" height="180" rx="90"/><path d="M45 135L135 45M59 45H135V121" stroke-width="12" stroke-linecap="square"/>
+<circle cx="14" cy="154" r="10" fill="#C6F65C" stroke="#F2F1E9" stroke-width="5"/></g>
+<rect x="36" y="391" width="1208" height="73" rx="10" fill="#C6F65C"/>
+<g fill="#18271E"><text x="58" y="420" font-size="12" letter-spacing="2">COMO EU CONSTRUO</text>
+<text x="58" y="445" font-size="18" font-weight="700">Do contexto à entrega.</text>
+<text x="385" y="435" font-size="21" font-weight="700">Contexto → Spec → Código → Validação → Entrega</text></g>
 </g></svg>
