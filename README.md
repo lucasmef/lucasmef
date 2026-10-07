@@ -55,6 +55,30 @@ E-commerce que desenvolvo para a loja de moda feminina Raquel Talita. A cliente 
 
 ---
 
+### [Rosto Natural ↗](./projetos/rosto-natural.md)
+
+**Suavizar a imagem sem apagar a expressão.**
+
+Projeto de tratamento facial para vídeo, com preservação de textura e sem remodelar a geometria do rosto. Trabalho com máscaras faciais e estabilização entre quadros, além de um tratamento localizado para cabelos rebeldes. A integração com o Adobe Premiere Pro está em desenvolvimento.
+
+`C++` `MediaPipe` `Metal` `Adobe UXP`
+
+[Veja o processamento e o estágio do projeto →](./projetos/rosto-natural.md)
+
+---
+
+### [Voz Neural ↗](./projetos/voz-neural.md)
+
+**Menos ruído, espaço para a voz.**
+
+Processamento local de áudio voltado à voz feminina falada em vídeos curtos. Combina modelos de redução de ruído com ajustes de timbre e nível. Desenvolvo também um painel para tratar clipes no Premiere, preservando a mídia original.
+
+`Python` `NumPy` `DeepFilterNet` `RNNoise` `C++` `Adobe UXP`
+
+[Conheça o fluxo de áudio e a integração com o editor →](./projetos/voz-neural.md)
+
+---
+
 ### Loja de Jogos Usados
 
 **Vender um jogo não pode bagunçar o estoque.**
@@ -120,11 +144,13 @@ Quando uso mais de um agente, delimito o que cada um pode alterar e quais partes
 
 Mantenho o contexto em arquivos como `AGENTS.md` e crio skills para instruções que preciso reutilizar. Registro decisões de arquitetura em ADRs quando necessário. Isso ajuda a retomar o trabalho em outra sessão sem ter que explicar o projeto inteiro de novo.
 
-### [BuilderFlow ↗](https://github.com/lucasmef/builder-flow)
+### [BuilderFlow ↗](./projetos/builderflow.md)
 
 **Para continuar de onde parei.**
 
 Criei o BuilderFlow para levar essa organização aos meus repositórios. Ele instala uma estrutura de contexto e especificações, com uma spec por funcionalidade. Durante o desenvolvimento, atualizo esse documento com as decisões e o que ainda falta fazer.
+
+[Conheça o BuilderFlow →](./projetos/builderflow.md) · [Consultar o código](https://github.com/lucasmef/builder-flow)
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/workflow-mobile.svg">
@@ -139,6 +165,7 @@ Criei o BuilderFlow para levar essa organização aos meus repositórios. Ele in
 | **Backend** | Python · FastAPI · Node.js · APIs REST |
 | **Dados** | PostgreSQL · Supabase · Redis · Prisma · SQLAlchemy |
 | **IA e automação** | Codex · Claude Code · Antigravity · AI SDK · Trigger.dev |
+| **Projetos de áudio e imagem** | C++ · NumPy · MediaPipe · Metal · Adobe UXP |
 | **Infraestrutura** | GitHub Actions · Vercel · Linux · Docker · Nginx |
 
 <details>
