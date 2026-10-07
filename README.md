@@ -12,6 +12,8 @@
   &nbsp; · &nbsp;
   <a href="#projetos">Projetos</a>
   &nbsp; · &nbsp;
+  <a href="#codigo-aberto">Código aberto</a>
+  &nbsp; · &nbsp;
   <a href="#ia-e-specs">Como uso IA</a>
 </p>
 
@@ -25,6 +27,34 @@ Curso Sistemas de Informação na PUC Minas e desenvolvo aplicações full stack
 
 ## 01 / Projetos
 
+### [Salomão ↗](./projetos/salomao.md)
+
+**O financeiro não acaba quando a venda fecha.**
+
+Sistema de gestão financeira que desenvolvo e mantenho em operação. Reúne cobranças, conciliação bancária, planejamento de compras e fluxo de caixa, com integrações com Banco Inter e Linx.
+
+Cuido das telas, das regras do financeiro e da publicação em VPS. O projeto tem autenticação com MFA, registros de auditoria e ambientes separados para homologação e produção.
+
+`React` `FastAPI` `PostgreSQL` `Redis` `Linux` `GitHub Actions`
+
+[Conheça o projeto e minhas responsabilidades →](./projetos/salomao.md)
+
+---
+
+### [Smart Shop ↗](./projetos/smart-shop.md)
+
+**Escolher pelo look, comprar por peça.**
+
+E-commerce que desenvolvo para a loja de moda feminina Raquel Talita. A cliente pode escolher peças a partir de um look e seguir com elas para o checkout. O projeto também envolve reserva de estoque e integrações de pagamento e frete.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+
+<sub>Em desenvolvimento · Código privado</sub>
+
+[Veja a proposta da loja e o trabalho técnico →](./projetos/smart-shop.md)
+
+---
+
 ### Loja de Jogos Usados
 
 **Vender um jogo não pode bagunçar o estoque.**
@@ -35,36 +65,14 @@ Também organizei as specs e os contratos entre módulos para orientar a impleme
 
 `JavaScript` `HTML & CSS` `ES Modules` `localStorage` `Testes com Node.js`
 
-<sub>Repositório privado. O link da demonstração será incluído quando o projeto estiver publicado.</sub>
+<sub>Repositório privado. Demonstração pública após a integração do projeto.</sub>
 <!-- Quando a demo estiver publicada, incluir aqui o link público confirmado do GitSites. -->
 
----
+<a id="codigo-aberto"></a>
 
-### Smart Shop
+## 02 / Código aberto
 
-**Escolher pelo look, comprar por peça.**
-
-E-commerce que desenvolvo para a loja de moda feminina Raquel Talita. A cliente pode escolher peças a partir de um look e seguir com elas para o checkout. O projeto também envolve reserva de estoque e integrações de pagamento e frete.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
-
-<sub>Em desenvolvimento · Código privado</sub>
-
----
-
-### [Salomão ↗](https://github.com/lucasmef/salomao)
-
-**O financeiro não acaba quando a venda fecha.**
-
-Sistema de gestão financeira com cobranças, conciliação bancária, planejamento de compras e fluxo de caixa. Desenvolvo as integrações com Banco Inter e Linx, além das telas e regras do financeiro.
-
-Também cuido da publicação em VPS. O projeto tem autenticação com MFA e registros de auditoria, com ambientes separados para homologação e produção.
-
-`React` `FastAPI` `PostgreSQL` `Redis` `Linux`
-
-[Documentação de segurança](https://github.com/lucasmef/salomao#segurança-em-destaque)
-
----
+Nestes projetos, você também pode consultar o código e as instruções de uso.
 
 ### [doit.md ↗](https://github.com/lucasmef/doit.md)
 
@@ -88,9 +96,21 @@ Base de um SaaS para planejar e produzir conteúdo para redes sociais com IA. Os
 
 [Funcionalidades e arquitetura](https://github.com/lucasmef/growth-agent#principais-funcionalidades)
 
+---
+
+### [Reel Transcribe ↗](https://github.com/lucasmef/reel-transcribe)
+
+**A fala do vídeo, pronta para trabalhar no texto.**
+
+Ferramenta de linha de comando que baixa Reels públicos e usa o Gemini para transcrever a fala em português. Quando o áudio está em outro idioma, gera uma tradução integral. O vídeo fica salvo localmente junto do texto; apenas o áudio é enviado para transcrição.
+
+`Python` `Gemini API` `FFmpeg`
+
+[Instalação e exemplos de uso](https://github.com/lucasmef/reel-transcribe#uso)
+
 <a id="ia-e-specs"></a>
 
-## 02 / Como trabalho com IA
+## 03 / Como trabalho com IA
 
 **A spec é o combinado antes do código.**
 
@@ -111,7 +131,7 @@ Criei o BuilderFlow para levar essa organização aos meus repositórios. Ele in
   <img src="./assets/workflow.svg" alt="Etapas do BuilderFlow: contexto, especificação, implementação, revisão e publicação." width="100%">
 </picture>
 
-## 03 / Tecnologias que uso
+## 04 / Tecnologias que uso
 
 | Área | Tecnologias |
 | :--- | :--- |
