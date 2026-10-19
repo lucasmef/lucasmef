@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasmef"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
   <a href="mailto:lucasmef@gmail.com"><strong>E-mail</strong></a> &nbsp;·&nbsp;
-  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
+  <a href="#user-content-projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#user-content-tecnologias">Tecnologias</a>
 </p>
 
 ## Sobre mim
