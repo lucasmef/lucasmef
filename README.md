@@ -20,7 +20,19 @@ Desenvolvo aplicações com **TypeScript, React, Python e PostgreSQL**. Tenho ma
 
 <a id="projetos"></a>
 
-## Projetos selecionados
+## Projetos em destaque
+
+### [Meu Negócio Fácil · ERP para pequenos empreendedores](./projetos/meu-negocio-facil.md)
+
+**Projeto acadêmico entregue, desenvolvido do zero em equipe, sem uso de IA na implementação.** Reúne cadastros, vendas de produtos e serviços, estoque, financeiro, agenda e relatórios em um sistema que funciona no navegador.
+
+Atuei na arquitetura SPA, autenticação, PDV, gestão de insumos, dashboard e relatórios, além da organização do trabalho como Scrum Master.
+
+<a href="./projetos/meu-negocio-facil.md"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/934e3b4f6bca44352bde104486054fb00de4383f/docs/img/tests/05.jpeg" alt="Meu Negócio Fácil: painel do ERP acadêmico com navegação para cadastros, faturamento, agenda, financeiro e relatórios" width="100%"></a>
+
+`JavaScript` `HTML` `CSS` `LocalStorage` `JSON`
+
+[Abrir o sistema](https://icei-puc-minas-pmv-si.github.io/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/) · [Ver o código](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil) · [Telas e minha contribuição](./projetos/meu-negocio-facil.md)
 
 ### [Salomão · gestão financeira](./projetos/salomao.md)
 
@@ -30,6 +42,20 @@ Sistema que desenvolvo e mantenho para cobranças, conciliação bancária, plan
 
 [Minha contribuição e decisões técnicas →](./projetos/salomao.md) · Código operacional privado
 
+### [doit.md · aplicativo PWA de produtividade](./projetos/doit.md)
+
+Aplicativo que desenvolvi para reunir **notas, tarefas, projetos e calendário**. A experiência inclui editor Markdown, checklists com progresso, organização por pastas e uso em desktop e celular. A integração com Google Calendar e uma CLI de sincronização conectam o aplicativo a outros fluxos de trabalho.
+
+<a href="./projetos/doit.md"><img src="https://raw.githubusercontent.com/lucasmef/doit.md/4099abf9f34b8bc70f5e5d25cb281bfb189442b4/specs/artifacts/2026-06-09-corrigir-137-138-progresso-visual-icone-modificacao/01-notas-folder-lista-desktop.png" alt="doit.md: captura histórica da PWA, com pastas, notas, tarefas concluídas e indicadores de progresso usando dados de teste" width="100%"></a>
+
+`Next.js` `React` `TypeScript` `Node.js` `PWA` `Google APIs`
+
+**A versão hospedada foi retirada do ar e o desenvolvimento está em pausa.** O código e as capturas do aplicativo funcionando continuam disponíveis para conhecer o projeto.
+
+[Ver telas desktop e mobile](./projetos/doit.md) · [Consultar o código](https://github.com/lucasmef/doit.md)
+
+## Outros projetos aplicados
+
 ### [Smart Shop · e-commerce por look](./projetos/smart-shop.md)
 
 Loja em desenvolvimento para a Raquel Talita. A compra parte de combinações de roupas e segue por peças, tamanhos e disponibilidade. Trabalho no catálogo, checkout, reserva de estoque e integrações de pagamento e frete. A operação comercial ainda exige homologação.
@@ -38,23 +64,15 @@ Loja em desenvolvimento para a Raquel Talita. A compra parte de combinações de
 
 [Experiência de compra e desafios de estoque →](./projetos/smart-shop.md) · Código privado
 
-### [Send Mail · fila de e-mails](./projetos/send-mail.md)
-
-CLI local com fila persistente em SQLite, envio SMTP com TLS e credenciais no Keychain do macOS. O projeto trata idempotência, retomada e falhas após possível aceitação da mensagem para evitar reenvios automáticos indevidos.
-
-`Python` `SQLite` `SMTP` `IMAP` `Testes automatizados`
-
-[Consultar o código](https://github.com/lucasmef/send-mail) · [Arquitetura e tratamento de falhas](./projetos/send-mail.md)
-
 <a id="codigo-publico"></a>
 
 ## Código público
 
 | Projeto | O que desenvolvi | Estado |
 | :--- | :--- | :--- |
+| [Send Mail](https://github.com/lucasmef/send-mail) | Fila local de e-mails com SQLite, TLS, idempotência e recuperação de falhas. [Arquitetura](./projetos/send-mail.md). | Ferramenta local para macOS |
 | [Reel Transcribe](https://github.com/lucasmef/reel-transcribe) | CLI para baixar conteúdo autorizado e transcrever ou traduzir áudio com Gemini, com testes de erros HTTP, limites e redirecionamentos. | Ferramenta local |
 | [BuilderFlow](https://github.com/lucasmef/builder-flow) | Instalador de templates de contexto, specs e decisões para desenvolvimento assistido por IA. | Fluxo de trabalho reutilizável |
-| [doit.md](https://github.com/lucasmef/doit.md) | Aplicativo de notas, tarefas e calendário com CLI de sincronização Markdown e revisão das alterações. | Em pausa; código preservado como histórico; Actions desativadas |
 
 ## Ferramentas e experimentos
 
@@ -79,7 +97,7 @@ Também desenvolvo ferramentas locais para áudio, vídeo e produtividade. As ap
 
 ## Como trabalho
 
-Uso especificações para definir o comportamento esperado e agentes de IA para apoiar implementação e revisão. Confiro as mudanças com testes e verificações dos fluxos, conforme a tarefa. Mantenho o contexto e as decisões perto do código; o [BuilderFlow](./projetos/builderflow.md) reúne os templates que utilizo nesse processo.
+O Meu Negócio Fácil foi implementado sem IA. Nos projetos atuais, uso especificações para definir o comportamento esperado e agentes de IA para apoiar implementação e revisão. Confiro as mudanças com testes e verificações dos fluxos, conforme a tarefa. Mantenho o contexto e as decisões perto do código; o [BuilderFlow](./projetos/builderflow.md) reúne os templates que utilizo nesse processo.
 
 ## Tecnologias
 
