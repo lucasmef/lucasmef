@@ -2,11 +2,11 @@
 
 # Send Mail
 
-## Uma fila de e-mails que pode ser retomada
+## CLI de envio com fila persistente
 
-Desenvolvi o Send Mail para preparar, revisar e enviar mensagens pelo terminal do Mac. A fila fica em SQLite, as credenciais no Keychain e a conexão com o servidor de e-mail usa TLS.
+CLI em Python para preparação, revisão e envio de e-mails no macOS. Fila persistente em SQLite, credenciais no Keychain e transporte SMTP com TLS.
 
-### O que acontece quando um envio falha
+### Consistência da fila e recuperação de falhas
 
 Uma conexão pode cair depois que o servidor aceitou a mensagem. Repetir o envio nesse caso pode entregar duas cópias. O Send Mail registra essa situação como incerta e aguarda uma decisão, em vez de tentar novamente por conta própria.
 

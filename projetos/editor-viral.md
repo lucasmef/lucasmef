@@ -4,7 +4,7 @@
 
 ## Montagem de vídeos com referência ao material original
 
-Estou desenvolvendo uma base local de edição para vídeos digitais. Ela combina a seleção de trechos com legendas, cartões e zooms em composições Remotion.
+Base local de edição programática com TypeScript, React e Remotion. Combina seleção de trechos, legendas, cartões e zooms, com registro da origem dos cortes e dos estados de revisão.
 
 ### Da gravação à montagem
 

@@ -4,9 +4,9 @@
 
 ## Tratamento de voz para vídeos
 
-Desenvolvo o Voz Neural para reduzir ruído e ajustar timbre e nível em gravações de voz feminina falada. O processamento roda localmente e gera um novo arquivo WAV, preservando a gravação original.
+Processamento local de voz com redução de ruído, ajustes de timbre e controle de nível. Calibração para voz feminina falada e exportação de um novo WAV, preservando a gravação original.
 
-### Como trato o áudio
+### Cadeia de processamento
 
 O RNNoise ajuda a identificar os trechos de voz, e o DeepFilterNet faz parte da redução de ruído. Depois, o processamento de sinal ajusta a presença e o nível da fala, com transições graduais entre voz e ambiência.
 
@@ -14,9 +14,9 @@ A saída usa dois canais idênticos para evitar a queda de nível que pode ocorr
 
 ### Integração com o Premiere
 
-Estou desenvolvendo um painel UXP com uma ponte em C++. A ideia é processar cada clipe selecionado e inserir o resultado em outra faixa, na posição original, sem substituir a mídia de origem.
+A integração em desenvolvimento usa um painel UXP e uma ponte em C++. O fluxo previsto processa os clipes selecionados e insere o resultado em outra faixa, na posição original, preservando a mídia de origem.
 
-Mantive Python e NumPy como referência para não mudar o resultado numérico ao ligar o processamento ao painel. Versões fixadas e comparações de hashes ajudam a detectar diferenças na saída.
+Python e NumPy servem de referência numérica para a integração com o painel. Versões fixadas e comparações de hashes ajudam a detectar diferenças na saída.
 
 O núcleo funciona localmente. A integração com o Premiere continua em desenvolvimento, e a calibração descrita no projeto se limita à voz feminina falada.
 

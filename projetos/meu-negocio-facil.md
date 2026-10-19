@@ -2,9 +2,9 @@
 
 # Meu Negócio Fácil
 
-## Um sistema de gestão feito em equipe
+## ERP acadêmico em JavaScript
 
-Construí o Meu Negócio Fácil com minha equipe no curso de Sistemas de Informação da PUC Minas. O objetivo era reunir as rotinas de um pequeno negócio em uma aplicação simples de usar. Entregamos o projeto com HTML, CSS e JavaScript, sem IA na implementação.
+ERP para pequenos negócios, entregue em equipe no curso de Sistemas de Informação da PUC Minas. Aplicação em HTML, CSS e JavaScript, com arquitetura SPA e persistência em LocalStorage. Implementação sem IA.
 
 [Abrir o sistema](https://icei-puc-minas-pmv-si.github.io/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/) · [Ver o código](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil) · [Vídeo de demonstração](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/blob/main/presentation/video-presentation.mp4)
 
@@ -18,7 +18,7 @@ A navegação foi construída como uma SPA: os módulos mudam sem recarregar a p
 
 ### Minha participação
 
-Trabalhei na arquitetura SPA e implementei a autenticação, o PDV, a gestão de insumos, o dashboard e os relatórios de produtos, serviços e faturamento. Como Scrum Master, também organizei o backlog e acompanhei as entregas da equipe.
+Minha responsabilidade técnica abrangeu a arquitetura SPA, autenticação, PDV, gestão de insumos, dashboard e relatórios de produtos, serviços e faturamento. Como Scrum Master, também organizei o backlog e acompanhei as entregas da equipe.
 
 Os [meus commits](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef) mostram a evolução desse trabalho. Os demais integrantes estão nos [créditos do projeto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil#integrantes).
 

@@ -4,7 +4,7 @@
 
 ## Notas, tarefas e calendário no mesmo aplicativo
 
-Criei o doit.md para organizar notas e tarefas sem separá-las do calendário. O aplicativo permite escrever em Markdown, montar checklists, acompanhar o progresso e agrupar o conteúdo em pastas.
+PWA de produtividade com editor Markdown, checklists, indicadores de progresso e organização de notas e tarefas por pastas. Aplicação Next.js e CLI Node.js organizadas em monorepo, com pacotes compartilhados.
 
 É uma PWA, com interface para computador e celular e opção de instalação pelo navegador. **A versão online saiu do ar e o desenvolvimento está em pausa.** O código e as capturas do aplicativo continuam públicos.
 
@@ -26,9 +26,9 @@ A interface adapta a navegação à tela menor, com acesso às notas, ao calend�
 
 <img src="https://raw.githubusercontent.com/lucasmef/doit.md/4099abf9f34b8bc70f5e5d25cb281bfb189442b4/specs/artifacts/2026-05-22-calendario-adicao-eventos/01-calendar-desktop.png" alt="Calendário mensal da PWA doit.md, em uma captura histórica com ambiente de teste" width="100%">
 
-O projeto tem integração com Google Calendar e permite anexar arquivos pelo Google Drive. Também desenvolvi uma CLI que sincroniza o conteúdo com arquivos Markdown locais. As mudanças nesses arquivos passam por revisão antes de voltar ao aplicativo.
+O projeto tem integração com Google Calendar e permite anexar arquivos pelo Google Drive. A CLI sincroniza o conteúdo com arquivos Markdown locais. As mudanças nesses arquivos passam por revisão antes de voltar ao aplicativo.
 
-### Como organizei o código
+### Arquitetura
 
 O monorepo separa a aplicação Next.js, a CLI em Node.js e os pacotes compartilhados. Há módulos para persistência, Markdown, calendário, sincronização e revisão das alterações. O banco pode usar SQLite local ou PostgreSQL, conforme o ambiente.
 

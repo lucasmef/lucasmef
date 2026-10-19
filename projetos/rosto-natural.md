@@ -4,13 +4,13 @@
 
 ## Tratamento facial para vídeo
 
-Desenvolvo o Rosto Natural para suavizar a pele e ajustar detalhes do rosto, preservando textura e sem alterar intencionalmente a geometria facial. O tratamento precisa acompanhar o movimento sem ficar oscilando entre os quadros.
+Núcleo de processamento facial em C++ para suavização de pele e correções localizadas. Máscaras e estabilização temporal controlam a aplicação do efeito ao longo dos quadros, com preservação de textura e geometria facial como critérios de validação.
 
 ### Processamento da imagem
 
 O núcleo em C++ combina suavização em diferentes escalas com máscaras faciais. Há controles para pele, olheiras, cor e maquiagem leve. O rastreamento usa MediaPipe, com estabilização ao longo do vídeo.
 
-Também trabalho em um tratamento localizado de cabelos rebeldes. Ele separa a área a corrigir do cabelo que deve ser preservado e protege o rosto durante a reconstrução do fundo.
+O módulo de correção de cabelos rebeldes delimita a área tratada, preserva a região principal do cabelo e protege o rosto durante a reconstrução do fundo.
 
 ### Integração com o editor
 

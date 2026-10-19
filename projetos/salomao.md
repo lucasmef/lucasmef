@@ -4,24 +4,24 @@
 
 ## Gestão financeira para a rotina do varejo
 
-Desenvolvo e mantenho o Salomão em operação para acompanhar cobranças, conferir recebimentos e planejar o caixa. O sistema reúne conciliação bancária, compras, contas a receber e projeções financeiras.
+Sistema de gestão financeira em operação no varejo. Frontend React, API FastAPI e persistência em PostgreSQL, com módulos de cobranças, conciliação bancária, compras, contas a receber e projeções de caixa.
 
-Minha experiência no varejo entra nas decisões do projeto. Uma venda precisa continuar sendo acompanhada até o recebimento, e uma compra parcelada precisa aparecer no planejamento dos próximos meses.
+As regras de negócio relacionam vendas a recebimentos e compras parceladas às projeções mensais de caixa.
 
-### Meu trabalho
+### Responsabilidades técnicas
 
-Desenvolvo o frontend em React, a API em FastAPI e a modelagem do banco. Também trabalho nas integrações com Banco Inter e Linx, nas importações e nos relatórios.
+Escopo de atuação: frontend, endpoints da API, modelagem de dados, integrações com Banco Inter e Linx, importações e relatórios.
 
 A manutenção inclui a aplicação na VPS, as migrações do banco e as verificações depois das atualizações. Homologação e produção ficam em ambientes separados, com publicação de produção acionada manualmente.
 
-### Algumas decisões do projeto
+### Autenticação, integrações e validação
 
 - Integração bancária para consultar movimentações e acompanhar cobranças.
 - Autenticação com MFA e registros de auditoria para controlar o acesso e consultar alterações.
 - Compras e parcelas ligadas ao planejamento de caixa.
 - Testes das regras e dos fluxos antes de atualizar a aplicação em uso.
 
-Uso agentes de IA na implementação e na revisão. Defino o escopo, acompanho os testes e decido quando uma mudança pode seguir para a operação.
+Implementação e revisão com apoio de agentes de IA. Definição de escopo, validação e liberação das alterações sob minha responsabilidade.
 
 O código é privado. Esta página apresenta o trabalho sem expor dados financeiros da operação.
 

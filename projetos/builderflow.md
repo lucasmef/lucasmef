@@ -2,9 +2,9 @@
 
 # BuilderFlow
 
-## Contexto de projeto que fica no repositório
+## Templates e CLI para desenvolvimento com agentes
 
-Criei o BuilderFlow para retomar o desenvolvimento com um agente de IA sem precisar explicar o projeto inteiro em cada sessão. Ele instala arquivos de contexto, modelos de especificação e um lugar para registrar decisões.
+CLI em Node.js para instalar arquivos de contexto, templates de especificação e registros de decisões de arquitetura. A documentação no repositório mantém o contexto do trabalho entre sessões de agentes de IA.
 
 ### O que ele instala
 
@@ -18,9 +18,9 @@ Criei o BuilderFlow para retomar o desenvolvimento com um agente de IA sem preci
 
 A CLI foi escrita em Node.js. Ela cria a estrutura que falta e, por padrão, preserva os documentos existentes.
 
-### Como uso
+### Fluxo de trabalho
 
-Antes de implementar uma funcionalidade, descrevo o comportamento esperado. Durante o trabalho, atualizo a mesma especificação com decisões, testes e pendências. Na próxima sessão, esse registro ajuda a continuar de onde parei.
+Cada funcionalidade parte de uma especificação de comportamento. Decisões, testes e pendências ficam no mesmo registro para permitir a continuidade entre sessões.
 
 <picture>
   <source media="(max-width: 600px)" srcset="../assets/workflow-mobile.svg">

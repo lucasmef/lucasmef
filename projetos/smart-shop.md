@@ -2,15 +2,15 @@
 
 # Smart Shop
 
-## Uma loja em que a compra começa pelo look
+## E-commerce com navegação por looks
 
-Desenvolvo a Smart Shop para a loja de moda feminina Raquel Talita. A cliente vê uma combinação de roupas, escolhe as peças e os tamanhos e leva essa seleção para a sacola.
+E-commerce para a loja Raquel Talita. A navegação por looks permite selecionar peças e tamanhos de uma composição e adicionar a seleção à sacola.
 
 ### Da vitrine ao pedido
 
-Trabalho no catálogo e na experiência de compra, mas também nas regras de estoque e pedidos. Antes de oferecer uma peça, o sistema precisa considerar as reservas e as vendas que já comprometeram aquele saldo.
+O catálogo e o checkout se integram às regras de estoque e pedidos. O saldo disponível considera reservas e vendas anteriores para impedir que a mesma unidade seja comprometida em pedidos diferentes.
 
-O projeto inclui checkout, integrações de pagamento e cotação de frete, além de um painel para a operação da loja. Uso Next.js e TypeScript na aplicação, com PostgreSQL e Supabase.
+O projeto inclui checkout, integrações de pagamento e cotação de frete, além de um painel para a operação da loja. A aplicação usa Next.js e TypeScript, com PostgreSQL e Supabase.
 
 As especificações registram o comportamento esperado, e os testes conferem as regras e a comunicação entre os módulos.
 

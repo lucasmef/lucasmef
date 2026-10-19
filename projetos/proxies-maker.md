@@ -4,11 +4,11 @@
 
 ## Cópias leves para consultar vídeos
 
-Ferramenta que desenvolvi para gerar versões menores de vídeos no Mac, preservando os arquivos originais. Ela reúne uma interface em Swift e o processamento em Python com FFmpeg.
+Conversor de vídeo em lote para macOS, com interface em Swift e processamento em Python com FFmpeg. Gera versões leves para consulta, preservando os arquivos originais.
 
 ### Conversão em lote
 
-Trabalhei na fila de conversão, no acompanhamento do progresso, no processamento de subpastas e na conferência dos arquivos gerados. Um teste cria mídia sintética para verificar a conversão e a integridade do áudio.
+A implementação inclui fila de conversão, acompanhamento de progresso, processamento de subpastas e verificação dos arquivos gerados. Um teste cria mídia sintética para verificar a conversão e a integridade do áudio.
 
 Também há uma variante experimental com VideoToolbox. Ela depende do hardware e de um FFmpeg compatível, sem troca automática para codificação por software.
 
