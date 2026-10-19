@@ -1,46 +1,25 @@
-[← Voltar ao portfólio](../README.md#user-content-projetos)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # Smart Shop
 
-## E-commerce de moda com compra por look
+## Uma loja em que a compra começa pelo look
 
-Desenvolvo a Smart Shop para a loja de moda feminina Raquel Talita. O catálogo apresenta combinações de roupas e permite selecionar cada peça por tamanho, preço e disponibilidade.
+Desenvolvo a Smart Shop para a loja de moda feminina Raquel Talita. A cliente vê uma combinação de roupas, escolhe as peças e os tamanhos e leva essa seleção para a sacola.
 
-<sub>Em desenvolvimento · Código privado</sub>
+### Da vitrine ao pedido
 
-### A experiência de compra
+Trabalho no catálogo e na experiência de compra, mas também nas regras de estoque e pedidos. Antes de oferecer uma peça, o sistema precisa considerar as reservas e as vendas que já comprometeram aquele saldo.
 
-A cliente escolhe um look, seleciona as peças que deseja comprar e segue para o checkout. O sistema controla a seleção, os preços e a disponibilidade dos itens ao longo do pedido.
+O projeto inclui checkout, integrações de pagamento e cotação de frete, além de um painel para a operação da loja. Uso Next.js e TypeScript na aplicação, com PostgreSQL e Supabase.
 
-### Meu trabalho no projeto
+As especificações registram o comportamento esperado, e os testes conferem as regras e a comunicação entre os módulos.
 
-Trabalho na aplicação em Next.js e TypeScript, com PostgreSQL e Supabase. Minha atuação inclui catálogo, sacola, checkout, pedidos, reserva de estoque e painel administrativo, além das integrações de pagamento e cotação de frete.
+### Etapa atual
 
-### Funcionalidades
-
-| Área | Funcionalidade |
-| :--- | :--- |
-| Compra por look | Permitir que a cliente escolha as peças que deseja comprar. |
-| Sacola e checkout | Manter a seleção ao longo da compra. |
-| Estoque | Considerar as reservas e o estado dos pedidos antes de oferecer uma peça. |
-| Pagamento e frete | Integrar a cobrança e a cotação ao fluxo do pedido. |
-
-Documento os requisitos antes de implementar e uso agentes de IA como apoio ao desenvolvimento. Os testes verificam as regras de negócio e a integração entre os módulos.
-
-### Estágio atual
-
-O projeto está em desenvolvimento, com homologação das integrações e da operação comercial pendente. A demonstração pública ainda está indisponível.
-
-### Tecnologias
+A loja está em desenvolvimento. As integrações e a operação comercial precisam passar por homologação antes da abertura das vendas. O código é privado, e ainda não há uma demonstração pública vinculada a esta apresentação.
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Vercel`
 
-### Contato
+[Conversar sobre a Smart Shop](mailto:lucasmef@gmail.com?subject=Projeto%20Smart%20Shop)
 
-Para conversar sobre o desenvolvimento, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre a Smart Shop](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Smart%20Shop).
-
-<!-- Incluir aqui o link confirmado da loja ou de uma demonstração pública quando estiver disponível. -->
-
----
-
-[Ver o Salomão →](./salomao.md) · [Voltar ao portfólio](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

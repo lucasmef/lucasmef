@@ -1,42 +1,32 @@
-[← Voltar ao portfólio](../README.md#user-content-projetos)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # Salomão
 
-## Gestão financeira para o varejo
+## Gestão financeira para a rotina do varejo
 
-Desenvolvo e mantenho o Salomão, um sistema em operação para cobranças, conciliação bancária, planejamento de compras e acompanhamento do fluxo de caixa.
+Desenvolvo e mantenho o Salomão em operação para acompanhar cobranças, conferir recebimentos e planejar o caixa. O sistema reúne conciliação bancária, compras, contas a receber e projeções financeiras.
 
-O projeto atende rotinas financeiras do varejo, como conferir recebimentos, controlar títulos em aberto e planejar o pagamento das compras.
+Minha experiência no varejo entra nas decisões do projeto. Uma venda precisa continuar sendo acompanhada até o recebimento, e uma compra parcelada precisa aparecer no planejamento dos próximos meses.
 
-### O que desenvolvo
+### Meu trabalho
 
-Trabalho no frontend em React, no backend em FastAPI, na modelagem dos dados e nas integrações com Banco Inter e Linx. O sistema inclui gestão de títulos, boletos e projeções de caixa.
+Desenvolvo o frontend em React, a API em FastAPI e a modelagem do banco. Também trabalho nas integrações com Banco Inter e Linx, nas importações e nos relatórios.
 
-Também cuido da aplicação em VPS, das atualizações e das migrações do banco de dados. Após cada deploy, verifico o funcionamento dos fluxos alterados.
+A manutenção inclui a aplicação na VPS, as migrações do banco e as verificações depois das atualizações. Homologação e produção ficam em ambientes separados, com publicação de produção acionada manualmente.
 
-### Funcionalidades e decisões técnicas
+### Algumas decisões do projeto
 
-| Necessidade | Como aparece no sistema |
-| :--- | :--- |
-| Conferir recebimentos | Integração bancária e conciliação dos lançamentos. |
-| Planejar compromissos futuros | Compras, parcelas e projeções de fluxo de caixa. |
-| Controlar o acesso e acompanhar alterações | Autenticação com MFA e registros de auditoria. |
-| Atualizar a aplicação em uso | Ambientes separados e workflows de publicação, com deploy de produção acionado manualmente. |
+- Integração bancária para consultar movimentações e acompanhar cobranças.
+- Autenticação com MFA e registros de auditoria para controlar o acesso e consultar alterações.
+- Compras e parcelas ligadas ao planejamento de caixa.
+- Testes das regras e dos fluxos antes de atualizar a aplicação em uso.
 
-### Desenvolvimento com IA
+Uso agentes de IA na implementação e na revisão. Defino o escopo, acompanho os testes e decido quando uma mudança pode seguir para a operação.
 
-Defino o escopo das mudanças, registro as decisões no repositório e uso agentes de IA como apoio à implementação e à revisão. Confiro o resultado com testes automatizados e verificações dos fluxos antes de aprovar a publicação.
-
-### Tecnologias
+O código é privado. Esta página apresenta o trabalho sem expor dados financeiros da operação.
 
 `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Redis` `GitHub Actions` `Linux`
 
-### Acesso e contato
+[Conversar sobre o Salomão](mailto:lucasmef@gmail.com?subject=Projeto%20Salom%C3%A3o)
 
-O código do sistema é privado. Para conversar sobre o desenvolvimento e as decisões técnicas, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Salomão](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Salom%C3%A3o).
-
-<!-- Incluir aqui um link confirmado de demonstração com dados fictícios ou um vídeo de apresentação, quando disponível. -->
-
----
-
-[Ver a Smart Shop →](./smart-shop.md) · [Voltar ao portfólio](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

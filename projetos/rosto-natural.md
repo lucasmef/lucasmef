@@ -1,48 +1,25 @@
-[← Voltar ao portfólio](../README.md#user-content-projetos)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # Rosto Natural
 
-## Tratamento local de pele e cabelo em vídeo
+## Tratamento facial para vídeo
 
-Desenvolvo o Rosto Natural para tratar pele e cabelos em vídeos com processamento local. O objetivo é preservar a textura e o contorno do rosto e manter o efeito estável entre quadros, sem alterar a geometria facial.
+Desenvolvo o Rosto Natural para suavizar a pele e ajustar detalhes do rosto, preservando textura e sem alterar intencionalmente a geometria facial. O tratamento precisa acompanhar o movimento sem ficar oscilando entre os quadros.
 
-A integração com o Adobe Premiere Pro está em desenvolvimento.
+### Processamento da imagem
 
-### Processamento de imagem
+O núcleo em C++ combina suavização em diferentes escalas com máscaras faciais. Há controles para pele, olheiras, cor e maquiagem leve. O rastreamento usa MediaPipe, com estabilização ao longo do vídeo.
 
-O núcleo em C++ combina suavização em diferentes escalas com máscaras faciais. Os controles permitem ajustar pele, olheiras e cor, além de aplicar maquiagem leve. O rastreamento usa MediaPipe, com estabilização temporal para reduzir mudanças bruscas no tratamento.
+Também trabalho em um tratamento localizado de cabelos rebeldes. Ele separa a área a corrigir do cabelo que deve ser preservado e protege o rosto durante a reconstrução do fundo.
 
-O processamento de cabelos rebeldes separa a região a tratar da massa principal do cabelo e protege o rosto durante a reconstrução do fundo.
+### Integração com o editor
 
-### Decisões técnicas
+O projeto tem testes do núcleo e comparações de imagens para conferir textura, contorno e alterações fora da área tratada. A implementação foi avaliada fora do Premiere; o teste completo no editor ainda está pendente.
 
-| Desafio | Abordagem do projeto |
-| :--- | :--- |
-| Preservar detalhes da pele | Suavização com controle de textura e comparação com as imagens de referência. |
-| Respeitar os limites do rosto | Máscaras internas e proteção do contorno. |
-| Acompanhar o movimento | Estabilização das detecções ao longo dos quadros. |
-| Preparar o processamento em GPU | Núcleo CPU de referência e shader Metal com a mesma matemática facial. |
-
-### Estágio atual e validação
-
-O projeto reúne testes do núcleo e comparações de imagens para avaliar textura, contorno e alterações fora da área tratada. Esses resultados orientam a calibração do efeito.
-
-O processamento foi validado fora do editor. Restam etapas de compilação e o teste completo dentro do Premiere. O desempenho em tempo real depende da integração final com a GPU.
-
-### Tecnologias
+O núcleo CPU serve de referência para o processamento em Metal. O desempenho em tempo real depende da integração final com a GPU.
 
 `C++` `MediaPipe` `Metal` `Python` `JavaScript` `Adobe UXP`
 
-### Código-fonte
+[Ver o código e o estágio da integração](https://github.com/lucasmef/rosto-natural)
 
-[Consultar o repositório e as instruções de uso](https://github.com/lucasmef/rosto-natural).
-
-### Contato
-
-Para conversar sobre o processamento de imagem e a integração com o Premiere, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Rosto Natural](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Rosto%20Natural).
-
-<!-- Adicionar demonstração pública somente com mídias autorizadas e após confirmar o link. -->
-
----
-
-[Ver o Voz Neural →](./voz-neural.md) · [Voltar ao portfólio](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

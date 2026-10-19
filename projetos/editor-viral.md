@@ -1,25 +1,21 @@
-[← Voltar ao perfil](../README.md)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # Editor Viral
 
-## Edição local de vídeo com Remotion
+## Montagem de vídeos com referência ao material original
 
-Base local para montar vídeos com composições Remotion, legendas, cartões e zooms em intervalos definidos. O fluxo mantém as referências temporais dos trechos usados na montagem. A transferência para o Adobe Premiere está em desenvolvimento.
+Estou desenvolvendo uma base local de edição para vídeos digitais. Ela combina a seleção de trechos com legendas, cartões e zooms em composições Remotion.
 
-### Decisões técnicas
+### Da gravação à montagem
 
-A estrutura de execução organiza as mídias, os estados de revisão e a validação do arquivo final. As composições e os scripts foram organizados para preservar a relação entre os trechos editados e o material de origem.
+Os scripts registram de onde veio cada trecho e organizam os estados de revisão. Isso ajuda a conferir a montagem e a localizar o material original quando um corte precisa mudar.
 
-### Estágio atual e limitações
+O projeto também inclui um caminho de transferência para o Adobe Premiere Pro. Depois dessa passagem, a montagem segue no editor.
 
-Piloto em validação. Ainda é necessário testar o fluxo audiovisual completo e a transferência dos efeitos para o Premiere. O repositório não inclui runtimes, mídias, modelos nem configurações locais.
+O piloto ainda está em validação. O fluxo audiovisual completo e a transferência dos efeitos precisam de teste real. Mídias, modelos, runtimes e configurações locais ficam fora do repositório.
 
-### Tecnologias
+`TypeScript` `React` `Remotion` `Python` `FFmpeg` `Adobe Premiere`
 
-TypeScript · React · Remotion · Python · FFmpeg · Adobe Premiere
+[Ver o código e o andamento](https://github.com/lucasmef/editor-viral)
 
-### Código
-
-[Consultar o código-fonte e as instruções de uso](https://github.com/lucasmef/editor-viral).
-
-[Conversar comigo](https://www.linkedin.com/in/lucasmef) · [Voltar ao perfil](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

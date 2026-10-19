@@ -1,25 +1,21 @@
-[← Voltar ao perfil](../README.md)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # LookPrint
 
-## Extração de quadros de vídeos de moda
+## Extrair os looks completos de um vídeo
 
-Desenvolvi um aplicativo nativo para macOS que identifica mudanças persistentes nas composições de roupas e acessórios em um vídeo. O aplicativo exporta quadros completos e preserva o arquivo original.
+Criei o LookPrint para encontrar quadros em que uma composição de roupas e acessórios já está montada. O aplicativo roda no Mac, processa o vídeo localmente e exporta as imagens sem alterar o original.
 
-### Decisões técnicas
+### Como escolhe os quadros
 
-O motor usa AVFoundation na amostragem e na exportação, e Vision para orientar a região analisada. A comparação entre quadros filtra movimentos e prioriza imagens estáveis, próximas do estado completo de cada composição.
+O motor compara mudanças ao longo do vídeo para separar as composições. Ele procura momentos estáveis, próximos da montagem completa, e evita exportar várias imagens do mesmo estado.
 
-### Estágio atual e limitações
+Uso AVFoundation para ler e exportar os quadros e Vision para orientar a área de análise. A interface foi feita em SwiftUI, com integração ao Finder.
 
-O detector usa regras visuais, com calibração restrita aos exemplos usados no desenvolvimento. Outros enquadramentos exigem revisão dos resultados. Os vídeos de referência não estão incluídos no repositório.
+O detector usa regras visuais calibradas nos exemplos do projeto. Outros enquadramentos e movimentos podem exigir revisão das imagens selecionadas. Os vídeos de referência ficam fora do repositório.
 
-### Tecnologias
+`Swift` `SwiftUI` `AVFoundation` `Vision` `macOS`
 
-Swift · SwiftUI · AVFoundation · Vision · macOS
+[Ver o código e as instruções](https://github.com/lucasmef/print-videos)
 
-### Código
-
-[Consultar o código-fonte e as instruções de uso](https://github.com/lucasmef/print-videos).
-
-[Conversar comigo](https://www.linkedin.com/in/lucasmef) · [Voltar ao perfil](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

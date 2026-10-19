@@ -1,15 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="730" viewBox="0 0 720 730" role="img" aria-labelledby="title desc">
 <title id="title">Lucas Fernandes | Desenvolvedor full stack</title>
-<desc id="desc">TypeScript, React, Next.js, Python e PostgreSQL. Portfólio de desenvolvimento de software.</desc>
-<rect x="1" y="1" width="718" height="398" rx="18" fill="#101B2C" stroke="#2B3B53" stroke-width="2"/>
-<rect x="32" y="44" width="5" height="312" rx="2.5" fill="#6FA8FF"/>
-<g font-family="Arial, Helvetica, sans-serif">
-<text x="64" y="78" font-size="12" letter-spacing="1.9" fill="#A7BBD6">DESENVOLVIMENTO DE SOFTWARE</text>
-<text x="61" y="149" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#F2F6FC">Lucas Fernandes</text>
-<text x="64" y="203" font-size="30" fill="#F2F6FC">Desenvolvedor full stack</text>
-<path d="M64 240H656" stroke="#2B3B53" stroke-width="2"/>
-<text x="64" y="289" font-size="23" fill="#A7BBD6">TypeScript · React · Next.js</text>
-<text x="64" y="324" font-size="23" fill="#A7BBD6">Python · PostgreSQL</text>
-<text x="64" y="363" font-size="14" letter-spacing="0.7" fill="#A7BBD6">github.com/lucasmef</text>
-</g>
-</svg>
+<desc id="desc">Também estou do outro lado da tela. Desenvolvedor full stack com mais de 15 anos de experiência no varejo.</desc>
+<rect width="720" height="730" rx="20" fill="#111713"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#F3F5EC">
+<rect x="36" y="36" width="52" height="52" rx="12" fill="#C6F65C"/>
+<text x="62" y="71" text-anchor="middle" font-size="25" font-weight="700" fill="#18271E">LF</text>
+<text x="106" y="57" font-size="14" letter-spacing="2" fill="#BAC5B9">FULL STACK DEVELOPER</text>
+<text x="106" y="79" font-size="14" letter-spacing="2" fill="#BAC5B9">LUCASMEF / GITHUB</text>
+<path d="M36 116H684" stroke="#354438"/>
+<text x="32" y="209" font-size="66" font-weight="700" letter-spacing="-3">Lucas</text>
+<text x="32" y="279" font-size="66" font-weight="700" letter-spacing="-3">Fernandes<tspan fill="#C6F65C">.</tspan></text>
+<text x="36" y="355" font-size="32" font-weight="700">Também estou</text>
+<text x="36" y="397" font-size="32" font-weight="700">do outro lado da tela.</text>
+<text x="36" y="446" font-size="21" fill="#BAC5B9">Trabalho no varejo há mais de 15 anos.</text>
+<text x="36" y="476" font-size="21" fill="#BAC5B9">Também desenvolvo software.</text>
+<rect x="36" y="502" width="648" height="142" rx="12" fill="#C6F65C"/>
+<g fill="#18271E"><text x="60" y="537" font-size="13" letter-spacing="2">COMO EU TRABALHO</text>
+<text x="60" y="580" font-size="26" font-weight="700">Entendo a rotina de quem vai usar.</text>
+<text x="60" y="618" font-size="26" font-weight="700">Depois, desenvolvo e testo.</text></g>
+<text x="36" y="685" font-size="14" letter-spacing="2" fill="#BAC5B9">github.com/lucasmef</text>
+</g></svg>

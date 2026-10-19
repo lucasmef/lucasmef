@@ -1,25 +1,21 @@
-[← Voltar ao perfil](../README.md)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # Send Mail
 
-## Fila local de e-mails com controle de falhas
+## Uma fila de e-mails que pode ser retomada
 
-Desenvolvi uma CLI em Python para preparar, revisar e enviar e-mails com uma fila persistente em SQLite. As credenciais ficam no Keychain do macOS, e o transporte exige TLS.
+Desenvolvi o Send Mail para preparar, revisar e enviar mensagens pelo terminal do Mac. A fila fica em SQLite, as credenciais no Keychain e a conexão com o servidor de e-mail usa TLS.
 
-### Decisões técnicas
+### O que acontece quando um envio falha
 
-O worker usa bloqueio entre processos e identificadores estáveis para reduzir o risco de envios duplicados. Se a conexão cai após uma possível aceitação pelo servidor SMTP, a mensagem fica em estado incerto e não é reenviada automaticamente. O projeto também inclui cópia via IMAP e assinatura DKIM opcional.
+Uma conexão pode cair depois que o servidor aceitou a mensagem. Repetir o envio nesse caso pode entregar duas cópias. O Send Mail registra essa situação como incerta e aguarda uma decisão, em vez de tentar novamente por conta própria.
 
-### Estágio atual e validação
+Identificadores estáveis evitam repetir a mesma operação, e uma trava impede dois processos de trabalhar na fila ao mesmo tempo. O histórico e os limites de execução são preservados ao retomar o trabalho.
 
-Há testes com transporte simulado para persistência, idempotência e recuperação. A aplicação é voltada ao macOS e depende das versões de Python indicadas na documentação.
+O projeto também permite arquivar uma cópia por IMAP e usar assinatura DKIM. Os testes simulam o transporte para verificar duplicidade, persistência e recuperação sem enviar mensagens reais.
 
-### Tecnologias
+`Python` `SQLite` `SMTP` `IMAP` `Keychain`
 
-Python · SQLite · SMTP · IMAP · Keychain · Testes automatizados
+[Ver o código e as instruções de uso](https://github.com/lucasmef/send-mail)
 
-### Código
-
-[Consultar o código-fonte e as instruções de uso](https://github.com/lucasmef/send-mail).
-
-[Conversar comigo](https://www.linkedin.com/in/lucasmef) · [Voltar ao perfil](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

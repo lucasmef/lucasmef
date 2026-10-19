@@ -1,25 +1,21 @@
-[← Voltar ao perfil](../README.md)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # Proxies Maker
 
-## Geração de versões leves de vídeos no macOS
+## Cópias leves para consultar vídeos
 
-Ferramenta local para converter vídeos em arquivos menores, preservando os originais. Reúne componentes em Swift e Python, usa FFmpeg e oferece integração com o Finder. Inclui uma variante experimental com VideoToolbox.
+Ferramenta que desenvolvi para gerar versões menores de vídeos no Mac, preservando os arquivos originais. Ela reúne uma interface em Swift e o processamento em Python com FFmpeg.
 
-### Decisões técnicas
+### Conversão em lote
 
-Trabalhei na fila de conversão, no acompanhamento de progresso, no processamento de subpastas e na validação dos arquivos gerados. Um teste gera mídia sintética para verificar a conversão e a integridade do áudio.
+Trabalhei na fila de conversão, no acompanhamento do progresso, no processamento de subpastas e na conferência dos arquivos gerados. Um teste cria mídia sintética para verificar a conversão e a integridade do áudio.
 
-### Estágio atual e limitações
+Também há uma variante experimental com VideoToolbox. Ela depende do hardware e de um FFmpeg compatível, sem troca automática para codificação por software.
 
-A execução depende da preparação do FFmpeg descrita na documentação. A variante com VideoToolbox depende do hardware e não oferece codificação alternativa por software. Os arquivos gerados servem para pré-visualização; seu uso como proxies de edição precisa ser avaliado conforme o fluxo de trabalho.
+As saídas são previews para consulta. Antes de usá-las como proxies em um editor, é preciso conferir se atendem ao formato e ao fluxo de edição.
 
-### Tecnologias
+`Swift` `Python` `FFmpeg` `VideoToolbox` `macOS`
 
-Swift · Python · FFmpeg · VideoToolbox · macOS
+[Ver o código e a configuração](https://github.com/lucasmef/proxies-maker)
 
-### Código
-
-[Consultar o código-fonte e as instruções de uso](https://github.com/lucasmef/proxies-maker).
-
-[Conversar comigo](https://www.linkedin.com/in/lucasmef) · [Voltar ao perfil](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

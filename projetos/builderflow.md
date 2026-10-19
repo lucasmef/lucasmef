@@ -1,44 +1,36 @@
-[← Voltar ao portfólio](../README.md#user-content-ia-e-specs)
+[← Voltar ao perfil](../README.md#user-content-projetos)
 
 # BuilderFlow
 
-## Desenvolvimento assistido por IA com especificações no repositório
+## Contexto de projeto que fica no repositório
 
-Criei o BuilderFlow para organizar o contexto, as especificações e as decisões técnicas de projetos desenvolvidos com apoio de agentes de IA. O fluxo é voltado a projetos individuais e equipes pequenas.
+Criei o BuilderFlow para retomar o desenvolvimento com um agente de IA sem precisar explicar o projeto inteiro em cada sessão. Ele instala arquivos de contexto, modelos de especificação e um lugar para registrar decisões.
 
-O instalador é uma CLI em Node.js. O processo fica documentado em arquivos Markdown, que podem ser consultados e revisados junto do código.
+### O que ele instala
 
-### Estrutura de documentação
-
-| Arquivo ou pasta | Função |
+| Arquivo ou pasta | Uso |
 | :--- | :--- |
-| `AGENTS.md` | Orientações para o agente trabalhar no repositório. |
-| `docs/CONTEXT.md` | Contexto para consulta entre sessões de trabalho. |
-| `specs/` | Uma especificação por funcionalidade, atualizada durante o desenvolvimento. |
-| `docs/ADR.md` | Registro das decisões de arquitetura. |
-| `specs/artifacts/` | Evidências de validação, como capturas das telas alteradas. |
+| `AGENTS.md` | Instruções de trabalho para o agente. |
+| `docs/CONTEXT.md` | Contexto do projeto. |
+| `specs/` | Especificações das funcionalidades e registro do andamento. |
+| `docs/ADR.md` | Decisões de arquitetura. |
+| `specs/artifacts/` | Capturas e outras evidências de validação. |
 
-### Especificações durante o desenvolvimento
+A CLI foi escrita em Node.js. Ela cria a estrutura que falta e, por padrão, preserva os documentos existentes.
 
-Cada especificação começa pelo comportamento esperado. Durante a implementação, recebe decisões e pendências. Ao encerrar a mudança, registra a validação e os próximos passos. Essas informações ficam no repositório para consulta em outras sessões.
+### Como uso
+
+Antes de implementar uma funcionalidade, descrevo o comportamento esperado. Durante o trabalho, atualizo a mesma especificação com decisões, testes e pendências. Na próxima sessão, esse registro ajuda a continuar de onde parei.
 
 <picture>
   <source media="(max-width: 600px)" srcset="../assets/workflow-mobile.svg">
-  <img src="../assets/workflow.svg" alt="Etapas do BuilderFlow: contexto, especificação, implementação, revisão e publicação." width="100%">
+  <img src="../assets/workflow.svg" alt="Etapas do BuilderFlow: contexto, especificação, implementação, revisão e publicação" width="100%">
 </picture>
 
-### Instalação
+É um conjunto de templates e instruções reutilizáveis, com um instalador pequeno para levá-los a outros repositórios.
 
-Desenvolvi a CLI para criar a estrutura ausente e acrescentar a seção do BuilderFlow ao `AGENTS.md`. Por padrão, ela preserva os documentos existentes. As instruções específicas de cada domínio permanecem no próprio repositório.
+`Node.js` `JavaScript` `Markdown` `CLI`
 
-### Código e uso
+[Ver o código e a instalação](https://github.com/lucasmef/builder-flow)
 
-O instalador pode ser executado a partir de uma cópia local do repositório. As instruções estão no [README do BuilderFlow](https://github.com/lucasmef/builder-flow#install-into-a-repository).
-
-`Node.js` `JavaScript` `Markdown` `CLI` `Specs` `ADRs`
-
-[Consultar o código →](https://github.com/lucasmef/builder-flow) · [Conversar comigo](https://www.linkedin.com/in/lucasmef)
-
----
-
-[Voltar ao portfólio](../README.md)
+[LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)
