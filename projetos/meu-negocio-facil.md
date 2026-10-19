@@ -2,9 +2,11 @@
 
 # Meu Negócio Fácil
 
-## Um ERP acadêmico construído do zero
+## ERP acadêmico para pequenos empreendedores
 
-Projeto entregue no curso de Sistemas de Informação da PUC Minas, desenvolvido em equipe com HTML, CSS e JavaScript, sem uso de IA na implementação. A proposta foi criar um sistema de gestão acessível para microempreendedores e prestadores de serviços.
+**Atuei como Scrum Master e desenvolvedor do projeto.** Organizei o backlog e o fluxo de trabalho da equipe, além de participar da implementação da aplicação.
+
+O Meu Negócio Fácil foi concluído no curso de Sistemas de Informação da PUC Minas. Desenvolvido em equipe com HTML, CSS e JavaScript, sem IA na implementação, reúne ferramentas de gestão para microempreendedores e prestadores de serviços.
 
 [Abrir o sistema](https://icei-puc-minas-pmv-si.github.io/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/) · [Consultar o código](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil) · [Vídeo de demonstração](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/blob/main/presentation/video-presentation.mp4)
 
@@ -12,21 +14,21 @@ Projeto entregue no curso de Sistemas de Informação da PUC Minas, desenvolvido
 
 ### O que foi entregue
 
-O sistema reúne cadastros de clientes, fornecedores, produtos e serviços; faturamento de produtos e serviços; registro de insumos; vendas em aberto; contas a pagar e receber; agenda e relatórios gerenciais.
+O sistema reúne cadastros de clientes, fornecedores, produtos e serviços, além de PDV, gestão de insumos, vendas em aberto, contas a pagar e receber, agenda e relatórios.
 
-A navegação SPA permite trocar de módulo sem recarregar a página. Os dados da versão acadêmica ficam no navegador, usando LocalStorage e JSON.
+Implementei a navegação SPA para alternar entre os módulos sem recarregar a página. Os dados são armazenados no navegador com LocalStorage e JSON.
 
 ### Minha contribuição
 
 | Frente | Trabalho realizado |
 | :--- | :--- |
+| **Scrum Master** | **Organização do backlog e do fluxo de trabalho da equipe.** |
 | Arquitetura | Navegação SPA e integração entre os módulos. |
 | Acesso | Autenticação e login da aplicação acadêmica. |
 | Operação de vendas | Lógica de faturamento/PDV e gestão dos insumos associados aos serviços. |
 | Informação gerencial | Dashboard e relatórios de produtos, serviços e faturamento. |
-| Equipe | Organização do backlog e do fluxo de trabalho como Scrum Master. |
 
-Essas responsabilidades aparecem no histórico do meu perfil e podem ser acompanhadas nos [meus commits do projeto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef). O desenvolvimento é coletivo; os créditos completos estão no [README da equipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil#integrantes).
+O histórico de implementação pode ser consultado nos [meus commits do projeto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef). Os integrantes e os créditos do trabalho em equipe estão no [README da equipe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil#integrantes).
 
 ### O PDV em funcionamento
 
@@ -36,7 +38,7 @@ As imagens são registros dos testes da versão acadêmica. O repositório inclu
 
 ### Escopo da versão
 
-Esta apresentação corresponde ao projeto acadêmico original. A aplicação demonstra os fluxos de um ERP e persiste dados localmente no navegador. Essa arquitetura faz parte da entrega educacional; operação comercial com múltiplos usuários exige outro modelo de persistência e segurança.
+Esta é a versão acadêmica original, com persistência local no navegador. O uso comercial com múltiplos usuários exigiria adaptar o armazenamento de dados e a segurança da aplicação.
 
 ### Tecnologias
 

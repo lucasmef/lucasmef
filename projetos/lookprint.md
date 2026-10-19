@@ -2,17 +2,17 @@
 
 # LookPrint
 
-## Quadros úteis sem assistir ao vídeo inteiro
+## Extração de quadros de vídeos de moda
 
-Desenvolvi um app nativo para macOS que encontra mudanças persistentes nas composições de roupas e acessórios de um vídeo e exporta quadros completos. O original é preservado.
+Desenvolvi um aplicativo nativo para macOS que identifica mudanças persistentes nas composições de roupas e acessórios em um vídeo. O aplicativo exporta quadros completos e preserva o arquivo original.
 
 ### Decisões técnicas
 
-O motor usa AVFoundation para amostragem e exportação e Vision para orientar a região de análise. Comparações temporais filtram movimento e favorecem quadros estáveis próximos do estado completo de cada composição.
+O motor usa AVFoundation na amostragem e na exportação, e Vision para orientar a região analisada. A comparação entre quadros filtra movimentos e prioriza imagens estáveis, próximas do estado completo de cada composição.
 
-### Estado e limites
+### Estágio atual e limitações
 
-É um detector baseado em regras visuais, calibrado em exemplos específicos. Não compreende moda de forma universal e exige revisão em outros enquadramentos. Os vídeos de referência não fazem parte do código.
+O detector usa regras visuais, com calibração restrita aos exemplos usados no desenvolvimento. Outros enquadramentos exigem revisão dos resultados. Os vídeos de referência não estão incluídos no repositório.
 
 ### Tecnologias
 

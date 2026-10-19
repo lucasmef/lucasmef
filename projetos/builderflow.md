@@ -2,34 +2,34 @@
 
 # BuilderFlow
 
-## Para continuar de onde parei.
+## Desenvolvimento assistido por IA com especificações no repositório
 
-Uma nova sessão com um agente de IA não deveria exigir que eu explicasse o projeto inteiro de novo. Criei o BuilderFlow para manter o contexto no repositório e acompanhar cada funcionalidade em uma especificação que evolui junto com o código.
+Criei o BuilderFlow para organizar o contexto, as especificações e as decisões técnicas de projetos desenvolvidos com apoio de agentes de IA. O fluxo é voltado a projetos individuais e equipes pequenas.
 
-É um fluxo de desenvolvimento assistido por IA pensado para projetos individuais e equipes pequenas. O instalador é uma CLI em Node.js; o processo fica descrito em arquivos Markdown que podem ser lidos e revisados junto do projeto.
+O instalador é uma CLI em Node.js. O processo fica documentado em arquivos Markdown, que podem ser consultados e revisados junto do código.
 
-### O que ele organiza
+### Estrutura de documentação
 
-| Arquivo ou pasta | Para que serve |
+| Arquivo ou pasta | Função |
 | :--- | :--- |
-| `AGENTS.md` | Orientações para o agente trabalhar naquele repositório. |
-| `docs/CONTEXT.md` | Contexto que precisa continuar disponível entre sessões. |
-| `specs/` | Uma especificação por funcionalidade, atualizada durante o trabalho. |
+| `AGENTS.md` | Orientações para o agente trabalhar no repositório. |
+| `docs/CONTEXT.md` | Contexto para consulta entre sessões de trabalho. |
+| `specs/` | Uma especificação por funcionalidade, atualizada durante o desenvolvimento. |
 | `docs/ADR.md` | Registro das decisões de arquitetura. |
 | `specs/artifacts/` | Evidências de validação, como capturas das telas alteradas. |
 
-### A spec acompanha a implementação
+### Especificações durante o desenvolvimento
 
-Antes da mudança, ela define o comportamento esperado. Durante o desenvolvimento, recebe as decisões e as pendências. Ao encerrar, registra o que foi validado e o próximo passo. A documentação continua perto do código e pode ser retomada por outra sessão.
+Cada especificação começa pelo comportamento esperado. Durante a implementação, recebe decisões e pendências. Ao encerrar a mudança, registra a validação e os próximos passos. Essas informações ficam no repositório para consulta em outras sessões.
 
 <picture>
   <source media="(max-width: 600px)" srcset="../assets/workflow-mobile.svg">
   <img src="../assets/workflow.svg" alt="Etapas do BuilderFlow: contexto, especificação, implementação, revisão e publicação." width="100%">
 </picture>
 
-### Um instalador que respeita o projeto existente
+### Instalação
 
-Desenvolvi a CLI para criar a estrutura que falta e acrescentar a seção do BuilderFlow ao `AGENTS.md`. Por padrão, ela preserva os documentos existentes. Instruções específicas de cada domínio continuam no próprio repositório.
+Desenvolvi a CLI para criar a estrutura ausente e acrescentar a seção do BuilderFlow ao `AGENTS.md`. Por padrão, ela preserva os documentos existentes. As instruções específicas de cada domínio permanecem no próprio repositório.
 
 ### Código e uso
 

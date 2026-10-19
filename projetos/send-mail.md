@@ -4,15 +4,15 @@
 
 ## Fila local de e-mails com controle de falhas
 
-Desenvolvi uma CLI em Python para preparar, revisar e enviar mensagens com uma fila persistente em SQLite. As credenciais ficam no Keychain do macOS, e o transporte exige TLS.
+Desenvolvi uma CLI em Python para preparar, revisar e enviar e-mails com uma fila persistente em SQLite. As credenciais ficam no Keychain do macOS, e o transporte exige TLS.
 
 ### Decisões técnicas
 
-O worker usa lock entre processos e identificadores estáveis para evitar duplicidade. Se a conexão cai depois de uma possível aceitação SMTP, a mensagem fica em estado incerto e não é reenviada automaticamente. O projeto também inclui cópia via IMAP e assinatura DKIM opcional.
+O worker usa bloqueio entre processos e identificadores estáveis para reduzir o risco de envios duplicados. Se a conexão cai após uma possível aceitação pelo servidor SMTP, a mensagem fica em estado incerto e não é reenviada automaticamente. O projeto também inclui cópia via IMAP e assinatura DKIM opcional.
 
-### Estado e limites
+### Estágio atual e validação
 
-Há testes com transporte simulado para persistência, idempotência e recuperação. Uma demonstração de software não exige enviar mensagens reais. O código é voltado a macOS e depende das versões Python documentadas.
+Há testes com transporte simulado para persistência, idempotência e recuperação. A aplicação é voltada ao macOS e depende das versões de Python indicadas na documentação.
 
 ### Tecnologias
 

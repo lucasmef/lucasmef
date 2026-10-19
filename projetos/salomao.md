@@ -2,19 +2,19 @@
 
 # Salomão
 
-## O financeiro não acaba quando a venda fecha.
+## Gestão financeira para o varejo
 
-Uma venda ainda precisa ser recebida. Uma compra compromete o caixa dos próximos meses. E o que aparece no sistema precisa conferir com o banco. Desenvolvo o Salomão para acompanhar esse trabalho no dia a dia do varejo.
+Desenvolvo e mantenho o Salomão, um sistema em operação para cobranças, conciliação bancária, planejamento de compras e acompanhamento do fluxo de caixa.
 
-É um sistema de gestão financeira em operação, com cobranças, conciliação bancária e planejamento de compras. Minha experiência de mais de 15 anos no varejo ajuda a definir o que precisa estar na tela e quais regras precisam ser respeitadas.
+O projeto atende rotinas financeiras do varejo, como conferir recebimentos, controlar títulos em aberto e planejar o pagamento das compras.
 
 ### O que desenvolvo
 
-Atuo no frontend em React e no backend em FastAPI, incluindo a modelagem dos dados e as integrações com Banco Inter e Linx. O sistema permite acompanhar títulos em aberto, trabalhar com boletos e consultar o fluxo de caixa.
+Trabalho no frontend em React, no backend em FastAPI, na modelagem dos dados e nas integrações com Banco Inter e Linx. O sistema inclui gestão de títulos, boletos e projeções de caixa.
 
-Também mantenho a aplicação na VPS e cuido do processo de atualização. Isso inclui migrações do banco e verificações de funcionamento depois do deploy.
+Também cuido da aplicação em VPS, das atualizações e das migrações do banco de dados. Após cada deploy, verifico o funcionamento dos fluxos alterados.
 
-### Decisões que fazem parte do projeto
+### Funcionalidades e decisões técnicas
 
 | Necessidade | Como aparece no sistema |
 | :--- | :--- |
@@ -25,15 +25,15 @@ Também mantenho a aplicação na VPS e cuido do processo de atualização. Isso
 
 ### Desenvolvimento com IA
 
-Uso agentes de IA para apoiar a implementação e a revisão. Defino o escopo da mudança e registro as decisões no repositório. Testes automatizados e verificações dos fluxos ajudam a conferir o resultado antes da publicação; as decisões sobre a operação e a aprovação do deploy ficam comigo.
+Defino o escopo das mudanças, registro as decisões no repositório e uso agentes de IA como apoio à implementação e à revisão. Confiro o resultado com testes automatizados e verificações dos fluxos antes de aprovar a publicação.
 
 ### Tecnologias
 
 `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Redis` `GitHub Actions` `Linux`
 
-### Quer conversar sobre o projeto?
+### Acesso e contato
 
-Esta é a apresentação pública do Salomão. O código e os dados da operação não fazem parte desta página. Para conhecer melhor meu trabalho ou conversar sobre as decisões técnicas, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Salomão](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Salom%C3%A3o).
+O código do sistema é privado. Para conversar sobre o desenvolvimento e as decisões técnicas, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Salomão](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Salom%C3%A3o).
 
 <!-- Incluir aqui um link confirmado de demonstração com dados fictícios ou um vídeo de apresentação, quando disponível. -->
 

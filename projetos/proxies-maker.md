@@ -2,17 +2,17 @@
 
 # Proxies Maker
 
-## Previews leves para consultar vídeos
+## Geração de versões leves de vídeos no macOS
 
-Ferramenta local para gerar versões pequenas de vídeos com Swift, Python e FFmpeg, preservando os arquivos originais. Inclui integração com o Finder e uma variante experimental com VideoToolbox.
+Ferramenta local para converter vídeos em arquivos menores, preservando os originais. Reúne componentes em Swift e Python, usa FFmpeg e oferece integração com o Finder. Inclui uma variante experimental com VideoToolbox.
 
 ### Decisões técnicas
 
-Trabalhei em fila de conversão, acompanhamento de progresso, tratamento de subpastas e validação de saída. Há teste que gera mídia sintética para verificar conversão e integridade de áudio.
+Trabalhei na fila de conversão, no acompanhamento de progresso, no processamento de subpastas e na validação dos arquivos gerados. Um teste gera mídia sintética para verificar a conversão e a integridade do áudio.
 
-### Estado e limites
+### Estágio atual e limitações
 
-O FFmpeg precisa ser preparado conforme a documentação. A variante acelerada depende de hardware e não tem fallback de codificação por software. Os resultados são previews; a adequação como proxy de edição depende do uso.
+A execução depende da preparação do FFmpeg descrita na documentação. A variante com VideoToolbox depende do hardware e não oferece codificação alternativa por software. Os arquivos gerados servem para pré-visualização; seu uso como proxies de edição precisa ser avaliado conforme o fluxo de trabalho.
 
 ### Tecnologias
 

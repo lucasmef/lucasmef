@@ -2,42 +2,42 @@
 
 # Smart Shop
 
-## Escolher pelo look, comprar por peça.
+## E-commerce de moda com compra por look
 
-Um look ajuda a imaginar a roupa no uso. A compra, porém, depende de cada peça: tamanho, disponibilidade e preço. Desenvolvo a Smart Shop para a loja de moda feminina Raquel Talita, com uma vitrine que parte das combinações e permite escolher o que levar para a sacola.
+Desenvolvo a Smart Shop para a loja de moda feminina Raquel Talita. O catálogo apresenta combinações de roupas e permite selecionar cada peça por tamanho, preço e disponibilidade.
 
 <sub>Em desenvolvimento · Código privado</sub>
 
 ### A experiência de compra
 
-A proposta é aproximar a inspiração da escolha. A cliente vê o look, seleciona as peças e segue para o checkout. Por trás desse caminho, o sistema precisa manter o pedido consistente e respeitar o estoque disponível.
+A cliente escolhe um look, seleciona as peças que deseja comprar e segue para o checkout. O sistema controla a seleção, os preços e a disponibilidade dos itens ao longo do pedido.
 
 ### Meu trabalho no projeto
 
-Desenvolvo a aplicação em Next.js e TypeScript, com PostgreSQL e Supabase. Trabalho tanto na experiência de compra quanto nas regras de pedidos e reserva de estoque. O projeto inclui integrações de pagamento e cotação de frete, além de um painel para a operação da loja.
+Trabalho na aplicação em Next.js e TypeScript, com PostgreSQL e Supabase. Minha atuação inclui catálogo, sacola, checkout, pedidos, reserva de estoque e painel administrativo, além das integrações de pagamento e cotação de frete.
 
-### O cuidado vai além da vitrine
+### Funcionalidades
 
-| Parte do projeto | O que precisa funcionar |
+| Área | Funcionalidade |
 | :--- | :--- |
 | Compra por look | Permitir que a cliente escolha as peças que deseja comprar. |
 | Sacola e checkout | Manter a seleção ao longo da compra. |
 | Estoque | Considerar as reservas e o estado dos pedidos antes de oferecer uma peça. |
 | Pagamento e frete | Integrar a cobrança e a cotação ao fluxo do pedido. |
 
-Uso especificações para definir esses comportamentos antes da implementação com agentes de IA. Os testes verificam as regras e a integração entre as partes do sistema.
+Documento os requisitos antes de implementar e uso agentes de IA como apoio ao desenvolvimento. Os testes verificam as regras de negócio e a integração entre os módulos.
 
-### Em que etapa está
+### Estágio atual
 
-O projeto está em desenvolvimento. As integrações e a operação comercial precisam passar por homologação antes da abertura das vendas. Esta apresentação descreve o trabalho técnico; ainda não há uma demonstração pública vinculada aqui.
+O projeto está em desenvolvimento, com homologação das integrações e da operação comercial pendente. A demonstração pública ainda está indisponível.
 
 ### Tecnologias
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Vercel`
 
-### Quer conhecer melhor?
+### Contato
 
-Para conversar sobre a experiência de compra ou sobre meu trabalho no desenvolvimento, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre a Smart Shop](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Smart%20Shop).
+Para conversar sobre o desenvolvimento, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre a Smart Shop](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Smart%20Shop).
 
 <!-- Incluir aqui o link confirmado da loja ou de uma demonstração pública quando estiver disponível. -->
 

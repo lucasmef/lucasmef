@@ -2,17 +2,17 @@
 
 # Editor Viral
 
-## Montagem com origem dos trechos preservada
+## Edição local de vídeo com Remotion
 
-Base local de edição de vídeos digitais com composições Remotion, legendas, cartões e zooms por intervalo. O fluxo mantém referências temporais dos trechos e uma passagem em desenvolvimento para o Premiere.
+Base local para montar vídeos com composições Remotion, legendas, cartões e zooms em intervalos definidos. O fluxo mantém as referências temporais dos trechos usados na montagem. A transferência para o Adobe Premiere está em desenvolvimento.
 
 ### Decisões técnicas
 
-O harness organiza mídia, estados de revisão e validação do arquivo final. A composição e os scripts procuram preservar o vínculo entre o material de origem e a montagem resultante.
+A estrutura de execução organiza as mídias, os estados de revisão e a validação do arquivo final. As composições e os scripts foram organizados para preservar a relação entre os trechos editados e o material de origem.
 
-### Estado e limites
+### Estágio atual e limitações
 
-Piloto em validação. O fluxo audiovisual completo e a transferência dos efeitos exigem teste real. Runtimes, mídias, modelos e configurações locais não acompanham o clone. Uma renderização não equivale à aprovação editorial.
+Piloto em validação. Ainda é necessário testar o fluxo audiovisual completo e a transferência dos efeitos para o Premiere. O repositório não inclui runtimes, mídias, modelos nem configurações locais.
 
 ### Tecnologias
 
