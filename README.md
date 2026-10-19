@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/header-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Lucas Fernandes. Desenvolvedor full stack. Aplicações web, APIs e automação." width="100%">
+  <img src="./assets/header-light.svg" alt="Lucas Fernandes. Dev Full Stack." width="100%">
 </picture>
 
 <p align="center">
@@ -28,7 +28,9 @@ ERP para pequenos negócios, entregue em equipe na PUC Minas com **JavaScript, H
 
 **Minha contribuição:** arquitetura SPA, autenticação, PDV, gestão de insumos, dashboard e relatórios. Também atuei como Scrum Master, organizando o backlog e acompanhando as entregas da equipe.
 
-<a href="./projetos/meu-negocio-facil.md"><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/934e3b4f6bca44352bde104486054fb00de4383f/docs/img/tests/05.jpeg" alt="Meu Negócio Fácil: painel do ERP acadêmico com navegação para cadastros, faturamento, agenda, financeiro e relatórios" width="100%"></a>
+<a href="./projetos/meu-negocio-facil.md"><img src="./assets/meu-negocio-facil-demo.png" alt="Meu Negócio Fácil: interface do ERP com gráfico de vendas ilustrativo" width="100%"></a>
+
+<sub>Demonstração visual: captura da interface editada com dados ilustrativos.</sub>
 
 `JavaScript` `HTML` `CSS` `localStorage` `SPA`
 
@@ -39,6 +41,10 @@ ERP para pequenos negócios, entregue em equipe na PUC Minas com **JavaScript, H
 Sistema financeiro em operação no varejo, com frontend em **React**, API em **FastAPI** e banco **PostgreSQL**. Reúne cobranças, conciliação bancária, contas a receber, planejamento de compras e projeções de caixa, com integrações com Banco Inter e Linx.
 
 **Minha atuação:** frontend, API, modelagem de dados, integrações e manutenção na VPS. O projeto inclui MFA, auditoria, migrações de banco e ambientes separados de homologação e produção.
+
+<img src="./assets/salomao-demo.png" alt="Salomão: interface financeira anonimizada, com nomes, valores e gráficos ilustrativos" width="100%">
+
+<sub>Demonstração visual: captura editada; nomes, valores e gráficos substituídos por dados ilustrativos.</sub>
 
 `React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Linux`
 
@@ -52,7 +58,9 @@ Aplicação de notas, tarefas e calendário com **editor Markdown**, checklists,
 
 O monorepo reúne a aplicação **Next.js**, uma CLI em **Node.js** e pacotes compartilhados. As integrações com Google Calendar e Google Drive complementam a sincronização de notas com arquivos Markdown locais.
 
-<a href="./projetos/doit.md"><img src="https://raw.githubusercontent.com/lucasmef/doit.md/4099abf9f34b8bc70f5e5d25cb281bfb189442b4/specs/artifacts/2026-06-09-corrigir-137-138-progresso-visual-icone-modificacao/01-notas-folder-lista-desktop.png" alt="doit.md: captura histórica da PWA, com pastas, notas, tarefas concluídas e indicadores de progresso usando dados de teste" width="100%"></a>
+<a href="./projetos/doit.md"><img src="./assets/doit-demo.png" alt="doit.md: interface da PWA com conteúdo ilustrativo de organização de um portfólio" width="100%"></a>
+
+<sub>Demonstração visual: captura da interface editada com dados ilustrativos.</sub>
 
 `Next.js` `React` `TypeScript` `Node.js` `PWA` `SQLite` `PostgreSQL`
 

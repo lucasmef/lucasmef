@@ -1,22 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="730" viewBox="0 0 720 730" role="img" aria-labelledby="title desc">
-<title id="title">Lucas Fernandes | Desenvolvedor full stack</title>
-<desc id="desc">Desenvolvedor full stack. Aplicações web, APIs e automação. Experiência de mais de 15 anos no varejo.</desc>
-<rect width="720" height="730" rx="20" fill="#F2F1E9"/>
-<g font-family="Arial, Helvetica, sans-serif" fill="#18271E">
-<rect x="36" y="36" width="52" height="52" rx="12" fill="#C6F65C"/>
-<text x="62" y="71" text-anchor="middle" font-size="25" font-weight="700" fill="#18271E">LF</text>
-<text x="106" y="57" font-size="14" letter-spacing="2" fill="#46594B">FULL STACK DEVELOPER</text>
-<text x="106" y="79" font-size="14" letter-spacing="2" fill="#46594B">LUCASMEF / GITHUB</text>
-<path d="M36 116H684" stroke="#CAD0C4"/>
-<text x="32" y="209" font-size="66" font-weight="700" letter-spacing="-3">Lucas</text>
-<text x="32" y="279" font-size="66" font-weight="700" letter-spacing="-3">Fernandes<tspan fill="#527725">.</tspan></text>
-<text x="36" y="355" font-size="32" font-weight="700">Aplicações web,</text>
-<text x="36" y="397" font-size="32" font-weight="700">APIs e automação.</text>
-<text x="36" y="446" font-size="21" fill="#46594B">Trabalho no varejo há mais de 15 anos.</text>
-<text x="36" y="476" font-size="21" fill="#46594B">TypeScript, React, Next.js e Python.</text>
-<rect x="36" y="502" width="648" height="142" rx="12" fill="#C6F65C"/>
-<g fill="#18271E"><text x="60" y="537" font-size="13" letter-spacing="2">DESENVOLVIMENTO FULL STACK</text>
-<text x="60" y="580" font-size="26" font-weight="700">Aplicações e integrações</text>
-<text x="60" y="618" font-size="26" font-weight="700">Frontend · APIs · Dados</text></g>
-<text x="36" y="685" font-size="14" letter-spacing="2" fill="#46594B">github.com/lucasmef</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="330" viewBox="0 0 720 330" role="img" aria-labelledby="title desc">
+<title id="title">Lucas Fernandes — Dev Full Stack</title>
+<desc id="desc">Lucas Fernandes. Dev Full Stack.</desc>
+<rect width="720" height="330" rx="20" fill="#F2F1E9"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#18271E"><text x="46" y="110" font-size="64" font-weight="700" letter-spacing="-2">Lucas</text><text x="46" y="180" font-size="64" font-weight="700" letter-spacing="-2">Fernandes<tspan fill="#527725">.</tspan></text>
+<rect x="46" y="226" width="244" height="52" rx="10" fill="#C6F65C"/>
+<text x="68" y="260" font-size="27" font-weight="700" fill="#18271E">Dev Full Stack</text>
 </g></svg>

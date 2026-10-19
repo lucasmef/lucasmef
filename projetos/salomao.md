@@ -8,6 +8,10 @@ Sistema de gestão financeira em operação no varejo, com módulos de cobrança
 
 As regras de negócio relacionam vendas a recebimentos e compras parceladas às projeções mensais de caixa.
 
+<img src="../assets/salomao-demo.png" alt="Salomão: demonstração anonimizada com dados financeiros ilustrativos" width="100%">
+
+<sub>Demonstração visual: captura editada; nomes, valores e gráficos substituídos por dados ilustrativos.</sub>
+
 ### Responsabilidades técnicas
 
 Sou responsável pelo frontend, pelos endpoints da API e pela modelagem de dados, incluindo integrações com Banco Inter e Linx, importações e relatórios.

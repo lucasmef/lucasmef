@@ -8,7 +8,9 @@ ERP para pequenos negócios, construído do zero e entregue em equipe no curso d
 
 [Abrir o sistema](https://icei-puc-minas-pmv-si.github.io/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/) · [Ver o código](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil) · [Vídeo de demonstração](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/blob/main/presentation/video-presentation.mp4)
 
-<img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/934e3b4f6bca44352bde104486054fb00de4383f/docs/img/tests/05.jpeg" alt="Painel da versão acadêmica do Meu Negócio Fácil" width="100%">
+<img src="../assets/meu-negocio-facil-demo.png" alt="Meu Negócio Fácil: demonstração visual com dados ilustrativos" width="100%">
+
+<sub>Demonstração visual: captura da interface editada com dados ilustrativos.</sub>
 
 ### O sistema
 
