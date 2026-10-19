@@ -6,181 +6,96 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasmef"><strong>LinkedIn ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:lucasmef@gmail.com">E-mail</a>
-  &nbsp; · &nbsp;
-  <a href="#projetos">Projetos</a>
-  &nbsp; · &nbsp;
-  <a href="#codigo-aberto">Código aberto</a>
-  &nbsp; · &nbsp;
-  <a href="#ia-e-specs">Como uso IA</a>
+  <a href="https://www.linkedin.com/in/lucasmef"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:lucasmef@gmail.com">E-mail</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="#codigo-publico">Código público</a>
 </p>
 
-### O varejo faz parte do meu jeito de desenvolver
+## Desenvolvimento full stack para problemas de negócio
 
-Trabalho com varejo há mais de 15 anos. Quando desenvolvo um sistema de vendas ou uma integração bancária, penso também em quem precisa usar aquilo durante o expediente. É um trabalho que conheço de perto e que aparece em boa parte dos meus projetos.
+Desenvolvo aplicações com **TypeScript, React, Python e PostgreSQL**. Tenho mais de 15 anos de experiência no varejo e curso **Sistemas de Informação na PUC Minas**. Essa experiência aparece nos sistemas que construo: gestão financeira, estoque, vendas e integrações.
 
-Curso Sistemas de Informação na PUC Minas e desenvolvo aplicações full stack. Cuido tanto das telas quanto do backend e das integrações. Uso agentes de IA durante o desenvolvimento, com especificações no repositório para acompanhar as decisões e conferir o que foi implementado.
+**Busco uma oportunidade em desenvolvimento de software.** Trabalho no frontend, backend e nas regras que conectam a aplicação à operação de quem usa o sistema.
 
 <a id="projetos"></a>
 
-## 01 / Projetos
+## Projetos selecionados
 
-### [Salomão ↗](./projetos/salomao.md)
+### [Salomão · gestão financeira](./projetos/salomao.md)
 
-**O financeiro não acaba quando a venda fecha.**
+Sistema que desenvolvo e mantenho para cobranças, conciliação bancária, planejamento de compras e fluxo de caixa. Atuo nas telas, API, modelagem dos dados e operação em VPS, com integrações com Banco Inter e Linx.
 
-Sistema de gestão financeira que desenvolvo e mantenho em operação. Reúne cobranças, conciliação bancária, planejamento de compras e fluxo de caixa, com integrações com Banco Inter e Linx.
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `GitHub Actions`
 
-Cuido das telas, das regras do financeiro e da publicação em VPS. O projeto tem autenticação com MFA, registros de auditoria e ambientes separados para homologação e produção.
+[Minha contribuição e decisões técnicas →](./projetos/salomao.md) · Código operacional privado
 
-`React` `FastAPI` `PostgreSQL` `Redis` `Linux` `GitHub Actions`
+### [Smart Shop · e-commerce por look](./projetos/smart-shop.md)
 
-[Conheça o projeto e minhas responsabilidades →](./projetos/salomao.md)
+Loja em desenvolvimento para a Raquel Talita. A compra parte de combinações de roupas e segue por peças, tamanhos e disponibilidade. Trabalho no catálogo, checkout, reserva de estoque e integrações de pagamento e frete. A operação comercial ainda exige homologação.
 
----
+`Next.js` `React` `TypeScript` `PostgreSQL` `Supabase`
 
-### [Smart Shop ↗](./projetos/smart-shop.md)
+[Experiência de compra e desafios de estoque →](./projetos/smart-shop.md) · Código privado
 
-**Escolher pelo look, comprar por peça.**
+### [Send Mail · fila de e-mails](./projetos/send-mail.md)
 
-E-commerce que desenvolvo para a loja de moda feminina Raquel Talita. A cliente pode escolher peças a partir de um look e seguir com elas para o checkout. O projeto também envolve reserva de estoque e integrações de pagamento e frete.
+CLI local com fila persistente em SQLite, envio SMTP com TLS e credenciais no Keychain do macOS. O projeto trata idempotência, retomada e falhas após possível aceitação da mensagem para evitar reenvios automáticos indevidos.
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+`Python` `SQLite` `SMTP` `IMAP` `Testes automatizados`
 
-<sub>Em desenvolvimento · Código privado</sub>
+[Arquitetura e tratamento de falhas →](./projetos/send-mail.md)
 
-[Veja a proposta da loja e o trabalho técnico →](./projetos/smart-shop.md)
+<a id="codigo-publico"></a>
 
----
+## Código público
 
-### [Rosto Natural ↗](./projetos/rosto-natural.md)
+| Projeto | O que desenvolvi | Estado |
+| :--- | :--- | :--- |
+| [Reel Transcribe](https://github.com/lucasmef/reel-transcribe) | CLI para baixar conteúdo autorizado e transcrever ou traduzir áudio com Gemini, com testes de erros HTTP, limites e redirecionamentos. | Ferramenta local |
+| [BuilderFlow](https://github.com/lucasmef/builder-flow) | Instalador de templates de contexto, specs e decisões para desenvolvimento assistido por IA. | Fluxo de trabalho reutilizável |
+| [doit.md](https://github.com/lucasmef/doit.md) | Aplicativo de notas, tarefas e calendário com CLI de sincronização Markdown e revisão das alterações. | Em pausa; código preservado como histórico; Actions desativadas |
 
-**Suavizar a imagem sem apagar a expressão.**
+## Ferramentas e experimentos
 
-Projeto de tratamento facial para vídeo, com preservação de textura e sem remodelar a geometria do rosto. Trabalho com máscaras faciais e estabilização entre quadros, além de um tratamento localizado para cabelos rebeldes. A integração com o Adobe Premiere Pro está em desenvolvimento.
+Também desenvolvo ferramentas locais para áudio, vídeo e produtividade. Os links apresentam o escopo, as decisões e os limites de cada projeto.
 
-`C++` `MediaPipe` `Metal` `Adobe UXP`
+| Projeto | Trabalho técnico | Estado |
+| :--- | :--- | :--- |
+| [LookPrint](./projetos/lookprint.md) | Extração de quadros de composições de moda com AVFoundation e Vision. | App local para macOS |
+| [Proxies Maker](./projetos/proxies-maker.md) | Geração de previews de vídeo com Swift, Python e FFmpeg. | Ferramenta local |
+| [Sinal IA](./projetos/sinal-ia.md) | Leitura local de declarações de IA e credenciais de procedência em metadados. | Scanner; não valida assinaturas C2PA |
+| [Rosto Natural](./projetos/rosto-natural.md) | Processamento facial em C++, máscaras e estabilização temporal. | Experimental; integração Adobe em desenvolvimento |
+| [Voz Neural](./projetos/voz-neural.md) | Pipeline local de redução de ruído e tratamento de voz. | Integração Adobe em desenvolvimento |
+| [Editor Viral](./projetos/editor-viral.md) | Composições Remotion e fluxo de montagem rastreável para vídeos digitais. | Piloto em validação |
 
-[Veja o processamento e o estágio do projeto →](./projetos/rosto-natural.md)
+## Trabalho em equipe
 
----
+**Loja de Jogos Usados**, projeto acadêmico em equipe. Fiquei responsável pelos módulos de clientes e vendas, incluindo cadastro, registro de pagamento e baixa de estoque. Também organizei especificações e contratos entre módulos para orientar a integração. O repositório tem acesso restrito à equipe da faculdade.
 
-### [Voz Neural ↗](./projetos/voz-neural.md)
-
-**Menos ruído, espaço para a voz.**
-
-Processamento local de áudio voltado à voz feminina falada em vídeos curtos. Combina modelos de redução de ruído com ajustes de timbre e nível. Desenvolvo também um painel para tratar clipes no Premiere, preservando a mídia original.
-
-`Python` `NumPy` `DeepFilterNet` `RNNoise` `C++` `Adobe UXP`
-
-[Conheça o fluxo de áudio e a integração com o editor →](./projetos/voz-neural.md)
-
----
-
-### Loja de Jogos Usados
-
-**Vender um jogo não pode bagunçar o estoque.**
-
-Projeto da faculdade, desenvolvido em equipe. Fiquei responsável pela parte de **clientes e vendas**. Implementei o cadastro de clientes e o fluxo de venda, incluindo a baixa de estoque e o registro da forma de pagamento. Cada venda mantém seu histórico, e uma confirmação repetida não pode baixar o mesmo item duas vezes.
-
-Também organizei as specs e os contratos entre módulos para orientar a implementação com agentes de IA. Minha parte está concluída e revisada; a integração com as outras partes do sistema continua em andamento.
-
-`JavaScript` `HTML & CSS` `ES Modules` `localStorage` `Testes com Node.js`
-
-<sub>Repositório privado. Demonstração pública após a integração do projeto.</sub>
-<!-- Quando a demo estiver publicada, incluir aqui o link público confirmado do GitSites. -->
-
-<a id="codigo-aberto"></a>
-
-## 02 / Código aberto
-
-Nestes projetos, você também pode consultar o código e as instruções de uso.
-
-### [doit.md ↗](https://github.com/lucasmef/doit.md)
-
-**Para a tarefa não ficar perdida nas anotações.**
-
-Aplicativo de notas e tarefas com calendário integrado. Uma CLI sincroniza o conteúdo com arquivos Markdown locais, que podem ser editados por agentes de IA. As alterações passam por revisão antes de voltar para o aplicativo, e o histórico permite recuperar versões anteriores.
-
-`Next.js` `TypeScript` `Node.js` `Google APIs`
-
-[Como funciona a revisão das alterações](https://github.com/lucasmef/doit.md#auditoria-e-ia)
-
----
-
-### [Growth Agent ↗](https://github.com/lucasmef/growth-agent)
-
-**Você aprova o que a IA escreve.**
-
-Base de um SaaS para planejar e produzir conteúdo para redes sociais com IA. Os rascunhos passam por aprovação humana antes da publicação nas contas de clientes. Há uma área separada para experimentar configurações de geração e acompanhar os resultados.
-
-`Next.js` `Prisma` `AI SDK` `Trigger.dev`
-
-[Funcionalidades e arquitetura](https://github.com/lucasmef/growth-agent#principais-funcionalidades)
-
----
-
-### [Reel Transcribe ↗](https://github.com/lucasmef/reel-transcribe)
-
-**A fala do vídeo, pronta para trabalhar no texto.**
-
-Ferramenta de linha de comando que baixa Reels públicos e usa o Gemini para transcrever a fala em português. Quando o áudio está em outro idioma, gera uma tradução integral. O vídeo fica salvo localmente junto do texto; apenas o áudio é enviado para transcrição.
-
-`Python` `Gemini API` `FFmpeg`
-
-[Instalação e exemplos de uso](https://github.com/lucasmef/reel-transcribe#uso)
+`JavaScript` `HTML` `CSS` `ES Modules` `localStorage` `Testes com Node.js`
 
 <a id="ia-e-specs"></a>
 
-## 03 / Como trabalho com IA
+## Como trabalho
 
-**A spec é o combinado antes do código.**
+Uso especificações para definir o comportamento esperado e agentes de IA para apoiar implementação e revisão. Confiro as mudanças com testes e verificações dos fluxos, conforme a tarefa. Mantenho o contexto e as decisões perto do código; o [BuilderFlow](./projetos/builderflow.md) reúne os templates que utilizo nesse processo.
 
-Uso **Codex, Claude Code e Antigravity** no desenvolvimento. Escrevo specs para definir o comportamento esperado antes de implementar uma funcionalidade. Na loja de jogos, por exemplo, isso inclui o que deve acontecer quando alguém confirma a mesma venda duas vezes ou quando o navegador não consegue salvar os dados.
+## Tecnologias
 
-Quando uso mais de um agente, delimito o que cada um pode alterar e quais partes dependem de outras. A revisão fica separada da implementação. Depois, confiro o funcionamento com testes e verificações no navegador, conforme a mudança.
-
-Mantenho o contexto em arquivos como `AGENTS.md` e crio skills para instruções que preciso reutilizar. Registro decisões de arquitetura em ADRs quando necessário. Isso ajuda a retomar o trabalho em outra sessão sem ter que explicar o projeto inteiro de novo.
-
-### [BuilderFlow ↗](./projetos/builderflow.md)
-
-**Para continuar de onde parei.**
-
-Criei o BuilderFlow para levar essa organização aos meus repositórios. Ele instala uma estrutura de contexto e especificações, com uma spec por funcionalidade. Durante o desenvolvimento, atualizo esse documento com as decisões e o que ainda falta fazer.
-
-[Conheça o BuilderFlow →](./projetos/builderflow.md) · [Consultar o código](https://github.com/lucasmef/builder-flow)
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/workflow-mobile.svg">
-  <img src="./assets/workflow.svg" alt="Etapas do BuilderFlow: contexto, especificação, implementação, revisão e publicação." width="100%">
-</picture>
-
-## 04 / Tecnologias que uso
-
-| Área | Tecnologias |
-| :--- | :--- |
-| **Frontend** | TypeScript · JavaScript · React · Next.js · HTML · CSS · Vite |
-| **Backend** | Python · FastAPI · Node.js · APIs REST |
-| **Dados** | PostgreSQL · Supabase · Redis · Prisma · SQLAlchemy |
-| **IA e automação** | Codex · Claude Code · Antigravity · AI SDK · Trigger.dev |
-| **Projetos de áudio e imagem** | C++ · NumPy · MediaPipe · Metal · Adobe UXP |
-| **Infraestrutura** | GitHub Actions · Vercel · Linux · Docker · Nginx |
+- **Stack principal:** TypeScript, JavaScript, React, Next.js, Python, FastAPI e PostgreSQL.
+- **Dados e operação:** SQLAlchemy, Prisma, Supabase, Redis, GitHub Actions, Linux, Docker e Nginx.
+- **Ferramentas de áudio e vídeo:** Swift, C++, NumPy, MediaPipe, Metal, FFmpeg e Adobe UXP, conforme o projeto.
 
 <details>
   <summary><strong>Formação e cursos</strong></summary>
 
-**Sistemas de Informação · PUC Minas**, em andamento.<br>
-**Tecnólogo em Marketing · Unisul**, 2022.
+Sistemas de Informação · PUC Minas · em andamento.<br>
+Tecnólogo em Marketing · Unisul · 2022.
 
-**AWS Academy:** Cloud Foundations, Cloud Developing e Generative AI Foundations.<br>
-**Vercel:** Next.js App Router Fundamentals e React Foundations for Next.js.
+AWS Academy: Cloud Foundations, Cloud Developing e Generative AI Foundations.<br>
+Vercel: Next.js App Router Fundamentals e React Foundations for Next.js.
 
 </details>
 
----
-
-### Vamos trabalhar no seu próximo projeto?
-
-Para conversar sobre uma oportunidade de trabalho, pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/lucasmef) ou escrever para [lucasmef@gmail.com](mailto:lucasmef@gmail.com).
+Para conversar sobre uma oportunidade: [LinkedIn](https://www.linkedin.com/in/lucasmef) ou [lucasmef@gmail.com](mailto:lucasmef@gmail.com).
