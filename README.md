@@ -44,7 +44,7 @@ CLI local com fila persistente em SQLite, envio SMTP com TLS e credenciais no Ke
 
 `Python` `SQLite` `SMTP` `IMAP` `Testes automatizados`
 
-[Arquitetura e tratamento de falhas →](./projetos/send-mail.md)
+[Consultar o código](https://github.com/lucasmef/send-mail) · [Arquitetura e tratamento de falhas](./projetos/send-mail.md)
 
 <a id="codigo-publico"></a>
 
@@ -58,16 +58,16 @@ CLI local com fila persistente em SQLite, envio SMTP com TLS e credenciais no Ke
 
 ## Ferramentas e experimentos
 
-Também desenvolvo ferramentas locais para áudio, vídeo e produtividade. Os links apresentam o escopo, as decisões e os limites de cada projeto.
+Também desenvolvo ferramentas locais para áudio, vídeo e produtividade. As apresentações explicam o escopo, as decisões e os limites; os repositórios permitem consultar o código.
 
-| Projeto | Trabalho técnico | Estado |
-| :--- | :--- | :--- |
-| [LookPrint](./projetos/lookprint.md) | Extração de quadros de composições de moda com AVFoundation e Vision. | App local para macOS |
-| [Proxies Maker](./projetos/proxies-maker.md) | Geração de previews de vídeo com Swift, Python e FFmpeg. | Ferramenta local |
-| [Sinal IA](./projetos/sinal-ia.md) | Leitura local de declarações de IA e credenciais de procedência em metadados. | Scanner; não valida assinaturas C2PA |
-| [Rosto Natural](./projetos/rosto-natural.md) | Processamento facial em C++, máscaras e estabilização temporal. | Experimental; integração Adobe em desenvolvimento |
-| [Voz Neural](./projetos/voz-neural.md) | Pipeline local de redução de ruído e tratamento de voz. | Integração Adobe em desenvolvimento |
-| [Editor Viral](./projetos/editor-viral.md) | Composições Remotion e fluxo de montagem rastreável para vídeos digitais. | Piloto em validação |
+| Projeto | Trabalho técnico | Estado | Código |
+| :--- | :--- | :--- | :--- |
+| [LookPrint](./projetos/lookprint.md) | Extração de quadros de composições de moda com AVFoundation e Vision. | App local para macOS | [Repositório](https://github.com/lucasmef/print-videos) |
+| [Proxies Maker](./projetos/proxies-maker.md) | Geração de previews de vídeo com Swift, Python e FFmpeg. | Ferramenta local | [Repositório](https://github.com/lucasmef/proxies-maker) |
+| [Sinal IA](./projetos/sinal-ia.md) | Leitura local de declarações de IA e credenciais de procedência em metadados. | Scanner; não valida assinaturas C2PA | [Repositório](https://github.com/lucasmef/anti-ia) |
+| [Rosto Natural](./projetos/rosto-natural.md) | Processamento facial em C++, máscaras e estabilização temporal. | Experimental; integração Adobe em desenvolvimento | [Repositório](https://github.com/lucasmef/rosto-natural) |
+| [Voz Neural](./projetos/voz-neural.md) | Pipeline local de redução de ruído e tratamento de voz. | Integração Adobe em desenvolvimento | [Repositório](https://github.com/lucasmef/voz-neural) |
+| [Editor Viral](./projetos/editor-viral.md) | Composições Remotion e fluxo de montagem rastreável para vídeos digitais. | Piloto em validação | [Repositório](https://github.com/lucasmef/editor-viral) |
 
 ## Trabalho em equipe
 

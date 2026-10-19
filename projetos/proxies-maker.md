@@ -20,6 +20,6 @@ Swift · Python · FFmpeg · VideoToolbox · macOS
 
 ### Código
 
-A publicação do código-fonte está em preparação. Esta página apresenta o escopo e o trabalho técnico.
+[Consultar o código-fonte e as instruções de uso](https://github.com/lucasmef/proxies-maker).
 
 [Conversar comigo](https://www.linkedin.com/in/lucasmef) · [Voltar ao perfil](../README.md)

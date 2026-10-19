@@ -33,9 +33,13 @@ A implementação foi validada fora do editor. Ainda faltam etapas de compilaç�
 
 `C++` `MediaPipe` `Metal` `Python` `JavaScript` `Adobe UXP`
 
+### Código-fonte
+
+[Consultar o repositório e as instruções de uso](https://github.com/lucasmef/rosto-natural).
+
 ### Conheça o trabalho
 
-Esta página apresenta a proposta e as decisões técnicas, sem publicar mídias de referência ou o código do projeto. Para conversar sobre o desenvolvimento, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Rosto Natural](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Rosto%20Natural).
+Esta página apresenta a proposta e as decisões técnicas, sem publicar mídias de referência. Para conversar sobre o desenvolvimento, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Rosto Natural](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Rosto%20Natural).
 
 <!-- Adicionar demonstração pública somente com mídias autorizadas e após confirmar o link. -->
 

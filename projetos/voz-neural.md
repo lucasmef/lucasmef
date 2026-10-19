@@ -37,6 +37,10 @@ O núcleo está preparado para uso local. A integração ao Premiere segue em de
 
 `Python` `NumPy` `DeepFilterNet` `RNNoise` `C++` `Adobe UXP`
 
+### Código-fonte
+
+[Consultar o repositório e as instruções de uso](https://github.com/lucasmef/voz-neural).
+
 ### Conheça o trabalho
 
 Esta apresentação não inclui gravações de referência nem arquivos de clientes. Para conversar sobre o processamento e a integração com o editor, [fale comigo pelo LinkedIn](https://www.linkedin.com/in/lucasmef) ou [envie um e-mail sobre o Voz Neural](mailto:lucasmef@gmail.com?subject=Conhecer%20o%20projeto%20Voz%20Neural).
