@@ -4,15 +4,15 @@
 
 ## Gestão financeira para a rotina do varejo
 
-Sistema de gestão financeira em operação no varejo. Frontend React, API FastAPI e persistência em PostgreSQL, com módulos de cobranças, conciliação bancária, compras, contas a receber e projeções de caixa.
+Sistema de gestão financeira em operação no varejo, com módulos de cobranças, conciliação bancária, compras, contas a receber e projeções de caixa. A arquitetura combina frontend React, API FastAPI e PostgreSQL.
 
 As regras de negócio relacionam vendas a recebimentos e compras parceladas às projeções mensais de caixa.
 
 ### Responsabilidades técnicas
 
-Escopo de atuação: frontend, endpoints da API, modelagem de dados, integrações com Banco Inter e Linx, importações e relatórios.
+Sou responsável pelo frontend, pelos endpoints da API e pela modelagem de dados, incluindo integrações com Banco Inter e Linx, importações e relatórios.
 
-A manutenção inclui a aplicação na VPS, as migrações do banco e as verificações depois das atualizações. Homologação e produção ficam em ambientes separados, com publicação de produção acionada manualmente.
+Também cuido dos serviços na VPS, das migrações do banco e da verificação após os deploys. Homologação e produção usam ambientes separados; o deploy em produção exige acionamento manual.
 
 ### Autenticação, integrações e validação
 
@@ -21,7 +21,7 @@ A manutenção inclui a aplicação na VPS, as migrações do banco e as verific
 - Compras e parcelas ligadas ao planejamento de caixa.
 - Testes das regras e dos fluxos antes de atualizar a aplicação em uso.
 
-Implementação e revisão com apoio de agentes de IA. Definição de escopo, validação e liberação das alterações sob minha responsabilidade.
+Uso agentes de IA no apoio à implementação e à revisão. Sou responsável por definir o escopo, validar as alterações e liberar as atualizações.
 
 O código é privado. Esta página apresenta o trabalho sem expor dados financeiros da operação.
 

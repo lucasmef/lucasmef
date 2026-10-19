@@ -4,7 +4,7 @@
 
 ## E-commerce com navegação por looks
 
-E-commerce para a loja Raquel Talita. A navegação por looks permite selecionar peças e tamanhos de uma composição e adicionar a seleção à sacola.
+E-commerce para a loja Raquel Talita. A cliente seleciona peças e tamanhos a partir de looks completos e adiciona os itens à sacola.
 
 ### Da vitrine ao pedido
 
@@ -16,7 +16,7 @@ As especificações registram o comportamento esperado, e os testes conferem as 
 
 ### Etapa atual
 
-A loja está em desenvolvimento. As integrações e a operação comercial precisam passar por homologação antes da abertura das vendas. O código é privado, e ainda não há uma demonstração pública vinculada a esta apresentação.
+A loja está em desenvolvimento. As integrações e a operação comercial precisam passar por homologação antes da abertura das vendas. O código é privado e ainda não há demonstração pública.
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Supabase` `Vercel`
 

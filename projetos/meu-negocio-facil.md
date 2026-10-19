@@ -4,7 +4,7 @@
 
 ## ERP acadêmico em JavaScript
 
-ERP para pequenos negócios, entregue em equipe no curso de Sistemas de Informação da PUC Minas. Aplicação em HTML, CSS e JavaScript, com arquitetura SPA e persistência em LocalStorage. Implementação sem IA.
+ERP para pequenos negócios, construído do zero e entregue em equipe no curso de Sistemas de Informação da PUC Minas. A aplicação usa HTML, CSS e JavaScript, com navegação SPA e persistência em localStorage. O código foi implementado sem IA.
 
 [Abrir o sistema](https://icei-puc-minas-pmv-si.github.io/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/) · [Ver o código](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil) · [Vídeo de demonstração](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/blob/main/presentation/video-presentation.mp4)
 
@@ -14,11 +14,11 @@ ERP para pequenos negócios, entregue em equipe no curso de Sistemas de Informa�
 
 O usuário pode cadastrar clientes, fornecedores, produtos e serviços, registrar vendas, acompanhar contas a pagar e receber, organizar compromissos e consultar relatórios. O faturamento de serviços permite incluir os insumos usados no trabalho, e uma venda pode ficar em aberto para ser concluída depois.
 
-A navegação foi construída como uma SPA: os módulos mudam sem recarregar a página. Os dados ficam no navegador, em LocalStorage, como parte da proposta acadêmica.
+A navegação foi construída como uma SPA: os módulos mudam sem recarregar a página. Os dados ficam no navegador, em localStorage, como parte da proposta acadêmica.
 
 ### Minha participação
 
-Minha responsabilidade técnica abrangeu a arquitetura SPA, autenticação, PDV, gestão de insumos, dashboard e relatórios de produtos, serviços e faturamento. Como Scrum Master, também organizei o backlog e acompanhei as entregas da equipe.
+Fui responsável pela arquitetura SPA, autenticação, PDV, gestão de insumos, dashboard e relatórios de produtos, serviços e faturamento. Como Scrum Master, também organizei o backlog e acompanhei as entregas da equipe.
 
 Os [meus commits](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil/commits?author=lucasmef) mostram a evolução desse trabalho. Os demais integrantes estão nos [créditos do projeto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-2-pe1-t1-pmv-si-2025-2-pe1-projmeunegociofacil#integrantes).
 
@@ -30,6 +30,6 @@ Essa tela registra um dos testes do sistema: seleção do produto, quantidade, c
 
 O projeto foi entregue como aplicação acadêmica. Para uso comercial com vários usuários, a persistência e a segurança precisariam ser adaptadas a um backend.
 
-`JavaScript` `HTML` `CSS` `LocalStorage` `JSON` `SPA`
+`JavaScript` `HTML` `CSS` `localStorage` `JSON` `SPA`
 
 [LinkedIn](https://www.linkedin.com/in/lucasmef) · [E-mail](mailto:lucasmef@gmail.com) · [Voltar ao perfil](../README.md)

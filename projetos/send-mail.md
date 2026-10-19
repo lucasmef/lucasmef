@@ -4,7 +4,7 @@
 
 ## CLI de envio com fila persistente
 
-CLI em Python para preparação, revisão e envio de e-mails no macOS. Fila persistente em SQLite, credenciais no Keychain e transporte SMTP com TLS.
+CLI em Python para preparar, revisar e enviar e-mails no macOS. As mensagens ficam em uma fila persistente em SQLite, com credenciais no Keychain e conexão SMTP com TLS.
 
 ### Consistência da fila e recuperação de falhas
 

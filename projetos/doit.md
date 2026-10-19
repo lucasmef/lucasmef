@@ -4,9 +4,9 @@
 
 ## Notas, tarefas e calendário no mesmo aplicativo
 
-PWA de produtividade com editor Markdown, checklists, indicadores de progresso e organização de notas e tarefas por pastas. Aplicação Next.js e CLI Node.js organizadas em monorepo, com pacotes compartilhados.
+Aplicativo de produtividade que reúne notas, tarefas e calendário. O editor Markdown oferece checklists e indicadores de progresso, com organização do conteúdo por pastas.
 
-É uma PWA, com interface para computador e celular e opção de instalação pelo navegador. **A versão online saiu do ar e o desenvolvimento está em pausa.** O código e as capturas do aplicativo continuam públicos.
+A interface se adapta a computadores e celulares, com instalação pelo navegador como PWA. **A versão online saiu do ar e o desenvolvimento está em pausa.** O código e as capturas do aplicativo continuam públicos.
 
 [Ver o código](https://github.com/lucasmef/doit.md)
 
@@ -32,7 +32,7 @@ O projeto tem integração com Google Calendar e permite anexar arquivos pelo Go
 
 O monorepo separa a aplicação Next.js, a CLI em Node.js e os pacotes compartilhados. Há módulos para persistência, Markdown, calendário, sincronização e revisão das alterações. O banco pode usar SQLite local ou PostgreSQL, conforme o ambiente.
 
-As telas desta página são registros históricos de teste. Uma retomada do projeto começa pela revisão das dependências e das pendências técnicas; as Actions permanecem desativadas.
+As capturas registram o aplicativo em ambientes de teste. O projeto está preservado como portfólio, com as GitHub Actions desativadas.
 
 `Next.js` `React` `TypeScript` `Node.js` `PWA` `SQLite` `PostgreSQL` `Google APIs`
 

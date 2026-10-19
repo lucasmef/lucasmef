@@ -16,7 +16,7 @@ CLI em Node.js para instalar arquivos de contexto, templates de especificação 
 | `docs/ADR.md` | Decisões de arquitetura. |
 | `specs/artifacts/` | Capturas e outras evidências de validação. |
 
-A CLI foi escrita em Node.js. Ela cria a estrutura que falta e, por padrão, preserva os documentos existentes.
+O instalador cria os arquivos ausentes e preserva os documentos existentes por padrão.
 
 ### Fluxo de trabalho
 
@@ -27,7 +27,6 @@ Cada funcionalidade parte de uma especificação de comportamento. Decisões, te
   <img src="../assets/workflow.svg" alt="Etapas do BuilderFlow: contexto, especificação, implementação, revisão e publicação" width="100%">
 </picture>
 
-É um conjunto de templates e instruções reutilizáveis, com um instalador pequeno para levá-los a outros repositórios.
 
 `Node.js` `JavaScript` `Markdown` `CLI`
 
